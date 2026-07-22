@@ -1,22 +1,8 @@
 {
   "fec_id": "C90022518",
   "name": "OHIO WORKS",
-  "fetched_at": "2026-07-20T20:36:38.492625+00:00",
-  "totals": [
-    {
-      "committee_id": "C90022518",
-      "committee_state": "OH",
-      "coverage_end_date": "2024-12-31T00:00:00",
-      "coverage_start_date": "2024-07-01T00:00:00",
-      "cycle": 2024,
-      "filing_frequency": "Q",
-      "filing_frequency_full": "Quarterly filer",
-      "first_file_date": "2024-09-26",
-      "total_independent_contributions": 0.0,
-      "total_independent_expenditures": 4247968.95,
-      "transaction_coverage_date": null
-    }
-  ],
+  "fetched_at": "2026-07-22T14:22:49.669303+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,

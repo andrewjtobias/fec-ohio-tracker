@@ -1,58 +1,8 @@
 {
   "fec_id": "H6OH01138",
   "name": "CONROY, ERIC",
-  "fetched_at": "2026-07-20T20:31:00.599898+00:00",
+  "fetched_at": "2026-07-22T14:18:20.099359+00:00",
   "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 38641.88,
-      "candidate_election_year": 2026,
-      "candidate_id": "H6OH01138",
-      "contribution_refunds": 42804.29,
-      "contributions": 893751.18,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-07-01T00:00:00",
-      "cycle": null,
-      "disbursements": 1039457.48,
-      "election_full": true,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 572462.71,
-      "individual_itemized_contributions": 271528.4,
-      "individual_unitemized_contributions": 300934.31,
-      "last_beginning_image_number": "202607149874973092",
-      "last_cash_on_hand_end_period": 474156.2,
-      "last_debts_owed_by_committee": 394102.41,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 424451.33,
-      "last_net_operating_expenditures": 242490.38,
-      "last_report_type_full": "TERMINATION REPORT",
-      "last_report_year": 2026,
-      "loan_repayments": 122500.0,
-      "loan_repayments_candidate_loans": 122500.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 287500.0,
-      "loans_made_by_candidate": 287500.0,
-      "net_contributions": 850946.89,
-      "net_operating_expenditures": 778270.23,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 0.0,
-      "operating_expenditures": 778270.23,
-      "other_disbursements": 0.0,
-      "other_political_committee_contributions": 282646.59,
-      "other_receipts": 0.0,
-      "political_party_committee_contributions": 0.0,
-      "receipts": 1513613.68,
-      "refunded_individual_contributions": 41804.29,
-      "refunded_other_political_committee_contributions": 1000.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-06-30T00:00:00",
-      "transfers_from_other_authorized_committee": 332362.5,
-      "transfers_to_other_authorized_committee": 95882.96
-    },
     {
       "all_other_loans": 0.0,
       "candidate_contribution": 38641.88,
@@ -320,7 +270,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -458,7 +408,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -596,7 +546,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -734,7 +684,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -872,7 +822,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1010,7 +960,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1148,7 +1098,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1286,7 +1236,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1424,7 +1374,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1562,7 +1512,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1700,7 +1650,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1838,7 +1788,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1976,7 +1926,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2114,7 +2064,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2252,7 +2202,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2390,7 +2340,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2528,7 +2478,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2666,7 +2616,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2804,7 +2754,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2942,7 +2892,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3080,7 +3030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3218,7 +3168,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3356,7 +3306,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3494,7 +3444,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3632,7 +3582,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3770,7 +3720,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3908,7 +3858,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4046,7 +3996,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4184,7 +4134,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4322,7 +4272,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4460,7 +4410,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4598,7 +4548,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4736,7 +4686,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4874,7 +4824,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5012,7 +4962,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5150,7 +5100,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5288,7 +5238,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5426,7 +5376,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5564,7 +5514,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5702,7 +5652,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5840,7 +5790,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5978,7 +5928,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73231,
+        "idx": 73230,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6110,7 +6060,7 @@
   ],
   "quarterly": [
     {
-      "label": "Q2",
+      "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
       "raised": 532543.04,
@@ -6120,7 +6070,7 @@
       "top_donors": []
     },
     {
-      "label": "12P",
+      "label": "Pre-Primary 2026",
       "coverage_start": "2026-04-01",
       "coverage_end": "2026-04-15",
       "raised": 29615.7,
@@ -6291,7 +6241,7 @@
       ]
     },
     {
-      "label": "Q1",
+      "label": "April Quarterly 2026",
       "coverage_start": "2026-01-01",
       "coverage_end": "2026-03-31",
       "raised": 220905.77,
@@ -6462,7 +6412,7 @@
       ]
     },
     {
-      "label": "YE",
+      "label": "Year-End 2025",
       "coverage_start": "2025-10-01",
       "coverage_end": "2025-12-31",
       "raised": 175702.31,
@@ -6633,7 +6583,7 @@
       ]
     },
     {
-      "label": "Q3",
+      "label": "October Quarterly 2025",
       "coverage_start": "2025-07-01",
       "coverage_end": "2025-09-30",
       "raised": 427380.24,
