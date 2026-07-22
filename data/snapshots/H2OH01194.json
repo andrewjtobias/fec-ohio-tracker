@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH01194",
   "name": "LANDSMAN, GREG",
-  "fetched_at": "2026-07-22T14:21:25.945919+00:00",
+  "fetched_at": "2026-07-22T21:59:26.371350+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -16002,10 +16002,1042 @@
       "transaction_id": "SE.6627"
     }
   ],
-  "errors": [
+  "quarterly": [
     {
-      "step": "quarterly",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+      "label": "July Quarterly 2026",
+      "coverage_start": "2026-04-16",
+      "coverage_end": "2026-06-30",
+      "raised": 988183.84,
+      "spent": 317375.5,
+      "transfers": null,
+      "cash_on_hand": 3610213.67,
+      "top_donors": []
+    },
+    {
+      "label": "Pre-Primary 2026",
+      "coverage_start": "2026-04-01",
+      "coverage_end": "2026-04-15",
+      "raised": 99516.31,
+      "spent": 58399.24,
+      "transfers": null,
+      "cash_on_hand": 2939405.33,
+      "top_donors": [
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+          "amount": 5000.0,
+          "date": "2026-04-10",
+          "employer": null,
+          "city": "ANNAPOLIS",
+          "state": "MD"
+        },
+        {
+          "name": "SWING LEFT",
+          "amount": 3500.0,
+          "date": "2026-04-09",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "WOODS, WARD",
+          "amount": 3500.0,
+          "date": "2026-04-01",
+          "employer": "NOT EMPLOYED",
+          "city": "HAILEY",
+          "state": "ID"
+        },
+        {
+          "name": "SWING LEFT",
+          "amount": 3500.0,
+          "date": "2026-04-09",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "WOODS, WARD",
+          "amount": 3500.0,
+          "date": "2026-04-01",
+          "employer": "NOT EMPLOYED",
+          "city": "HAILEY",
+          "state": "ID"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-04-05",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WHEATLEY, CHRISTINE",
+          "amount": 3500.0,
+          "date": "2026-04-02",
+          "employer": "THE KROGER CO.",
+          "city": "CINCINNATI",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-04-15",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "ROBINSON, LINCOLN",
+          "amount": 3500.0,
+          "date": "2026-04-13",
+          "employer": "NOT EMPLOYED",
+          "city": "RENO",
+          "state": "NV"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-04-15",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "ROBINSON, LINCOLN",
+          "amount": 3500.0,
+          "date": "2026-04-13",
+          "employer": "NOT EMPLOYED",
+          "city": "RENO",
+          "state": "NV"
+        },
+        {
+          "name": "FOWLER, MORGAN CARRINGTON",
+          "amount": 3500.0,
+          "date": "2026-04-10",
+          "employer": "NOT EMPLOYED",
+          "city": "RHINEBECK",
+          "state": "NY"
+        },
+        {
+          "name": "FOWLER, MORGAN CARRINGTON",
+          "amount": 3500.0,
+          "date": "2026-04-10",
+          "employer": "NOT EMPLOYED",
+          "city": "RHINEBECK",
+          "state": "NY"
+        },
+        {
+          "name": "FOWLER, AMY",
+          "amount": 3500.0,
+          "date": "2026-04-10",
+          "employer": "SELF EMPLOYED",
+          "city": "RHINEBECK",
+          "state": "NY"
+        },
+        {
+          "name": "FOWLER, AMY",
+          "amount": 3500.0,
+          "date": "2026-04-10",
+          "employer": "SELF EMPLOYED",
+          "city": "RHINEBECK",
+          "state": "NY"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 2500.0,
+          "date": "2026-04-05",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WEAVER, JARED",
+          "amount": 2500.0,
+          "date": "2026-04-02",
+          "employer": "SALT POINT STRATEGIES",
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "SWING LEFT",
+          "amount": 1785.0,
+          "date": "2026-04-15",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "BENDIT, EMILE",
+          "amount": 1785.0,
+          "date": "2026-04-15",
+          "employer": "NOT EMPLOYED",
+          "city": "BALTIMORE",
+          "state": "MD"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 1428.57,
+          "date": "2026-04-12",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        }
+      ]
+    },
+    {
+      "label": "April Quarterly 2026",
+      "coverage_start": "2026-01-01",
+      "coverage_end": "2026-03-31",
+      "raised": 1716658.03,
+      "spent": 316313.62,
+      "transfers": null,
+      "cash_on_hand": 2898288.26,
+      "top_donors": [
+        {
+          "name": "HOUSE VICTORY PROJECT 2026",
+          "amount": 651210.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CLARK FRONTLINE VICTORY FUND",
+          "amount": 12000.0,
+          "date": "2026-03-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "JEFFRIES BATTLEGROUND PROTECTION FUND",
+          "amount": 9733.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+          "amount": 5000.0,
+          "date": "2026-03-12",
+          "employer": null,
+          "city": "PITTSBURGH",
+          "state": "PA"
+        },
+        {
+          "name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+          "amount": 5000.0,
+          "date": "2026-03-12",
+          "employer": null,
+          "city": "PITTSBURGH",
+          "state": "PA"
+        },
+        {
+          "name": "TEXTILE RENTAL SERVICES ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE (TRSAPAC)",
+          "amount": 5000.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "ALEXANDRIA",
+          "state": "VA"
+        },
+        {
+          "name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+          "amount": 5000.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "NEW VOICE PAC",
+          "amount": 5000.0,
+          "date": "2026-02-26",
+          "employer": null,
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
+          "amount": 5000.0,
+          "date": "2026-02-13",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+          "amount": 5000.0,
+          "date": "2026-02-13",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "JUNTOS PAC",
+          "amount": 5000.0,
+          "date": "2026-01-13",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "IN THIS TOGETHER PAC",
+          "amount": 5000.0,
+          "date": "2026-01-13",
+          "employer": null,
+          "city": "LOUISVILLE",
+          "state": "KY"
+        },
+        {
+          "name": "DEMOCRATIC MAJORITY FUND",
+          "amount": 5000.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE",
+          "amount": 5000.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "PERRY, CLAIRE",
+          "amount": 3500.0,
+          "date": "2026-01-01",
+          "employer": "SELF EMPLOYED",
+          "city": "SAN JOSE",
+          "state": "CA"
+        },
+        {
+          "name": "WIEN, ANITA",
+          "amount": 3500.0,
+          "date": "2026-03-23",
+          "employer": "OBSERVATORY GROUP",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "WIEN, ANITA",
+          "amount": 3500.0,
+          "date": "2026-03-23",
+          "employer": "OBSERVATORY GROUP",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "WEISS, ANTONIO",
+          "amount": 3500.0,
+          "date": "2026-03-27",
+          "employer": "SSW PARTNERS",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "WEISS, ANTONIO",
+          "amount": 3500.0,
+          "date": "2026-03-27",
+          "employer": "SSW PARTNERS",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "WAH, DAVID",
+          "amount": 3500.0,
+          "date": "2026-03-17",
+          "employer": "PJT PARTNERS INC.",
+          "city": "NEW YORK",
+          "state": "NY"
+        }
+      ]
+    },
+    {
+      "label": "Year-End 2025",
+      "coverage_start": "2025-10-01",
+      "coverage_end": "2025-12-31",
+      "raised": 541588.77,
+      "spent": 142719.12,
+      "transfers": null,
+      "cash_on_hand": 1497943.85,
+      "top_donors": [
+        {
+          "name": "JEFFRIES BATTLEGROUND PROTECTION FUND",
+          "amount": 15761.0,
+          "date": "2025-12-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 13750.0,
+          "date": "2025-12-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "GRASSROOTS MEDIA LLC",
+          "amount": 6189.3,
+          "date": "2025-12-23",
+          "employer": null,
+          "city": "BALA CYNWYD",
+          "state": "PA"
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "amount": 5000.0,
+          "date": "2025-12-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+          "amount": 5000.0,
+          "date": "2025-12-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "TRIED-AND-TRUE PAC",
+          "amount": 5000.0,
+          "date": "2025-12-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "SD PAC",
+          "amount": 5000.0,
+          "date": "2025-11-21",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "SD PAC",
+          "amount": 5000.0,
+          "date": "2025-11-21",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "INNOVATION FOR GOOD PAC",
+          "amount": 5000.0,
+          "date": "2025-12-11",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "IBEW PAC VOLUNTARY FUND",
+          "amount": 5000.0,
+          "date": "2025-12-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "HOUSE MAJORITY PAC",
+          "amount": 5000.0,
+          "date": "2025-11-03",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "HOUSE MAJORITY PAC",
+          "amount": 5000.0,
+          "date": "2025-11-03",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "DEMOCRATIC MAJORITY FUND",
+          "amount": 5000.0,
+          "date": "2025-12-19",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+          "amount": 5000.0,
+          "date": "2025-11-25",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+          "amount": 5000.0,
+          "date": "2025-11-25",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "amount": 5000.0,
+          "date": "2025-11-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+          "amount": 5000.0,
+          "date": "2025-11-25",
+          "employer": null,
+          "city": "RESTON",
+          "state": "VA"
+        },
+        {
+          "name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+          "amount": 5000.0,
+          "date": "2025-11-25",
+          "employer": null,
+          "city": "RESTON",
+          "state": "VA"
+        },
+        {
+          "name": "SILICORN VALLEY PAC",
+          "amount": 4000.0,
+          "date": "2025-12-08",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "NEW DEMOCRAT COALITION ACTION FUND",
+          "amount": 4000.0,
+          "date": "2025-12-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        }
+      ]
+    },
+    {
+      "label": "October Quarterly 2025",
+      "coverage_start": "2025-07-01",
+      "coverage_end": "2025-09-30",
+      "raised": 170920.46,
+      "spent": 110921.91,
+      "transfers": null,
+      "cash_on_hand": 1099074.2,
+      "top_donors": [
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 15000.0,
+          "date": "2025-09-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "DEMOCRACY SUMMER 2026 - UNITEMIZED",
+          "amount": 7212.45,
+          "date": "2025-09-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+          "amount": 5000.0,
+          "date": "2025-07-31",
+          "employer": null,
+          "city": "DETROIT",
+          "state": "MI"
+        },
+        {
+          "name": "AMERIPAC THE FUND FOR A GREATER AMERICA",
+          "amount": 5000.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "BUCKLEY, JOHN",
+          "amount": 3500.0,
+          "date": "2025-07-02",
+          "employer": "GRIMLEY CAPITAL",
+          "city": "DENVER",
+          "state": "CO"
+        },
+        {
+          "name": "CHEROKEE NATION",
+          "amount": 3500.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "TAHLEQUAH",
+          "state": "OK"
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "amount": 3000.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3000.0,
+          "date": "2025-07-06",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "GOLDSTEIN, JEFF",
+          "amount": 3000.0,
+          "date": "2025-07-01",
+          "employer": "ACUPOLL",
+          "city": "CINCINNATI",
+          "state": "OH"
+        },
+        {
+          "name": "NO LABELS PAC",
+          "amount": 2500.0,
+          "date": "2025-09-24",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "NO LABELS PAC",
+          "amount": 2500.0,
+          "date": "2025-09-09",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "NATIONAL CORN GROWERS ASSOCIATION PAC (CORNPAC)",
+          "amount": 2500.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "IUPAT POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+          "amount": 2500.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "HANOVER",
+          "state": "MD"
+        },
+        {
+          "name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC POLITICAL ACTION COMMITTEE (ICSC PAC)",
+          "amount": 2500.0,
+          "date": "2025-09-09",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICANS FOR RESPONSIBLE INNOVATION LTD. POLITICAL ACTION COMMITTEE (ARI PAC)",
+          "amount": 2500.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "amount": 2500.0,
+          "date": "2025-08-08",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+          "amount": 2500.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "ROSEMONT",
+          "state": "IL"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 2500.0,
+          "date": "2025-07-20",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WU, ERIC",
+          "amount": 2500.0,
+          "date": "2025-07-15",
+          "employer": "BLACKSTONE",
+          "city": "LARCHMONT",
+          "state": "NY"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 2500.0,
+          "date": "2025-07-06",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        }
+      ]
+    },
+    {
+      "label": "July Quarterly 2025",
+      "coverage_start": "2025-04-01",
+      "coverage_end": "2025-06-30",
+      "raised": 641618.59,
+      "spent": 120985.37,
+      "transfers": null,
+      "cash_on_hand": 1039075.65,
+      "top_donors": [
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 5000.0,
+          "date": "2025-06-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "TRIED-AND-TRUE PAC",
+          "amount": 5000.0,
+          "date": "2025-06-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL",
+          "amount": 5000.0,
+          "date": "2025-05-15",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+          "amount": 5000.0,
+          "date": "2025-05-09",
+          "employer": null,
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "amount": 5000.0,
+          "date": "2025-06-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "MANUFACTURED HOUSING INSTITUTE PAC",
+          "amount": 5000.0,
+          "date": "2025-06-12",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "MACHINISTS NON-PARTISAN POLITICAL LEAGUE OF THE IAMAW",
+          "amount": 5000.0,
+          "date": "2025-06-24",
+          "employer": null,
+          "city": "UPPER MARLBORO",
+          "state": "MD"
+        },
+        {
+          "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "amount": 5000.0,
+          "date": "2025-05-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "JOBS EDUCATION & FAMILIES FIRST (JEFF PAC)",
+          "amount": 5000.0,
+          "date": "2025-06-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "IBEW PAC VOLUNTARY FUND",
+          "amount": 5000.0,
+          "date": "2025-05-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERIPAC THE FUND FOR A GREATER AMERICA",
+          "amount": 5000.0,
+          "date": "2025-06-12",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+          "amount": 5000.0,
+          "date": "2025-06-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOC PAC (NATCA PAC)",
+          "amount": 4000.0,
+          "date": "2025-06-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "amount": 4000.0,
+          "date": "2025-06-06",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "SERVE AMERICA PAC",
+          "amount": 3500.0,
+          "date": "2025-04-01",
+          "employer": null,
+          "city": "SALEM",
+          "state": "MA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-06-15",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INT'L UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "amount": 3500.0,
+          "date": "2025-06-09",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+          "amount": 3500.0,
+          "date": "2025-06-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC",
+          "amount": 3500.0,
+          "date": "2025-06-13",
+          "employer": null,
+          "city": "MCLEAN",
+          "state": "VA"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+          "amount": 3500.0,
+          "date": "2025-06-11",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        }
+      ]
+    },
+    {
+      "label": "April Quarterly 2025",
+      "coverage_start": "2025-01-01",
+      "coverage_end": "2025-03-31",
+      "raised": 474764.38,
+      "spent": 136436.86,
+      "transfers": null,
+      "cash_on_hand": 518442.43,
+      "top_donors": [
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 7000.0,
+          "date": "2025-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "OHIO CORN AND WHEAT GROWERS ASSOC PAC",
+          "amount": 5000.0,
+          "date": "2025-03-28",
+          "employer": null,
+          "city": "DELAWARE",
+          "state": "OH"
+        },
+        {
+          "name": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "amount": 5000.0,
+          "date": "2025-02-27",
+          "employer": null,
+          "city": "ALEXANDRIA",
+          "state": "VA"
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "amount": 5000.0,
+          "date": "2025-02-12",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "AFSCME PEOPLE",
+          "amount": 5000.0,
+          "date": "2025-02-12",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "DREZNER, JEFFREY L.",
+          "amount": 3500.0,
+          "date": "2025-03-26",
+          "employer": "NOT EMPLOYED",
+          "city": "POTOMAC",
+          "state": "MD"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-03-30",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "MAKING A REAL CHANGE PAC",
+          "amount": 3500.0,
+          "date": "2025-03-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-03-23",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WOLTERMAN, NANCY",
+          "amount": 3500.0,
+          "date": "2025-03-17",
+          "employer": "NOT EMPLOYED",
+          "city": "CINCINNATI",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-02-23",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WILLIAMS, PETER",
+          "amount": 3500.0,
+          "date": "2025-02-21",
+          "employer": "OWD LLC",
+          "city": "CINCINNATI",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-02-23",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WILLIAMS, PETER",
+          "amount": 3500.0,
+          "date": "2025-02-21",
+          "employer": "OWD LLC",
+          "city": "CINCINNATI",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-02-23",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WILLIAMS, ANN",
+          "amount": 3500.0,
+          "date": "2025-02-21",
+          "employer": "NOT EMPLOYED",
+          "city": "CINCINNATI",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-02-23",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WILLIAMS, ANN",
+          "amount": 3500.0,
+          "date": "2025-02-21",
+          "employer": "NOT EMPLOYED",
+          "city": "CINCINNATI",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-03-16",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WAYNE, BETH",
+          "amount": 3500.0,
+          "date": "2025-03-16",
+          "employer": "SELF EMPLOYED",
+          "city": "CINCINNATI",
+          "state": "OH"
+        }
+      ]
     }
   ]
 }

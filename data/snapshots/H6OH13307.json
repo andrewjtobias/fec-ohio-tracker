@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH13307",
   "name": "COLEMAN, CAREY",
-  "fetched_at": "2026-07-22T14:18:06.119371+00:00",
+  "fetched_at": "2026-07-22T21:56:10.199421+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -123,7 +123,6 @@
       "update_date": "2026-01-07"
     }
   ],
-  "schedule_e_target": [],
   "quarterly": [
     {
       "label": "July Quarterly 2026",
@@ -324,6 +323,12 @@
           "state": "OH"
         }
       ]
+    }
+  ],
+  "errors": [
+    {
+      "step": "schedule_e_target",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
