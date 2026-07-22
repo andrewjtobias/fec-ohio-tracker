@@ -1,0 +1,9 @@
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# macOS Finder metadata
+.DS_Store
+
+# Local environment / secrets - never commit the real API key
+.env
