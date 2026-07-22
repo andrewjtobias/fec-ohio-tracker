@@ -1,58 +1,8 @@
 {
   "fec_id": "H6OH15112",
   "name": "LEONARD, DON RALPH",
-  "fetched_at": "2026-07-20T20:37:25.860137+00:00",
+  "fetched_at": "2026-07-22T14:23:48.655157+00:00",
   "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 1919.63,
-      "candidate_election_year": 2026,
-      "candidate_id": "H6OH15112",
-      "contribution_refunds": 1500.0,
-      "contributions": 596657.6,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-04-01T00:00:00",
-      "cycle": null,
-      "disbursements": 354255.88,
-      "election_full": true,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 583487.97,
-      "individual_itemized_contributions": 493000.1,
-      "individual_unitemized_contributions": 90487.87,
-      "last_beginning_image_number": "202607159875711210",
-      "last_cash_on_hand_end_period": 252401.72,
-      "last_debts_owed_by_committee": 10000.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 320046.9,
-      "last_net_operating_expenditures": 143446.43,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 10000.0,
-      "loans_made_by_candidate": 10000.0,
-      "net_contributions": 595157.6,
-      "net_operating_expenditures": 352755.88,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 0.0,
-      "operating_expenditures": 352755.88,
-      "other_disbursements": 0.0,
-      "other_political_committee_contributions": 11250.0,
-      "other_receipts": 0.0,
-      "political_party_committee_contributions": 0.0,
-      "receipts": 606657.6,
-      "refunded_individual_contributions": 0.0,
-      "refunded_other_political_committee_contributions": 1500.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-04-15T00:00:00",
-      "transfers_from_other_authorized_committee": 0.0,
-      "transfers_to_other_authorized_committee": 0.0
-    },
     {
       "all_other_loans": 0.0,
       "candidate_contribution": 1919.63,
@@ -319,7 +269,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73869,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -377,7 +327,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-18",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "UNITY & JUSTICE FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -460,7 +410,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73869,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -518,7 +468,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-18",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "UNITY & JUSTICE FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -601,7 +551,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73869,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -659,7 +609,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-18",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "UNITY & JUSTICE FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -742,7 +692,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73869,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -800,7 +750,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-18",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "UNITY & JUSTICE FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -883,7 +833,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73869,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -941,7 +891,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-18",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "UNITY & JUSTICE FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -1018,7 +968,7 @@
   ],
   "quarterly": [
     {
-      "label": "Q2",
+      "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
       "raised": 320046.9,
@@ -1028,7 +978,7 @@
       "top_donors": []
     },
     {
-      "label": "12P",
+      "label": "Pre-Primary 2026",
       "coverage_start": "2026-04-01",
       "coverage_end": "2026-04-15",
       "raised": 25216.7,
@@ -1199,7 +1149,7 @@
       ]
     },
     {
-      "label": "Q1",
+      "label": "April Quarterly 2026",
       "coverage_start": "2026-01-01",
       "coverage_end": "2026-03-31",
       "raised": 139076.15,
@@ -1370,7 +1320,7 @@
       ]
     },
     {
-      "label": "YE",
+      "label": "Year-End 2025",
       "coverage_start": "2025-10-01",
       "coverage_end": "2025-12-31",
       "raised": 86898.1,
@@ -1541,7 +1491,7 @@
       ]
     },
     {
-      "label": "Q3",
+      "label": "October Quarterly 2025",
       "coverage_start": "2025-04-01",
       "coverage_end": "2025-09-30",
       "raised": 35419.75,

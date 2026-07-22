@@ -1,58 +1,8 @@
 {
   "fec_id": "S6OH00304",
   "name": "HUSTED, JON",
-  "fetched_at": "2026-07-20T20:33:25.984828+00:00",
+  "fetched_at": "2026-07-22T14:20:44.888580+00:00",
   "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "candidate_election_year": 2026,
-      "candidate_id": "S6OH00304",
-      "contribution_refunds": 218791.13,
-      "contributions": 8662572.05,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-01-01T00:00:00",
-      "cycle": null,
-      "disbursements": 4940716.33,
-      "election_full": true,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 6280012.05,
-      "individual_itemized_contributions": 4436372.48,
-      "individual_unitemized_contributions": 1843639.57,
-      "last_beginning_image_number": "202607119874877979",
-      "last_cash_on_hand_end_period": 9419311.2,
-      "last_debts_owed_by_committee": 0.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 2447456.33,
-      "last_net_operating_expenditures": 2467314.94,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 0.0,
-      "loans_made_by_candidate": 0.0,
-      "net_contributions": 8443780.92,
-      "net_operating_expenditures": 4692197.47,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 21564.4,
-      "operating_expenditures": 4713761.87,
-      "other_disbursements": 3500.0,
-      "other_political_committee_contributions": 2320510.0,
-      "other_receipts": 0.0,
-      "political_party_committee_contributions": 62050.0,
-      "receipts": 14360027.53,
-      "refunded_individual_contributions": 211050.11,
-      "refunded_other_political_committee_contributions": 7741.02,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-06-30T00:00:00",
-      "transfers_from_other_authorized_committee": 5675891.08,
-      "transfers_to_other_authorized_committee": 4663.33
-    },
     {
       "all_other_loans": 0.0,
       "candidate_contribution": 0.0,
@@ -116,6 +66,159 @@
         1945218,
         1956443,
         1958739,
+        1974529,
+        1999510,
+        2001101
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 10,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202607219894399872",
+      "candidate_id": "S6OH00304",
+      "candidate_name": "HUSTED, JON",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "S6OH00304",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/101/2001101.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202607219894399876",
+      "fec_file_id": "FEC-2001101",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2001101.fec",
+      "file_number": 2001101,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/S6OH00304/2001101/",
+      "is_amended": false,
+      "means_filed": "e-file",
+      "most_recent": true,
+      "most_recent_file_number": 2001101,
+      "net_donations": null,
+      "office": "S",
+      "opposition_personal_funds": null,
+      "pages": 5,
+      "party": "REP",
+      "pdf_url": "https://docquery.fec.gov/pdf/872/202607219894399872/202607219894399872.pdf",
+      "previous_file_number": 1999510,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-07-21T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4072120261535155009",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "HUSTED, JON",
+      "update_date": "2026-07-21"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1864376,
+        1882659,
+        1884114,
+        1929997,
+        1931466,
+        1945218,
+        1956443,
+        1958739,
+        1974529,
+        1999510
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 9,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202607209890899972",
+      "candidate_id": "S6OH00304",
+      "candidate_name": "HUSTED, JON",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "S6OH00304",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/510/1999510.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202607209890899976",
+      "fec_file_id": "FEC-1999510",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/1999510.fec",
+      "file_number": 1999510,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/S6OH00304/1999510/",
+      "is_amended": true,
+      "means_filed": "e-file",
+      "most_recent": false,
+      "most_recent_file_number": 2001101,
+      "net_donations": null,
+      "office": "S",
+      "opposition_personal_funds": null,
+      "pages": 5,
+      "party": "REP",
+      "pdf_url": "https://docquery.fec.gov/pdf/972/202607209890899972/202607209890899972.pdf",
+      "previous_file_number": 1974529,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-07-20T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4072020261534885003",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "HUSTED, JON",
+      "update_date": "2026-07-20"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1864376,
+        1882659,
+        1884114,
+        1929997,
+        1931466,
+        1945218,
+        1956443,
+        1958739,
         1974529
       ],
       "amendment_indicator": "A",
@@ -152,10 +255,10 @@
       "form_type": "F2",
       "house_personal_funds": null,
       "html_url": "https://docquery.fec.gov/cgi-bin/forms/S6OH00304/1974529/",
-      "is_amended": false,
+      "is_amended": true,
       "means_filed": "e-file",
-      "most_recent": true,
-      "most_recent_file_number": 1974529,
+      "most_recent": false,
+      "most_recent_file_number": 2001101,
       "net_donations": null,
       "office": "S",
       "opposition_personal_funds": null,
@@ -229,7 +332,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 1974529,
+      "most_recent_file_number": 2001101,
       "net_donations": null,
       "office": "S",
       "opposition_personal_funds": null,
@@ -302,7 +405,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 1974529,
+      "most_recent_file_number": 2001101,
       "net_donations": null,
       "office": "S",
       "opposition_personal_funds": null,
@@ -326,149 +429,6 @@
       "total_receipts": null,
       "treasurer_name": "HUSTED, JON",
       "update_date": "2026-03-27"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1864376,
-        1882659,
-        1884114,
-        1929997,
-        1931466,
-        1945218
-      ],
-      "amendment_indicator": "A",
-      "amendment_version": 5,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202602069825933266",
-      "candidate_id": "S6OH00304",
-      "candidate_name": "HUSTED, JON",
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "S6OH00304",
-      "committee_name": null,
-      "committee_type": null,
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/218/1945218.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Candidacy 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": 2026,
-      "ending_image_number": "202602069825933269",
-      "fec_file_id": "FEC-1945218",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1945218.fec",
-      "file_number": 1945218,
-      "form_category": "STATEMENT",
-      "form_type": "F2",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/S6OH00304/1945218/",
-      "is_amended": true,
-      "means_filed": "e-file",
-      "most_recent": false,
-      "most_recent_file_number": 1974529,
-      "net_donations": null,
-      "office": "S",
-      "opposition_personal_funds": null,
-      "pages": 4,
-      "party": "REP",
-      "pdf_url": "https://docquery.fec.gov/pdf/266/202602069825933266/202602069825933266.pdf",
-      "previous_file_number": 1931466,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-02-06T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2026,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": "OH",
-      "sub_id": "4020620261304665012",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "HUSTED, JON",
-      "update_date": "2026-02-06"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1864376,
-        1882659,
-        1884114,
-        1929997,
-        1931466
-      ],
-      "amendment_indicator": "A",
-      "amendment_version": 4,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202601089793927751",
-      "candidate_id": "S6OH00304",
-      "candidate_name": "HUSTED, JON",
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "S6OH00304",
-      "committee_name": null,
-      "committee_type": null,
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/466/1931466.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Candidacy 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": 2026,
-      "ending_image_number": "202601089793927753",
-      "fec_file_id": "FEC-1931466",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1931466.fec",
-      "file_number": 1931466,
-      "form_category": "STATEMENT",
-      "form_type": "F2",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/S6OH00304/1931466/",
-      "is_amended": true,
-      "means_filed": "e-file",
-      "most_recent": false,
-      "most_recent_file_number": 1974529,
-      "net_donations": null,
-      "office": "S",
-      "opposition_personal_funds": null,
-      "pages": 3,
-      "party": "REP",
-      "pdf_url": "https://docquery.fec.gov/pdf/751/202601089793927751/202601089793927751.pdf",
-      "previous_file_number": 1929997,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-01-08T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2026,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": "OH",
-      "sub_id": "4010820261300360023",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "HUSTED, JON",
-      "update_date": "2026-01-08"
     }
   ],
   "schedule_e_target": [
@@ -481,7 +441,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -548,7 +508,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -631,7 +591,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -698,7 +658,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -781,7 +741,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -848,7 +808,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -931,7 +891,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -998,7 +958,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -1081,7 +1041,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1148,7 +1108,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -1231,7 +1191,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1298,7 +1258,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -1381,7 +1341,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1451,7 +1411,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2019-10-24",
-        "last_file_date": "2026-06-27",
+        "last_file_date": "2026-07-20",
         "name": "CLEARPATH ACTION FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1534,7 +1494,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1604,7 +1564,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2019-10-24",
-        "last_file_date": "2026-06-27",
+        "last_file_date": "2026-07-20",
         "name": "CLEARPATH ACTION FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1687,7 +1647,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1754,7 +1714,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -1837,7 +1797,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1904,7 +1864,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -1987,7 +1947,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2057,7 +2017,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2019-10-24",
-        "last_file_date": "2026-06-27",
+        "last_file_date": "2026-07-20",
         "name": "CLEARPATH ACTION FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -2140,7 +2100,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2210,7 +2170,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2019-10-24",
-        "last_file_date": "2026-06-27",
+        "last_file_date": "2026-07-20",
         "name": "CLEARPATH ACTION FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -2293,7 +2253,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2360,7 +2320,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2443,7 +2403,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2510,7 +2470,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2593,7 +2553,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2660,7 +2620,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2743,7 +2703,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2810,7 +2770,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2893,7 +2853,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3046,7 +3006,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3113,7 +3073,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3196,7 +3156,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3263,7 +3223,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3346,7 +3306,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3413,7 +3373,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3496,7 +3456,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3563,7 +3523,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3646,7 +3606,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3713,7 +3673,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3796,7 +3756,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3863,7 +3823,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3946,7 +3906,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4013,7 +3973,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -4096,7 +4056,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4163,7 +4123,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4246,7 +4206,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4313,7 +4273,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4396,7 +4356,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4463,7 +4423,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4546,7 +4506,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4613,7 +4573,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4696,7 +4656,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4763,7 +4723,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4846,7 +4806,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4913,7 +4873,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4996,7 +4956,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5063,7 +5023,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -5146,7 +5106,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5213,7 +5173,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -5296,7 +5256,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5363,7 +5323,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -5446,7 +5406,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5513,7 +5473,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -5596,7 +5556,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5663,7 +5623,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -5746,7 +5706,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5813,7 +5773,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -5896,7 +5856,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5963,7 +5923,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -6046,7 +6006,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6113,7 +6073,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6196,7 +6156,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6263,7 +6223,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6346,7 +6306,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6413,7 +6373,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6496,7 +6456,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6563,7 +6523,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6646,7 +6606,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6713,7 +6673,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6796,7 +6756,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6863,7 +6823,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6946,7 +6906,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7099,7 +7059,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7252,7 +7212,7 @@
       "back_reference_transaction_id": "XEALC1637",
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7319,7 +7279,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -7402,7 +7362,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7469,7 +7429,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -7552,7 +7512,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7705,7 +7665,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7858,7 +7818,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7925,7 +7885,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -8008,7 +7968,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8075,7 +8035,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -8158,7 +8118,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8225,7 +8185,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -8308,7 +8268,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8375,7 +8335,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -8458,7 +8418,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8525,7 +8485,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -8608,7 +8568,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8675,7 +8635,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-07-19",
+        "last_file_date": "2026-07-20",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -8758,7 +8718,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8825,7 +8785,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -8908,7 +8868,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8975,7 +8935,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -9058,7 +9018,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9211,7 +9171,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9364,7 +9324,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9422,7 +9382,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-30",
-        "last_file_date": "2026-07-16",
+        "last_file_date": "2026-07-21",
         "name": "WIN IT BACK PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -9505,7 +9465,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9563,7 +9523,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-30",
-        "last_file_date": "2026-07-16",
+        "last_file_date": "2026-07-21",
         "name": "WIN IT BACK PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -9646,7 +9606,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9713,7 +9673,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -9796,7 +9756,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9863,7 +9823,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -9946,7 +9906,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10013,7 +9973,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -10096,7 +10056,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10154,7 +10114,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-30",
-        "last_file_date": "2026-07-16",
+        "last_file_date": "2026-07-21",
         "name": "WIN IT BACK PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10237,7 +10197,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10295,7 +10255,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-30",
-        "last_file_date": "2026-07-16",
+        "last_file_date": "2026-07-21",
         "name": "WIN IT BACK PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10378,7 +10338,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10531,7 +10491,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10684,7 +10644,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10837,7 +10797,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10990,7 +10950,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11143,7 +11103,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11296,7 +11256,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11449,7 +11409,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11602,7 +11562,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11755,7 +11715,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11908,7 +11868,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11975,7 +11935,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -12058,7 +12018,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12125,7 +12085,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-02-02",
-        "last_file_date": "2026-07-07",
+        "last_file_date": "2026-07-20",
         "name": "INDIVISIBLE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -12208,7 +12168,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128622,
+        "idx": 128628,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12275,7 +12235,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-06-18",
+        "last_file_date": "2026-07-20",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -12352,7 +12312,7 @@
   ],
   "quarterly": [
     {
-      "label": "Q2",
+      "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
       "raised": 3831806.2,
@@ -12362,7 +12322,7 @@
       "top_donors": []
     },
     {
-      "label": "12P",
+      "label": "Pre-Primary 2026",
       "coverage_start": "2026-04-01",
       "coverage_end": "2026-04-15",
       "raised": 260995.17,
@@ -12533,7 +12493,7 @@
       ]
     },
     {
-      "label": "Q1",
+      "label": "April Quarterly 2026",
       "coverage_start": "2026-01-01",
       "coverage_end": "2026-03-31",
       "raised": 2909122.62,
@@ -12704,7 +12664,7 @@
       ]
     },
     {
-      "label": "YE",
+      "label": "Year-End 2025",
       "coverage_start": "2025-10-01",
       "coverage_end": "2025-12-31",
       "raised": 1508472.6,
@@ -12875,7 +12835,7 @@
       ]
     },
     {
-      "label": "Q3",
+      "label": "October Quarterly 2025",
       "coverage_start": "2025-07-01",
       "coverage_end": "2025-09-30",
       "raised": 2774632.23,
@@ -13046,7 +13006,7 @@
       ]
     },
     {
-      "label": "Q2",
+      "label": "July Quarterly 2025",
       "coverage_start": "2025-04-01",
       "coverage_end": "2025-06-30",
       "raised": 2004481.3,
@@ -13217,7 +13177,7 @@
       ]
     },
     {
-      "label": "Q1",
+      "label": "April Quarterly 2025",
       "coverage_start": "2025-01-01",
       "coverage_end": "2025-03-31",
       "raised": 1061114.34,

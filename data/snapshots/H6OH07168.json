@@ -1,58 +1,8 @@
 {
   "fec_id": "H6OH07168",
   "name": "POINDEXTER, BRIAN",
-  "fetched_at": "2026-07-20T20:36:41.783364+00:00",
+  "fetched_at": "2026-07-22T14:23:12.590558+00:00",
   "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 1420.6,
-      "candidate_election_year": 2026,
-      "candidate_id": "H6OH07168",
-      "contribution_refunds": 2496.5,
-      "contributions": 603152.82,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-11-17T00:00:00",
-      "cycle": null,
-      "disbursements": 290865.42,
-      "election_full": true,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 439659.22,
-      "individual_itemized_contributions": 290757.58,
-      "individual_unitemized_contributions": 148901.64,
-      "last_beginning_image_number": "202607159875542748",
-      "last_cash_on_hand_end_period": 312290.17,
-      "last_debts_owed_by_committee": 0.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 383798.68,
-      "last_net_operating_expenditures": 162370.94,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 0.0,
-      "loans_made_by_candidate": 0.0,
-      "net_contributions": 600656.32,
-      "net_operating_expenditures": 288241.47,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 2.45,
-      "operating_expenditures": 288243.92,
-      "other_disbursements": 125.0,
-      "other_political_committee_contributions": 162073.0,
-      "other_receipts": 0.32,
-      "political_party_committee_contributions": 0.0,
-      "receipts": 603155.59,
-      "refunded_individual_contributions": 96.5,
-      "refunded_other_political_committee_contributions": 2400.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-04-15T00:00:00",
-      "transfers_from_other_authorized_committee": 0.0,
-      "transfers_to_other_authorized_committee": 0.0
-    },
     {
       "all_other_loans": 0.0,
       "candidate_contribution": 1420.6,
@@ -183,7 +133,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -327,7 +277,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -465,7 +415,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -603,7 +553,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -673,7 +623,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-07-02",
-        "last_file_date": "2026-07-17",
+        "last_file_date": "2026-07-21",
         "name": "WORKING FAMILIES PARTY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -756,7 +706,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -826,7 +776,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-07-02",
-        "last_file_date": "2026-07-17",
+        "last_file_date": "2026-07-21",
         "name": "WORKING FAMILIES PARTY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -909,7 +859,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -979,7 +929,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-07-02",
-        "last_file_date": "2026-07-17",
+        "last_file_date": "2026-07-21",
         "name": "WORKING FAMILIES PARTY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1062,7 +1012,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1132,7 +1082,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-07-02",
-        "last_file_date": "2026-07-17",
+        "last_file_date": "2026-07-21",
         "name": "WORKING FAMILIES PARTY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1215,7 +1165,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1353,7 +1303,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1491,7 +1441,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1629,7 +1579,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1767,7 +1717,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1905,7 +1855,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2043,7 +1993,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2181,7 +2131,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2319,7 +2269,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2457,7 +2407,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2512,7 +2462,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-05-19",
-        "last_file_date": "2026-06-20",
+        "last_file_date": "2026-07-20",
         "name": "BDA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2595,7 +2545,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2650,7 +2600,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-05-19",
-        "last_file_date": "2026-06-20",
+        "last_file_date": "2026-07-20",
         "name": "BDA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2733,7 +2683,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73501,
+        "idx": 73500,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2788,7 +2738,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-05-19",
-        "last_file_date": "2026-06-20",
+        "last_file_date": "2026-07-20",
         "name": "BDA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2865,7 +2815,7 @@
   ],
   "quarterly": [
     {
-      "label": "Q2",
+      "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
       "raised": 386231.31,
@@ -2875,7 +2825,7 @@
       "top_donors": []
     },
     {
-      "label": "12P",
+      "label": "Pre-Primary 2026",
       "coverage_start": "2026-04-01",
       "coverage_end": "2026-04-15",
       "raised": 79615.79,
@@ -3046,7 +2996,7 @@
       ]
     },
     {
-      "label": "Q1",
+      "label": "April Quarterly 2026",
       "coverage_start": "2025-11-17",
       "coverage_end": "2026-03-31",
       "raised": 137308.49,
