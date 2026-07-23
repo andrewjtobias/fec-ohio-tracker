@@ -1,7 +1,64 @@
 {
   "fec_id": "C00940221",
   "name": "COMMITTEE TO ELECT JANICE BECKETT TO CONGRESS",
-  "fetched_at": "2026-07-23T17:05:23.476229+00:00",
+  "fetched_at": "2026-07-23T21:39:55.354896+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 9641.47,
+      "cash_on_hand_beginning_period": 0.0,
+      "committee_designation": "P",
+      "committee_designation_full": "Principal campaign committee",
+      "committee_id": "C00940221",
+      "committee_name": "COMMITTEE TO ELECT JANICE BECKETT TO CONGRESS",
+      "committee_state": "OH",
+      "committee_type": "H",
+      "committee_type_full": "House",
+      "contribution_refunds": 0.0,
+      "contributions": 29827.47,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2026-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 29827.47,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_f1_date": "2026-02-22",
+      "first_file_date": "2026-02-22",
+      "individual_contributions": 20186.0,
+      "individual_itemized_contributions": 10635.0,
+      "individual_unitemized_contributions": 9551.0,
+      "last_beginning_image_number": "202607159875985396",
+      "last_cash_on_hand_end_period": 0.0,
+      "last_debts_owed_by_committee": 0.0,
+      "last_debts_owed_to_committee": 0.0,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 0.0,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 29827.47,
+      "net_operating_expenditures": 29827.47,
+      "offsets_to_operating_expenditures": 0.0,
+      "operating_expenditures": 29827.47,
+      "organization_type": null,
+      "organization_type_full": null,
+      "other_disbursements": 0.0,
+      "other_political_committee_contributions": 0.0,
+      "other_receipts": 0.0,
+      "party_full": "DEMOCRATIC PARTY",
+      "political_party_committee_contributions": 0.0,
+      "receipts": 29827.47,
+      "refunded_individual_contributions": 0.0,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "transaction_coverage_date": "2026-04-15",
+      "transfers_from_other_authorized_committee": 0.0,
+      "transfers_to_other_authorized_committee": 0.0,
+      "treasurer_name": "BECKETT, JANICE"
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -270,12 +327,6 @@
       "total_receipts": null,
       "treasurer_name": "BECKETT, JANICE",
       "update_date": "2026-02-22"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00940221/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
