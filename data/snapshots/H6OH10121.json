@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH10121",
   "name": "KNICKERBOCKER, KRISTINA",
-  "fetched_at": "2026-07-23T09:18:46.665122+00:00",
+  "fetched_at": "2026-07-23T13:52:44.072174+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -378,8 +378,8 @@
       "label": "April Quarterly 2026",
       "coverage_start": "2026-01-01",
       "coverage_end": "2026-03-31",
-      "raised": 115579.35,
-      "spent": 83659.11,
+      "raised": 115607.37,
+      "spent": 83687.13,
       "transfers": null,
       "cash_on_hand": 31920.24,
       "top_donors": [
