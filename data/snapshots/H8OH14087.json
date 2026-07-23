@@ -1,8 +1,7 @@
 {
   "fec_id": "H8OH14087",
   "name": "O'NEILL, WILLIAM MICHAEL",
-  "fetched_at": "2026-07-23T13:53:52.316369+00:00",
-  "totals": [],
+  "fetched_at": "2026-07-23T17:09:36.698712+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -197,6 +196,12 @@
       "total_receipts": null,
       "treasurer_name": null,
       "update_date": "2007-07-03"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H8OH14087/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
