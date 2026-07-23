@@ -395,19 +395,27 @@ def fetch_entity(client: FECClient, entity: dict, skip_schedules: bool, big_dono
         filings = safe("filings", lambda: client.committee_filings(fec_id))
         if filings is not None:
             snapshot["filings"] = filings
-            # Committees discovered via discover_ie_committees.py are often
-            # national PACs (e.g. WIN IT BACK PAC) that we started tracking
-            # solely because they spent on ONE Ohio race. Their FEC filings
-            # (e.g. F24 24-hour IE reports) cover their spending nationwide,
-            # not just Ohio, and the filing record itself carries no
-            # candidate/race info to filter on. So: keep the filings in the
-            # snapshot (harmless), but don't surface "new filing" events for
-            # them -- their actually-relevant-to-Ohio spending is already
-            # captured properly-scoped via schedule_e_by_target on the
-            # candidate side. Confirmed as the bug source on 2026-07-23 (a
-            # Missouri Taylor Burks IE report from WIN IT BACK PAC leaking
-            # into Recent Activity).
-            if has_prev and entity.get("source") != "ie_discovery":
+            # Any watch-tier committee that isn't itself an Ohio-registered
+            # entity is presumptively a national PAC we're only tracking
+            # because it made ONE Ohio-relevant expenditure -- its FEC
+            # filings (F24 24-hour IE reports, F3X periodic reports, etc.)
+            # cover its activity everywhere, not just Ohio, and the filing
+            # record itself carries no candidate/race info to filter on.
+            # Two ways a committee ends up flagged as "national, not Ohio":
+            #   - source == "ie_discovery": found via discover_ie_committees.py,
+            #     which never populates `state` for these rows.
+            #   - state not "OH": added manually (before that script existed)
+            #     but registered elsewhere -- e.g. DEFEND AMERICAN JOBS (VA),
+            #     confirmed as a second instance of this same bug on
+            #     2026-07-23 (an Amanda McKinney filing, not an Ohio race).
+            # in_cycle committees are exempt -- those are always candidates'
+            # own principal/joint fundraising committees (or a deliberately
+            # promoted, curated exception), so their filings are inherently
+            # relevant regardless of registered state.
+            is_national_pac = entity.get("tracking_tier") != "in_cycle" and (
+                entity.get("source") == "ie_discovery" or entity.get("state") != "OH"
+            )
+            if has_prev and not is_national_pac:
                 diff_filings(entity, prev.get("filings", []), filings)
 
         # Itemized Schedule A/B/E pulls (donor-level detail) are the other
