@@ -1,7 +1,7 @@
 {
   "fec_id": "C00916288",
   "name": "FRIENDS OF SHERROD BROWN",
-  "fetched_at": "2026-07-23T09:17:33.372135+00:00",
+  "fetched_at": "2026-07-23T13:51:49.760178+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1303,17 +1303,17 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MATTHEW",
-        "designated_agent_last_name": "BIGGS",
-        "designated_agent_middle_name": "S",
-        "designated_agent_name": "BIGGS, MATTHEW S",
-        "designated_agent_phone_number": null,
+        "designated_agent_first_name": "PAUL",
+        "designated_agent_last_name": "SHEARON",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "SHEARON, PAUL",
+        "designated_agent_phone_number": "2022394880",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
         "designated_agent_street1": "501 3RD STREET NW",
         "designated_agent_street2": "SUITE 701",
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
+        "designated_agent_title": "ASST TREASURER",
         "designated_agent_zip": "20001",
         "designation": "U",
         "designation_full": "Unauthorized",
