@@ -397,7 +397,10 @@ def activity_table_html(events):
           detail = bits2.filter(Boolean).join(' · ');
         }}
         return {{
-          date: e.date || e.receipt_date || '',
+          // FEC dates come back as full ISO datetimes (always midnight,
+          // e.g. "2026-07-21T00:00:00") even though there's no real
+          // time-of-day component -- slice to just the date part.
+          date: (e.date || e.receipt_date || '').slice(0, 10),
           type: e.type,
           typeLabel: TYPE_LABELS[e.type] || e.type,
           target: target,
@@ -692,8 +695,8 @@ def build():
   main {{ padding: 24px 32px 64px; max-width: 1200px; margin: 0 auto; }}
   section {{ margin-bottom: 36px; }}
   h2 {{ font-size: 16px; border-bottom: 1px solid var(--border); padding-bottom: 8px; margin-bottom: 16px; }}
-  .card-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }}
-  .card {{ background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }}
+  .card-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }}
+  .card {{ background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 18px 20px; }}
   .card.in-cycle {{ border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }}
   .badge {{ background: var(--accent); color: #fff; font-size: 9px; font-weight: 600; text-transform: uppercase; padding: 2px 6px; border-radius: 4px; vertical-align: middle; }}
   .badge.notice {{ background: #e8a33d; color: #1a1200; }}
@@ -704,9 +707,9 @@ def build():
   .card-name {{ font-weight: 600; font-size: 14px; margin-bottom: 2px; }}
   .card-id a {{ color: var(--muted); font-size: 11px; text-decoration: none; }}
   .card-id a:hover {{ color: var(--accent); }}
-  .card-stats {{ display: flex; justify-content: space-between; margin-top: 12px; }}
-  .card-stats .label {{ display:block; font-size: 10px; color: var(--muted); text-transform: uppercase; }}
-  .card-stats .val {{ display:block; font-size: 14px; font-weight: 600; margin-top: 2px; }}
+  .card-stats {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 14px; }}
+  .card-stats .label {{ display:block; font-size: 10px; color: var(--muted); text-transform: uppercase; white-space: nowrap; }}
+  .card-stats .val {{ display:block; font-size: 16px; font-weight: 600; margin-top: 3px; white-space: nowrap; }}
   .card-filing {{ margin-top: 10px; font-size: 11px; color: var(--muted); }}
   .quarterly-block {{ background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 16px; }}
   .quarterly-block h3 {{ margin: 0 0 12px; font-size: 14px; }}
