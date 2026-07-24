@@ -1,7 +1,7 @@
 {
   "fec_id": "C00896928",
   "name": "TEAM HUSTED (JOINT FUNDRAISING)",
-  "fetched_at": "2026-07-24T09:17:15.655882+00:00",
+  "fetched_at": "2026-07-24T17:20:42.541379+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -521,7 +521,7 @@
       "contribution_receipt_amount": 5000.0,
       "contribution_receipt_date": "2026-03-31",
       "contributor": {
-        "affiliated_committee_name": "OHIOHEALTH STAR CORPORATION POLITICAL ACTION COMMITTEE DBA OHIOHEALTH PAC",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "COLUMBUS",
         "committee_id": "C00210617",
