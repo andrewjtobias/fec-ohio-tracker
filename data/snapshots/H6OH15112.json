@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH15112",
   "name": "LEONARD, DON RALPH",
-  "fetched_at": "2026-07-25T07:40:27.775844+00:00",
+  "fetched_at": "2026-07-25T15:52:41.275830+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -339,7 +339,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73872,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -480,7 +480,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73872,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -621,7 +621,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73872,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -762,7 +762,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73872,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -903,7 +903,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73870,
+        "idx": 73872,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
