@@ -1,7 +1,7 @@
 {
   "fec_id": "S6OH00304",
   "name": "HUSTED, JON",
-  "fetched_at": "2026-07-26T21:17:34.418058+00:00",
+  "fetched_at": "2026-07-27T12:43:26.051815+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -12085,7 +12085,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-02-02",
-        "last_file_date": "2026-07-24",
+        "last_file_date": "2026-07-26",
         "name": "INDIVISIBLE ACTION",
         "organization_type": null,
         "organization_type_full": null,
