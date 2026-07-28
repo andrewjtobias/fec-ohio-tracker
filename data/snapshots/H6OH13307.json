@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH13307",
   "name": "COLEMAN, CAREY",
-  "fetched_at": "2026-07-28T17:13:16.511330+00:00",
+  "fetched_at": "2026-07-28T19:00:25.238108+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -123,11 +123,212 @@
       "update_date": "2026-01-07"
     }
   ],
-  "schedule_e_target": [],
+  "quarterly": [
+    {
+      "label": "July Quarterly 2026",
+      "coverage_start": "2026-04-16",
+      "coverage_end": "2026-06-30",
+      "raised": 53393.86,
+      "spent": 40137.51,
+      "transfers": null,
+      "cash_on_hand": 77727.37,
+      "top_donors": []
+    },
+    {
+      "label": "Pre-Primary 2026",
+      "coverage_start": "2026-04-01",
+      "coverage_end": "2026-04-15",
+      "raised": 1751.93,
+      "spent": 3099.22,
+      "transfers": null,
+      "cash_on_hand": 64471.02,
+      "top_donors": [
+        {
+          "name": "ZWICK, CAROLINE",
+          "amount": 1500.0,
+          "date": "2026-04-14",
+          "employer": "N/A",
+          "city": "BARBERTON",
+          "state": "OH"
+        }
+      ]
+    },
+    {
+      "label": "April Quarterly 2026",
+      "coverage_start": "2026-01-01",
+      "coverage_end": "2026-03-31",
+      "raised": 71963.5,
+      "spent": 6145.19,
+      "transfers": null,
+      "cash_on_hand": 65818.31,
+      "top_donors": [
+        {
+          "name": "COLEMAN, CAREY",
+          "amount": 50000.0,
+          "date": "2026-03-26",
+          "employer": "N/A",
+          "city": "SAGAMORE HILLS",
+          "state": "OH"
+        },
+        {
+          "name": "CSATARY, GEORGE",
+          "amount": 3500.0,
+          "date": "2026-01-21",
+          "employer": "GATEWAY CORRIDOR LLC",
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 2500.0,
+          "date": "2026-01-26",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "KLABEN, RICHARD",
+          "amount": 2500.0,
+          "date": "2026-01-26",
+          "employer": "KLABEN FORD",
+          "city": "KENT",
+          "state": "OH"
+        },
+        {
+          "name": "FERKUL, PAUL",
+          "amount": 2500.0,
+          "date": "2026-02-23",
+          "employer": "NASA",
+          "city": "FAIRVIEW PARK",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 1041.02,
+          "date": "2026-03-20",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "MOORE, DAVID",
+          "amount": 1041.02,
+          "date": "2026-03-20",
+          "employer": "BEACHWOOD CAPITAL",
+          "city": "STOW",
+          "state": "OH"
+        },
+        {
+          "name": "COLEMAN, CAREY",
+          "amount": 1000.0,
+          "date": "2026-01-14",
+          "employer": "N/A",
+          "city": "SAGAMORE HILLS",
+          "state": "OH"
+        },
+        {
+          "name": "YADMARK, SAYAN",
+          "amount": 1000.0,
+          "date": "2026-01-26",
+          "employer": "N/A",
+          "city": "PARMA",
+          "state": "OH"
+        },
+        {
+          "name": "REYES, NATHAN",
+          "amount": 1000.0,
+          "date": "2026-02-23",
+          "employer": "PNC BANK",
+          "city": "KENT",
+          "state": "OH"
+        },
+        {
+          "name": "CAPUTO, MICHAEL",
+          "amount": 1000.0,
+          "date": "2026-03-06",
+          "employer": "CLEVELAND ENGINEERED MATERIALS",
+          "city": "BEACHWOOD",
+          "state": "OH"
+        },
+        {
+          "name": "ARKES, HAL",
+          "amount": 1000.0,
+          "date": "2026-03-06",
+          "employer": "N/A",
+          "city": "CLEVELAND HEIGHTS",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 520.51,
+          "date": "2026-02-04",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "OTT, JOHN",
+          "amount": 520.51,
+          "date": "2026-02-04",
+          "employer": "OTT ELECTRICAL SERVICES, INC",
+          "city": "ALLIANCE",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 520.51,
+          "date": "2026-03-04",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "LANE, JOHN",
+          "amount": 520.51,
+          "date": "2026-03-04",
+          "employer": "WINKING LIZARD TAVERN",
+          "city": "CHAGRIN FALLS",
+          "state": "OH"
+        },
+        {
+          "name": "SZITTAI, MICHAEL",
+          "amount": 500.0,
+          "date": "2026-01-21",
+          "employer": "N/A",
+          "city": "MASSILLON",
+          "state": "OH"
+        },
+        {
+          "name": "REYES, NATHAN",
+          "amount": 500.0,
+          "date": "2026-03-31",
+          "employer": "PNC BANK",
+          "city": "KENT",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 104.1,
+          "date": "2026-02-16",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "VANOS, GEZA JOHN",
+          "amount": 104.1,
+          "date": "2026-02-16",
+          "employer": "RETIRED",
+          "city": "CLEVELAND",
+          "state": "OH"
+        }
+      ]
+    }
+  ],
   "errors": [
     {
-      "step": "quarterly",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00933432/filings/?per_page=20&sort=-coverage_end_date&cycle=2026&page=1&api_key=REDACTED"
+      "step": "schedule_e_target",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?candidate_id=H6OH13307&min_date=2025-01-01&per_page=100&sort=-expenditure_date&api_key=REDACTED"
     }
   ]
 }
