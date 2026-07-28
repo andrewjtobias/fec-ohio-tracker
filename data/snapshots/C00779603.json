@@ -1,7 +1,7 @@
 {
   "fec_id": "C00779603",
   "name": "CAREY FOR CONGRESS",
-  "fetched_at": "2026-07-28T18:57:03.223725+00:00",
+  "fetched_at": "2026-07-28T21:46:51.255211+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -17879,10 +17879,5 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "errors": [
-    {
-      "step": "schedule_e",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?committee_id=C00779603&per_page=100&sort=-expenditure_date&api_key=REDACTED"
-    }
-  ]
+  "schedule_e": []
 }

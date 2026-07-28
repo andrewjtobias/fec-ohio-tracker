@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH03067",
   "name": "TURNER, MICHAEL R",
-  "fetched_at": "2026-07-28T19:09:20.214528+00:00",
+  "fetched_at": "2026-07-28T21:51:55.712411+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -451,6 +451,7 @@
       "update_date": "2021-04-17"
     }
   ],
+  "schedule_e_target": [],
   "quarterly": [
     {
       "label": "July Quarterly 2026",
@@ -1351,12 +1352,6 @@
           "state": "OH"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "step": "schedule_e_target",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?candidate_id=H2OH03067&min_date=2025-01-01&per_page=100&sort=-expenditure_date&api_key=REDACTED"
     }
   ]
 }
