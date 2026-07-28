@@ -1,7 +1,59 @@
 {
   "fec_id": "H6OH13307",
   "name": "COLEMAN, CAREY",
-  "fetched_at": "2026-07-23T13:49:48.903981+00:00",
+  "fetched_at": "2026-07-28T17:13:16.511330+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 0.0,
+      "candidate_election_year": 2026,
+      "candidate_id": "H6OH13307",
+      "contribution_refunds": 952.21,
+      "contributions": 73571.79,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2026-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 49381.92,
+      "election_full": false,
+      "exempt_legal_accounting_disbursement": 0.0,
+      "federal_funds": 0.0,
+      "fundraising_disbursements": 0.0,
+      "individual_contributions": 65571.79,
+      "individual_itemized_contributions": 33431.73,
+      "individual_unitemized_contributions": 32140.06,
+      "last_beginning_image_number": "202607159885302368",
+      "last_cash_on_hand_end_period": 77727.37,
+      "last_debts_owed_by_committee": 57777.83,
+      "last_debts_owed_to_committee": 0.0,
+      "last_net_contributions": 49904.15,
+      "last_net_operating_expenditures": 39147.8,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 51000.0,
+      "loans_made_by_candidate": 51000.0,
+      "net_contributions": 72619.58,
+      "net_operating_expenditures": 48142.21,
+      "offsets_to_fundraising_expenditures": 0.0,
+      "offsets_to_legal_accounting": 0.0,
+      "offsets_to_operating_expenditures": 37.5,
+      "operating_expenditures": 48179.71,
+      "other_disbursements": 250.0,
+      "other_political_committee_contributions": 8000.0,
+      "other_receipts": 500.0,
+      "political_party_committee_contributions": 0.0,
+      "receipts": 127109.29,
+      "refunded_individual_contributions": 952.21,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "total_offsets_to_operating_expenditures": 0.0,
+      "transaction_coverage_date": "2026-04-15T00:00:00",
+      "transfers_from_other_authorized_committee": 2000.0,
+      "transfers_to_other_authorized_committee": 0.0
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -72,212 +124,10 @@
     }
   ],
   "schedule_e_target": [],
-  "quarterly": [
-    {
-      "label": "July Quarterly 2026",
-      "coverage_start": "2026-04-16",
-      "coverage_end": "2026-06-30",
-      "raised": 53393.86,
-      "spent": 40137.51,
-      "transfers": null,
-      "cash_on_hand": 77727.37,
-      "top_donors": []
-    },
-    {
-      "label": "Pre-Primary 2026",
-      "coverage_start": "2026-04-01",
-      "coverage_end": "2026-04-15",
-      "raised": 1751.93,
-      "spent": 3099.22,
-      "transfers": null,
-      "cash_on_hand": 64471.02,
-      "top_donors": [
-        {
-          "name": "ZWICK, CAROLINE",
-          "amount": 1500.0,
-          "date": "2026-04-14",
-          "employer": "N/A",
-          "city": "BARBERTON",
-          "state": "OH"
-        }
-      ]
-    },
-    {
-      "label": "April Quarterly 2026",
-      "coverage_start": "2026-01-01",
-      "coverage_end": "2026-03-31",
-      "raised": 71963.5,
-      "spent": 6145.19,
-      "transfers": null,
-      "cash_on_hand": 65818.31,
-      "top_donors": [
-        {
-          "name": "COLEMAN, CAREY",
-          "amount": 50000.0,
-          "date": "2026-03-26",
-          "employer": "N/A",
-          "city": "SAGAMORE HILLS",
-          "state": "OH"
-        },
-        {
-          "name": "CSATARY, GEORGE",
-          "amount": 3500.0,
-          "date": "2026-01-21",
-          "employer": "GATEWAY CORRIDOR LLC",
-          "city": "CLEVELAND",
-          "state": "OH"
-        },
-        {
-          "name": "WINRED",
-          "amount": 2500.0,
-          "date": "2026-01-26",
-          "employer": null,
-          "city": "ARLINGTON",
-          "state": "VA"
-        },
-        {
-          "name": "KLABEN, RICHARD",
-          "amount": 2500.0,
-          "date": "2026-01-26",
-          "employer": "KLABEN FORD",
-          "city": "KENT",
-          "state": "OH"
-        },
-        {
-          "name": "FERKUL, PAUL",
-          "amount": 2500.0,
-          "date": "2026-02-23",
-          "employer": "NASA",
-          "city": "FAIRVIEW PARK",
-          "state": "OH"
-        },
-        {
-          "name": "WINRED",
-          "amount": 1041.02,
-          "date": "2026-03-20",
-          "employer": null,
-          "city": "ARLINGTON",
-          "state": "VA"
-        },
-        {
-          "name": "MOORE, DAVID",
-          "amount": 1041.02,
-          "date": "2026-03-20",
-          "employer": "BEACHWOOD CAPITAL",
-          "city": "STOW",
-          "state": "OH"
-        },
-        {
-          "name": "COLEMAN, CAREY",
-          "amount": 1000.0,
-          "date": "2026-01-14",
-          "employer": "N/A",
-          "city": "SAGAMORE HILLS",
-          "state": "OH"
-        },
-        {
-          "name": "YADMARK, SAYAN",
-          "amount": 1000.0,
-          "date": "2026-01-26",
-          "employer": "N/A",
-          "city": "PARMA",
-          "state": "OH"
-        },
-        {
-          "name": "REYES, NATHAN",
-          "amount": 1000.0,
-          "date": "2026-02-23",
-          "employer": "PNC BANK",
-          "city": "KENT",
-          "state": "OH"
-        },
-        {
-          "name": "CAPUTO, MICHAEL",
-          "amount": 1000.0,
-          "date": "2026-03-06",
-          "employer": "CLEVELAND ENGINEERED MATERIALS",
-          "city": "BEACHWOOD",
-          "state": "OH"
-        },
-        {
-          "name": "ARKES, HAL",
-          "amount": 1000.0,
-          "date": "2026-03-06",
-          "employer": "N/A",
-          "city": "CLEVELAND HEIGHTS",
-          "state": "OH"
-        },
-        {
-          "name": "WINRED",
-          "amount": 520.51,
-          "date": "2026-02-04",
-          "employer": null,
-          "city": "ARLINGTON",
-          "state": "VA"
-        },
-        {
-          "name": "OTT, JOHN",
-          "amount": 520.51,
-          "date": "2026-02-04",
-          "employer": "OTT ELECTRICAL SERVICES, INC",
-          "city": "ALLIANCE",
-          "state": "OH"
-        },
-        {
-          "name": "WINRED",
-          "amount": 520.51,
-          "date": "2026-03-04",
-          "employer": null,
-          "city": "ARLINGTON",
-          "state": "VA"
-        },
-        {
-          "name": "LANE, JOHN",
-          "amount": 520.51,
-          "date": "2026-03-04",
-          "employer": "WINKING LIZARD TAVERN",
-          "city": "CHAGRIN FALLS",
-          "state": "OH"
-        },
-        {
-          "name": "SZITTAI, MICHAEL",
-          "amount": 500.0,
-          "date": "2026-01-21",
-          "employer": "N/A",
-          "city": "MASSILLON",
-          "state": "OH"
-        },
-        {
-          "name": "REYES, NATHAN",
-          "amount": 500.0,
-          "date": "2026-03-31",
-          "employer": "PNC BANK",
-          "city": "KENT",
-          "state": "OH"
-        },
-        {
-          "name": "WINRED",
-          "amount": 104.1,
-          "date": "2026-02-16",
-          "employer": null,
-          "city": "ARLINGTON",
-          "state": "VA"
-        },
-        {
-          "name": "VANOS, GEZA JOHN",
-          "amount": 104.1,
-          "date": "2026-02-16",
-          "employer": "RETIRED",
-          "city": "CLEVELAND",
-          "state": "OH"
-        }
-      ]
-    }
-  ],
   "errors": [
     {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H6OH13307/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
+      "step": "quarterly",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00933432/filings/?per_page=20&sort=-coverage_end_date&cycle=2026&page=1&api_key=REDACTED"
     }
   ]
 }
