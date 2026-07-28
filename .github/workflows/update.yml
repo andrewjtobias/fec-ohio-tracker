@@ -5,7 +5,16 @@ on:
     # Every 6 hours. FEC filings/itemized data don't change faster than that
     # in practice, and this keeps you well under the 1,000 calls/hour limit.
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+    # Mondays 12:00 UTC: same run, but ALSO does IE-committee discovery first
+    # (see the "Discover new IE committees" step's `if:` below). Discovery
+    # adds ~75 API calls, so weekly -- not every run.
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+    inputs:
+      run_discovery:
+        description: "Also run IE committee discovery (adds new PACs to entities.csv)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,6 +38,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Weekly (or on manual request): find PACs newly making independent
+      # expenditures in tracked races and append them to entities.csv as
+      # watch-tier / source=ie_discovery rows. Running BEFORE fetch means a
+      # newly discovered committee gets its first snapshot in this same run.
+      - name: Discover new IE committees (weekly)
+        if: github.event.schedule == '0 12 * * 1' || (github.event_name == 'workflow_dispatch' && inputs.run_discovery)
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python discover_ie_committees.py
+
       - name: Fetch latest FEC data
         env:
           FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
@@ -37,11 +56,16 @@ jobs:
       - name: Build dashboard
         run: python build_dashboard.py
 
-      - name: Commit updated data + dashboard
+      # NOTE: dashboard.html is deliberately NOT committed. It's derived
+      # output, rebuilt from data/ on every run -- committing it was the
+      # source of every recurring merge conflict between this bot and local
+      # edits. It's built fresh above and shipped to Pages as an artifact
+      # below; the repo only stores the real state (data/ + entities.csv).
+      - name: Commit updated data
         run: |
           git config user.name "fec-tracker-bot"
           git config user.email "actions@github.com"
-          git add data/ dashboard.html
+          git add data/ entities.csv
           git diff --quiet --cached || git commit -m "Update FEC data $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 

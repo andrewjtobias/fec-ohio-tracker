@@ -12,7 +12,25 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from fetch_data import CURRENT_CYCLE
+from fetch_data import CURRENT_CYCLE, dedupe_ie_for_totals, is_current_cycle_ohio_ie
+
+
+def ie_records_for_totals(snapshot):
+    """
+    One shared gate for every aggregate built from a candidate's
+    schedule_e_target data, so the numbers in different tables can never
+    disagree about what counts:
+      - is_current_cycle_ohio_ie: drops prior-cycle records and FEC
+        mis-attributions to other states' races (client-side re-check of
+        the fetch-time filter, so old snapshots self-correct on the next
+        build without a refetch -- same pattern as latest_total).
+      - dedupe_ie_for_totals: collapses duplicate reports of the same
+        expenditure (24hr notice + periodic report, amendment chains) so
+        dollars aren't counted twice. See fetch_data.py for the verified
+        rules. Returns (records, n_excluded, dollars_excluded).
+    """
+    recs = [r for r in snapshot.get("schedule_e_target", []) if is_current_cycle_ohio_ie(r)]
+    return dedupe_ie_for_totals(recs)
 
 ROOT = Path(__file__).parent
 ENTITIES_CSV = ROOT / "entities.csv"
@@ -88,7 +106,8 @@ def aggregate_ie_sources(entities, snapshots_by_id, limit=15):
         if entity["entity_type"] != "candidate" or entity.get("tracking_tier") != "in_cycle":
             continue
         snapshot = snapshots_by_id.get(entity["fec_id"], {})
-        for rec in snapshot.get("schedule_e_target", []):
+        recs, _, _ = ie_records_for_totals(snapshot)
+        for rec in recs:
             committee = rec.get("committee") or {}
             cid = rec.get("committee_id") or committee.get("name") or "unknown"
             name = committee.get("name") or rec.get("committee_id") or "Unknown spender"
@@ -126,7 +145,8 @@ def aggregate_ie_beneficiaries(entities, snapshots_by_id):
             continue
         snapshot = snapshots_by_id.get(entity["fec_id"], {})
         support = oppose = 0.0
-        for rec in snapshot.get("schedule_e_target", []):
+        recs, _, _ = ie_records_for_totals(snapshot)
+        for rec in recs:
             amount = rec.get("expenditure_amount") or 0
             indicator = rec.get("support_oppose_indicator")
             if indicator == "S":
@@ -657,12 +677,32 @@ def build():
 
     ie_sources = aggregate_ie_sources(entities, snapshots_by_id)
     ie_beneficiaries = aggregate_ie_beneficiaries(entities, snapshots_by_id)
+
+    # Footnote stats: how much duplicate reporting the totals above exclude.
+    # Recomputed here (cheap -- a few hundred records) rather than threaded
+    # through the aggregate functions' return values.
+    dup_n = 0
+    dup_dollars = 0.0
+    for entity in entities:
+        if entity["entity_type"] == "candidate" and entity.get("tracking_tier") == "in_cycle":
+            _, n, dollars = ie_records_for_totals(snapshots_by_id.get(entity["fec_id"], {}))
+            dup_n += n
+            dup_dollars += dollars
+    dedup_note = ""
+    if dup_n:
+        dedup_note = (
+            f' Totals exclude {dup_n} duplicate reports of the same expenditure totaling {fmt_money(dup_dollars)} '
+            f'(the FEC receives most expenditures twice: once as a 24/48-hour notice, again in a periodic report). '
+            f'Identical-looking records that appear to be genuinely separate purchases are kept. '
+            f'The Recent Activity feed below still lists every record, with duplicates flagged, never removed.'
+        )
+
     ie_overview_html = ""
     if ie_sources or ie_beneficiaries:
         ie_overview_html = f"""
     <section>
       <h2>Independent Expenditure Overview</h2>
-      <p class="muted">Built from all currently-known Schedule E data for your in-cycle candidates (not just recently-logged activity). "Net IE benefit" combines $ spent supporting a candidate with $ spent opposing their matchup opponent, since both help the same candidate electorally.</p>
+      <p class="muted">Built from all currently-known 2025&ndash;26 cycle Schedule E data for your in-cycle candidates (not just recently-logged activity); prior-cycle spending is excluded. "Net IE benefit" combines $ spent supporting a candidate with $ spent opposing their matchup opponent, since both help the same candidate electorally.{dedup_note}</p>
       <div class="ie-overview-grid">
         <div>
           <h3>Top sources of independent expenditures</h3>

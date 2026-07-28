@@ -7,3 +7,10 @@ __pycache__/
 
 # Local environment / secrets - never commit the real API key
 .env
+
+# Derived output -- rebuilt from data/ by build_dashboard.py on every run and
+# deployed to Pages as a workflow artifact, not from the repo. Committing it
+# caused recurring merge conflicts between the Actions bot and local edits.
+# (Only takes effect once the tracked copy is deleted and that deletion is
+# committed -- see the untracking step in the project notes.)
+dashboard.html

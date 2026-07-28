@@ -28,7 +28,7 @@ import logging
 from pathlib import Path
 
 from fec_client import FECClient
-from fetch_data import PRIORITY_RACES, redact
+from fetch_data import PRIORITY_RACES, is_current_cycle_ohio_ie, redact
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger("discover_ie_committees")
@@ -80,6 +80,12 @@ def main():
         except Exception as exc:  # noqa: BLE001 -- keep going for the rest
             logger.error("Failed on %s: %s", cand["name"], redact(str(exc)))
             continue
+
+        # Same guard as fetch_data.py: min_date already scopes the cycle,
+        # but FEC mis-attributions can carry our candidate's ID on another
+        # state's race (the Mary Miller case) -- without this, one bad
+        # record could auto-add a PAC that never actually spent in Ohio.
+        records = [r for r in records if is_current_cycle_ohio_ie(r)]
 
         for rec in records:
             committee_id = rec.get("committee_id")

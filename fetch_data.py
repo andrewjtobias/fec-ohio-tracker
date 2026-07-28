@@ -51,6 +51,38 @@ ACTIVITY_LOG = DATA_DIR / "activity_log.jsonl"
 
 PRIORITY_RACES = {"OH Senate", "OH-01", "OH-07", "OH-09", "OH-10", "OH-13", "OH-15"}
 CURRENT_CYCLE = 2026  # FEC's even-year label for the 2025-2026 cycle
+CYCLE_START_DATE = "2025-01-01"  # first day of the 2025-2026 cycle
+
+
+def is_current_cycle_ohio_ie(rec: dict) -> bool:
+    """
+    Keep only Schedule E records that belong to THIS cycle and an OHIO race.
+    Two distinct kinds of junk get through an unfiltered schedule_e_by_target
+    pull, both confirmed against real snapshot data on 2026-07-28:
+
+    1. Prior-cycle records. The endpoint returns a candidate's ENTIRE IE
+       history sorted newest-first, so a candidate with little 2026 activity
+       gets their 100-record window filled by old cycles (Turner's went back
+       to 2002; Carey's and Max Miller's were entirely 2021-2024). 734 of
+       995 outside_spending events ($16.2M of $28.6M) in the log were
+       pre-2025. Worse, FEC reprocessing gives old records fresh sub_ids,
+       so the diff kept logging 2022/2024 expenditures as "new" activity.
+
+    2. FEC mis-attributions. A record can carry a tracked candidate's ID
+       but actually belong to a different race -- e.g. two HOUSE FREEDOM
+       FUND records with Max Miller's ID (H2OH16051) but candidate_name
+       "MILLER, MARY", candidate_office_state IL, district 15 (that's Mary
+       Miller of Illinois). The record's own candidate_office_state is the
+       reliable tell: every legitimate record in our data says "OH".
+
+    Records missing either field are dropped too -- as of 2026-07-28 no
+    legitimate record lacks them, and a record we can't place in a cycle or
+    a state can't be trusted in Ohio-race totals. If a real Ohio record
+    ever shows up without them, loosen this deliberately, don't guess.
+    """
+    date = (rec.get("expenditure_date") or "")[:10]
+    return date >= CYCLE_START_DATE and rec.get("candidate_office_state") == "OH"
+
 
 _API_KEY_RE = re.compile(r"api_key=[^&\s'\")]+")
 
@@ -124,6 +156,74 @@ def schedule_e_dedup_key(rec: dict, amount, date) -> str:
     return "|".join(str(x) for x in (
         rec.get("committee_id"), rec.get("candidate_id"), amount, date, rec.get("payee_name"),
     ))
+
+
+def dedupe_ie_for_totals(records: list[dict]) -> tuple[list[dict], int, float]:
+    """
+    Collapse duplicate REPORTS of the same real-world expenditure before
+    summing dollars. Returns (kept_records, n_excluded, dollars_excluded).
+
+    Verified against real snapshot data on 2026-07-28: the dominant source
+    of double-counting is NOT amendments but the FEC's normal two-step
+    disclosure flow -- a committee files a 24/48-hour notice (is_notice=True)
+    when it spends, then re-reports the identical expenditure in its periodic
+    report (is_notice=False). The API returns BOTH. In our data the pairs
+    almost always share a transaction_id (e.g. WIN IT BACK PAC's $250,000
+    anti-Husted buy: txn SE24.2961 appears once as a notice, once as a
+    report). Left alone, this inflated IE totals by ~$2.8M of $14.2M (20%).
+
+    Rules, applied within each dedup_key group (same committee, candidate,
+    amount, date, payee):
+      1. If any periodic-report (non-notice) version exists, drop the
+         notice versions -- the report is the authoritative restatement.
+         (Rare edge: two genuinely separate identical buys where only one
+         has hit a report yet would briefly count as one. Accepted cost;
+         self-corrects when the next periodic report arrives.)
+      2. Among what's left, records sharing a transaction_id are the same
+         expenditure re-filed (amendment chains, e.g. AMERICANS UNITED FOR
+         VALUES txn SE.4561 filed N then A/1) -- keep only the highest
+         file_number (latest version).
+      3. Distinct transaction_ids that survive are treated as genuinely
+         separate buys and ALL kept -- confirmed real: AFP Action placed
+         three separate $2,500 same-day/same-payee buys (txns SE24.38302/
+         38304/38305 in one filing), and that's real spending.
+
+    This is used for AGGREGATE TOTALS only. The activity feed still shows
+    every record with a "possible duplicate" flag -- never silently drops.
+    """
+    groups: dict[str, list[dict]] = {}
+    for rec in records:
+        key = schedule_e_dedup_key(rec, rec.get("expenditure_amount"), rec.get("expenditure_date"))
+        groups.setdefault(key, []).append(rec)
+
+    kept: list[dict] = []
+    n_excluded = 0
+    dollars_excluded = 0.0
+    for recs in groups.values():
+        if len(recs) == 1:
+            kept.extend(recs)
+            continue
+        chosen = recs
+        non_notice = [r for r in chosen if not r.get("is_notice")]
+        if non_notice:
+            chosen = non_notice  # rule 1
+        by_txn: dict[str, dict] = {}
+        no_txn: list[dict] = []
+        for r in chosen:
+            txn = r.get("transaction_id")
+            if not txn:
+                no_txn.append(r)  # can't chain-match without a txn id; keep
+                continue
+            cur = by_txn.get(txn)
+            if cur is None or (r.get("file_number") or 0) > (cur.get("file_number") or 0):
+                by_txn[txn] = r  # rule 2
+        final = list(by_txn.values()) + no_txn
+        kept.extend(final)
+        n_excluded += len(recs) - len(final)
+        dollars_excluded += sum(
+            (r.get("expenditure_amount") or 0) for r in recs if not any(r is f for f in final)
+        )
+    return kept, n_excluded, dollars_excluded
 
 
 def schedule_e_event_fields(rec: dict, amount, date) -> dict:
@@ -364,8 +464,25 @@ def fetch_entity(client: FECClient, entity: dict, skip_schedules: bool, big_dono
         # discover_ie_committees.py periodically to backfill anything that
         # slips through for a watch-tier candidate.
         if not skip_schedules and entity.get("tracking_tier") == "in_cycle":
-            schedule_e_target = safe("schedule_e_target", lambda: client.schedule_e_by_target(fec_id, max_records=100))
+            # min_date scopes the pull to this cycle server-side, which also
+            # frees the record window for current spending instead of letting
+            # a candidate's decades of IE history crowd it out.
+            # max_records=500: at 100, a hot race's window overflows during
+            # peak season (Husted already had 79 current-cycle records in
+            # July 2026) and older CURRENT-cycle records silently slide out
+            # of the snapshot -- which would quietly shrink the dashboard's
+            # aggregate IE totals right when they matter most. 500 costs at
+            # most 4 extra API calls per in-cycle candidate per run.
+            schedule_e_target = safe(
+                "schedule_e_target",
+                lambda: client.schedule_e_by_target(fec_id, max_records=500, min_date=CYCLE_START_DATE),
+            )
             if schedule_e_target is not None:
+                # Re-check client-side too: min_date doesn't catch FEC
+                # mis-attributions (records carrying our candidate's ID but
+                # belonging to another state's race -- see
+                # is_current_cycle_ohio_ie for the Mary Miller case).
+                schedule_e_target = [r for r in schedule_e_target if is_current_cycle_ohio_ie(r)]
                 snapshot["schedule_e_target"] = schedule_e_target
                 if has_prev:
                     diff_schedule(
@@ -454,6 +571,11 @@ def fetch_entity(client: FECClient, entity: dict, skip_schedules: bool, big_dono
                 # committee gets promoted to in_cycle -- currently none are.
                 if tracked_candidate_ids is not None:
                     schedule_e = [r for r in schedule_e if r.get("candidate_id") in tracked_candidate_ids]
+                # Same cycle + Ohio-race guard as the candidate-side pull: a
+                # record can carry a tracked candidate's ID and still be a
+                # prior-cycle expenditure (or an FEC mis-attribution to
+                # another state's race). See is_current_cycle_ohio_ie.
+                schedule_e = [r for r in schedule_e if is_current_cycle_ohio_ie(r)]
                 snapshot["schedule_e"] = schedule_e
                 if has_prev:
                     diff_schedule(
