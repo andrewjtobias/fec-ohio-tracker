@@ -12,7 +12,45 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from fetch_data import CURRENT_CYCLE, dedupe_ie_for_totals, is_current_cycle_ohio_ie
+from fetch_data import (
+    CURRENT_CYCLE,
+    dedupe_ie_for_totals,
+    is_current_cycle_ohio_ie,
+    is_national_pac,
+)
+
+
+def drop_national_pac_filings(events, entities):
+    """
+    Hide 'new_filing' events belonging to national PACs at RENDER time.
+
+    fetch_data.py stops logging these going forward, but activity_log.jsonl
+    is append-only, so anything logged before that guard reached the server
+    would otherwise sit in the feed forever. Confirmed on 2026-07-28: nine
+    such events (AMERICAN MISSION/NV, DEFEND AMERICAN JOBS/VA, AMERICAN
+    CONSERVATIVE FUND/VA) were logged 2026-07-25 through 07-27 by the
+    scheduled job, which was still running the pre-fix code because the fix
+    sat unpushed locally for five days.
+
+    Filtering here instead of rewriting the log keeps the log an honest
+    append-only record of everything ever observed (an audit trail worth
+    having on a journalism project), makes the dashboard self-correcting
+    the same way latest_total and is_current_cycle_ohio_ie already are, and
+    avoids editing a data file the scheduled Action also writes -- which is
+    what produced the recurring merge conflicts.
+
+    Only 'new_filing' events are affected. Schedule E events for these same
+    committees are queried BY tracked candidate and are correctly scoped
+    already, so they stay.
+    """
+    national_ids = {
+        e["fec_id"] for e in entities
+        if e.get("entity_type") == "committee" and is_national_pac(e)
+    }
+    return [
+        ev for ev in events
+        if not (ev.get("type") == "new_filing" and ev.get("fec_id") in national_ids)
+    ]
 
 
 def ie_records_for_totals(snapshot):
@@ -606,7 +644,7 @@ def quarterly_block(entity, snapshot):
 
 def build():
     entities = load_entities()
-    activity = load_activity()
+    activity = drop_national_pac_filings(load_activity(), entities)
 
     by_race = {race: [] for race in RACE_ORDER}
     committees = []

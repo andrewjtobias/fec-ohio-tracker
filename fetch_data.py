@@ -84,6 +84,37 @@ def is_current_cycle_ohio_ie(rec: dict) -> bool:
     return date >= CYCLE_START_DATE and rec.get("candidate_office_state") == "OH"
 
 
+def is_national_pac(entity: dict) -> bool:
+    """
+    True for a tracked committee whose OWN FEC filings cover its activity
+    nationwide and therefore can't be assumed relevant to an Ohio race.
+
+    A watch-tier committee that isn't an Ohio-registered entity is
+    presumptively a national PAC we track only because it made one
+    Ohio-relevant expenditure. Its filings (F24 24-hour IE reports, F3X
+    periodic reports, etc.) report its spending everywhere, and the filing
+    record carries no candidate/race field to filter on -- so a filing about
+    a Missouri or Nevada race looks identical to an Ohio one. Two ways a
+    committee lands here:
+      - source == "ie_discovery": found by discover_ie_committees.py, which
+        never populates `state` for those rows.
+      - state != "OH": added manually but registered elsewhere, e.g. DEFEND
+        AMERICAN JOBS (VA), AMERICAN MISSION (NV), AMERICAN CONSERVATIVE
+        FUND (VA).
+    in_cycle committees are exempt: those are candidates' own principal or
+    joint fundraising committees (or a deliberately promoted exception), so
+    their filings are inherently relevant whatever their registered state.
+
+    This lives in ONE place and is imported by build_dashboard.py rather
+    than being reimplemented there. Duplicated extraction logic is how the
+    nested-committee-name bug survived in two files at once; don't repeat
+    that pattern.
+    """
+    return entity.get("tracking_tier") != "in_cycle" and (
+        entity.get("source") == "ie_discovery" or entity.get("state") != "OH"
+    )
+
+
 _API_KEY_RE = re.compile(r"api_key=[^&\s'\")]+")
 
 
@@ -512,27 +543,12 @@ def fetch_entity(client: FECClient, entity: dict, skip_schedules: bool, big_dono
         filings = safe("filings", lambda: client.committee_filings(fec_id))
         if filings is not None:
             snapshot["filings"] = filings
-            # Any watch-tier committee that isn't itself an Ohio-registered
-            # entity is presumptively a national PAC we're only tracking
-            # because it made ONE Ohio-relevant expenditure -- its FEC
-            # filings (F24 24-hour IE reports, F3X periodic reports, etc.)
-            # cover its activity everywhere, not just Ohio, and the filing
-            # record itself carries no candidate/race info to filter on.
-            # Two ways a committee ends up flagged as "national, not Ohio":
-            #   - source == "ie_discovery": found via discover_ie_committees.py,
-            #     which never populates `state` for these rows.
-            #   - state not "OH": added manually (before that script existed)
-            #     but registered elsewhere -- e.g. DEFEND AMERICAN JOBS (VA),
-            #     confirmed as a second instance of this same bug on
-            #     2026-07-23 (an Amanda McKinney filing, not an Ohio race).
-            # in_cycle committees are exempt -- those are always candidates'
-            # own principal/joint fundraising committees (or a deliberately
-            # promoted, curated exception), so their filings are inherently
-            # relevant regardless of registered state.
-            is_national_pac = entity.get("tracking_tier") != "in_cycle" and (
-                entity.get("source") == "ie_discovery" or entity.get("state") != "OH"
-            )
-            if has_prev and not is_national_pac:
+            # Skip generic filing diffs for national PACs -- see
+            # is_national_pac() for why their filings can't be assumed
+            # Ohio-relevant. build_dashboard.py applies the SAME rule at
+            # render time, so events logged before this guard existed stop
+            # appearing without needing the log rewritten.
+            if has_prev and not is_national_pac(entity):
                 diff_filings(entity, prev.get("filings", []), filings)
 
         # Itemized Schedule A/B/E pulls (donor-level detail) are the other
