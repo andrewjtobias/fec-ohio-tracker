@@ -1,59 +1,7 @@
 {
   "fec_id": "H6OH01187",
   "name": "LYNCH, DAMON IV",
-  "fetched_at": "2026-07-30T09:41:21.454624+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "candidate_election_year": 2026,
-      "candidate_id": "H6OH01187",
-      "contribution_refunds": 0.0,
-      "contributions": 13630.28,
-      "coverage_end_date": "2026-04-22T00:00:00",
-      "coverage_start_date": "2026-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 9409.3,
-      "election_full": false,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 13630.28,
-      "individual_itemized_contributions": 11657.15,
-      "individual_unitemized_contributions": 1973.13,
-      "last_beginning_image_number": "202604239866684030",
-      "last_cash_on_hand_end_period": 4220.98,
-      "last_debts_owed_by_committee": 0.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 2110.07,
-      "last_net_operating_expenditures": 1542.99,
-      "last_report_type_full": "PRE-PRIMARY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 0.0,
-      "loans_made_by_candidate": 0.0,
-      "net_contributions": 13630.28,
-      "net_operating_expenditures": 5909.3,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 0.0,
-      "operating_expenditures": 5909.3,
-      "other_disbursements": 3500.0,
-      "other_political_committee_contributions": 0.0,
-      "other_receipts": 0.0,
-      "political_party_committee_contributions": 0.0,
-      "receipts": 13630.28,
-      "refunded_individual_contributions": 0.0,
-      "refunded_other_political_committee_contributions": 0.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-04-22T00:00:00",
-      "transfers_from_other_authorized_committee": 0.0,
-      "transfers_to_other_authorized_committee": 0.0
-    }
-  ],
+  "fetched_at": "2026-07-30T17:14:28.745889+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -189,6 +137,12 @@
       "total_receipts": null,
       "treasurer_name": "LYNCH, DAMON IV",
       "update_date": "2026-01-29"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
