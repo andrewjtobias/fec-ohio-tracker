@@ -1,7 +1,7 @@
 {
   "fec_id": "C00912865",
   "name": "OHIO FLYER PAC",
-  "fetched_at": "2026-08-01T07:59:45.320755+00:00",
+  "fetched_at": "2026-08-01T15:47:23.822583+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -86,7 +86,7 @@
       "sponsor_candidate_list": [],
       "total_exp_subject_limits": 0.0,
       "total_transfers": 0.0,
-      "transaction_coverage_date": "2026-04-15",
+      "transaction_coverage_date": "2026-06-30",
       "transfers_from_affiliated_party": 513229.85,
       "transfers_from_nonfed_account": 0.0,
       "transfers_from_nonfed_levin": 0.0,
