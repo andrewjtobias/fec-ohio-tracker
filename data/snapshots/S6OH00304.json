@@ -1,7 +1,7 @@
 {
   "fec_id": "S6OH00304",
   "name": "HUSTED, JON",
-  "fetched_at": "2026-08-01T20:42:39.851459+00:00",
+  "fetched_at": "2026-08-02T07:58:48.777575+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -12946,7 +12946,168 @@
       "spent": 2574148.3,
       "transfers": null,
       "cash_on_hand": 9418818.45,
-      "top_donors": []
+      "top_donors": [
+        {
+          "name": "TEAM HUSTED",
+          "amount": 515945.45,
+          "date": "2026-06-09",
+          "employer": null,
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "TEAM HUSTED",
+          "amount": 226757.51,
+          "date": "2026-05-09",
+          "employer": null,
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "TEAM HUSTED",
+          "amount": 182145.87,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "TEAM HUSTED",
+          "amount": 146782.55,
+          "date": "2026-05-09",
+          "employer": null,
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "TEAM HUSTED",
+          "amount": 123605.22,
+          "date": "2026-06-09",
+          "employer": null,
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "2026 SENATORS CLASSIC COMMITTEE",
+          "amount": 43000.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "ALEXANDRIA",
+          "state": "VA"
+        },
+        {
+          "name": "WINRED",
+          "amount": 14000.0,
+          "date": "2026-06-05",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "BOONE, STEVEN J.",
+          "amount": 14000.0,
+          "date": "2026-06-05",
+          "employer": "RLJ MANAGEMENT CO. INC.",
+          "city": "WESTERVILLE",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 10000.0,
+          "date": "2026-06-21",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "MCGOHAN, SCOTT",
+          "amount": 10000.0,
+          "date": "2026-06-21",
+          "employer": "ONE MORNING",
+          "city": "SPRINGBORO",
+          "state": "OH"
+        },
+        {
+          "name": "ZELTER, JAMES",
+          "amount": 7000.0,
+          "date": "2026-04-30",
+          "employer": "APOLLO GLOBAL MANAGEMENT",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "WILLIAMS, TIM",
+          "amount": 7000.0,
+          "date": "2026-05-02",
+          "employer": "21ST MORTGAGE CORP",
+          "city": "KNOXVILLE",
+          "state": "TN"
+        },
+        {
+          "name": "TAYLOR, GLEN",
+          "amount": 7000.0,
+          "date": "2026-06-29",
+          "employer": "RETIRED",
+          "city": "MANKATO",
+          "state": "MN"
+        },
+        {
+          "name": "SUNDQUIST, LARRY",
+          "amount": 7000.0,
+          "date": "2026-06-09",
+          "employer": "ADAMANT HOMES",
+          "city": "MILL CREEK",
+          "state": "WA"
+        },
+        {
+          "name": "SUNDQUIST, DIANE",
+          "amount": 7000.0,
+          "date": "2026-06-09",
+          "employer": "HOMEMAKER",
+          "city": "MILL CREEK",
+          "state": "WA"
+        },
+        {
+          "name": "SAMBUR, DAVID",
+          "amount": 7000.0,
+          "date": "2026-04-21",
+          "employer": "APOLLO",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "amount": 7000.0,
+          "date": "2026-05-01",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ROSMAN, ALIZA",
+          "amount": 7000.0,
+          "date": "2026-05-01",
+          "employer": "RETIRED",
+          "city": "MERION STATION",
+          "state": "PA"
+        },
+        {
+          "name": "RASTETTER, BRUCE",
+          "amount": 7000.0,
+          "date": "2026-04-17",
+          "employer": "SUMMIT AGRICULTURAL GROUP",
+          "city": "ALDEN",
+          "state": "IA"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "amount": 7000.0,
+          "date": "2026-04-24",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        }
+      ]
     },
     {
       "label": "Pre-Primary 2026",
