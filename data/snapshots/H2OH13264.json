@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH13264",
   "name": "SYKES, EMILIA",
-  "fetched_at": "2026-08-02T08:00:31.113954+00:00",
+  "fetched_at": "2026-08-02T15:52:43.687393+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1027,7 +1027,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {

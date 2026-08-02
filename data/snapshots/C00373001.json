@@ -1,7 +1,7 @@
 {
   "fec_id": "C00373001",
   "name": "CITIZENS FOR TURNER",
-  "fetched_at": "2026-08-02T07:55:18.275761+00:00",
+  "fetched_at": "2026-08-02T15:47:16.804666+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3810,19 +3810,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "FALLS CHURCH",
+        "designated_agent_first_name": "DANIELLE",
+        "designated_agent_last_name": "PARKER",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
-        "designated_agent_phone_number": null,
+        "designated_agent_name": "PARKER, DANIELLE",
+        "designated_agent_phone_number": "5714616091",
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
-        "designated_agent_street2": null,
+        "designated_agent_state": "VA",
+        "designated_agent_street1": "2941 FAIRVIEW PARK DR.",
+        "designated_agent_street2": "SUITE 100",
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASST. TREASURER, PAC",
+        "designated_agent_zip": "22042",
         "designation": "B",
         "designation_full": "Lobbyist/Registrant PAC",
         "filing_frequency": "M",
@@ -20611,10 +20611,5 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "errors": [
-    {
-      "step": "schedule_e",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?committee_id=C00373001&per_page=100&sort=-expenditure_date&api_key=REDACTED"
-    }
-  ]
+  "schedule_e": []
 }

@@ -1,7 +1,7 @@
 {
   "fec_id": "C00264697",
   "name": "DIGNITY OF WORK PAC",
-  "fetched_at": "2026-08-02T07:56:48.489639+00:00",
+  "fetched_at": "2026-08-02T15:48:31.835134+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -5844,8 +5844,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2026-05-14",
-        "last_file_date": "2026-07-14",
+        "last_f1_date": "2026-07-31",
+        "last_file_date": "2026-07-31",
         "name": "NV ENERGY POLITICAL ACTION COMMITTEE",
         "organization_type": "C",
         "organization_type_full": "Corporation",
@@ -5854,7 +5854,7 @@
         "state": "NV",
         "state_full": "Nevada",
         "street_1": "6100 NEIL ROAD",
-        "street_2": "DEBBIE FLORENCE, ASST. TREAS.",
+        "street_2": null,
         "treasurer_name": "BEHRENS, MICHAEL",
         "zip": "89511"
       },
