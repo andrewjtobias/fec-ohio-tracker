@@ -1,7 +1,7 @@
 {
   "fec_id": "C00912311",
   "name": "CONROY FOR CONGRESS",
-  "fetched_at": "2026-08-03T12:41:17.461155+00:00",
+  "fetched_at": "2026-08-03T18:28:53.764304+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -14894,5 +14894,10 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "errors": [
+    {
+      "step": "schedule_e",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
 }
