@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH13307",
   "name": "COLEMAN, CAREY",
-  "fetched_at": "2026-08-03T21:52:30.089325+00:00",
+  "fetched_at": "2026-08-04T10:16:45.277782+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -133,7 +133,168 @@
       "spent": 40137.51,
       "transfers": null,
       "cash_on_hand": 77727.37,
-      "top_donors": []
+      "top_donors": [
+        {
+          "name": "BUCKEYE LIBERTY PAC",
+          "amount": 5000.0,
+          "date": "2026-06-03",
+          "employer": null,
+          "city": "HUDSON",
+          "state": "WI"
+        },
+        {
+          "name": "ZIEGLER, HAROLD",
+          "amount": 3500.0,
+          "date": "2026-06-03",
+          "employer": "N/A",
+          "city": "CANTON",
+          "state": "OH"
+        },
+        {
+          "name": "CSATARY, GEORGE",
+          "amount": 3500.0,
+          "date": "2026-05-09",
+          "employer": "GATEWAY CORRIDOR LLC",
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "COLEMAN VICTORY FUND",
+          "amount": 2000.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "DUBLIN",
+          "state": "OH"
+        },
+        {
+          "name": "JIM JORDAN FOR CONGRESS",
+          "amount": 2000.0,
+          "date": "2026-06-03",
+          "employer": null,
+          "city": "DELAWARE",
+          "state": "OH"
+        },
+        {
+          "name": "HALTER, JOSEPH",
+          "amount": 1500.0,
+          "date": "2026-05-22",
+          "employer": "RETIRED",
+          "city": "CANTON",
+          "state": "OH"
+        },
+        {
+          "name": "CITIZENS UNITED POLITICAL VICTORY FUND",
+          "amount": 1000.0,
+          "date": "2026-06-16",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "WINRED",
+          "amount": 1000.0,
+          "date": "2026-06-26",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "PARTEE, STAN",
+          "amount": 1000.0,
+          "date": "2026-06-26",
+          "employer": "PARTEE ENTERPRISES",
+          "city": "BIG SPRING",
+          "state": "TX"
+        },
+        {
+          "name": "KONGTHONG, JANG",
+          "amount": 1000.0,
+          "date": "2026-05-08",
+          "employer": null,
+          "city": "LAS VEGAS",
+          "state": "NV"
+        },
+        {
+          "name": "DUMA, DAVID",
+          "amount": 1000.0,
+          "date": "2026-06-25",
+          "employer": "DUMA MEATS",
+          "city": "MOGADORE",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 520.51,
+          "date": "2026-06-03",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "KOZUB, MATTHEW",
+          "amount": 520.51,
+          "date": "2026-06-03",
+          "employer": "SELF",
+          "city": "CANTON",
+          "state": "OH"
+        },
+        {
+          "name": "KEY BANK",
+          "amount": 500.0,
+          "date": "2026-05-26",
+          "employer": null,
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "YADMARK, SAYAN",
+          "amount": 500.0,
+          "date": "2026-06-07",
+          "employer": "N/A",
+          "city": "PARMA",
+          "state": "OH"
+        },
+        {
+          "name": "YADMARK, SAYAN",
+          "amount": 500.0,
+          "date": "2026-04-28",
+          "employer": "N/A",
+          "city": "PARMA",
+          "state": "OH"
+        },
+        {
+          "name": "YADMARK, SAYAN",
+          "amount": 500.0,
+          "date": "2026-04-16",
+          "employer": "N/A",
+          "city": "PARMA",
+          "state": "OH"
+        },
+        {
+          "name": "WILKINSON, MELISSA",
+          "amount": 500.0,
+          "date": "2026-06-30",
+          "employer": "SUMMIT COUNTY BOARD OF ELECTIONS",
+          "city": "CUYAHOGA FALLS",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 500.0,
+          "date": "2026-06-15",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "PRIMM, MICHELLE",
+          "amount": 500.0,
+          "date": "2026-06-15",
+          "employer": "MANAGING PARTNER",
+          "city": "AKRON",
+          "state": "OH"
+        }
+      ]
     },
     {
       "label": "Pre-Primary 2026",

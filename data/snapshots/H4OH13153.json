@@ -1,7 +1,59 @@
 {
   "fec_id": "H4OH13153",
   "name": "COUGHLIN, KEVIN",
-  "fetched_at": "2026-08-03T21:52:48.050525+00:00",
+  "fetched_at": "2026-08-04T10:17:52.386157+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 0.0,
+      "candidate_election_year": 2026,
+      "candidate_id": "H4OH13153",
+      "contribution_refunds": 0.0,
+      "contributions": 0.0,
+      "coverage_end_date": "2025-03-31T00:00:00",
+      "coverage_start_date": "2025-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 4603.86,
+      "election_full": false,
+      "exempt_legal_accounting_disbursement": 0.0,
+      "federal_funds": 0.0,
+      "fundraising_disbursements": 0.0,
+      "individual_contributions": 0.0,
+      "individual_itemized_contributions": 0.0,
+      "individual_unitemized_contributions": 0.0,
+      "last_beginning_image_number": "202504149755350586",
+      "last_cash_on_hand_end_period": 0.0,
+      "last_debts_owed_by_committee": 0.0,
+      "last_debts_owed_to_committee": 0.0,
+      "last_net_contributions": 0.0,
+      "last_net_operating_expenditures": 2025.0,
+      "last_report_type_full": "TERMINATION REPORT",
+      "last_report_year": 2025,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 0.0,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 0.0,
+      "net_operating_expenditures": 2025.0,
+      "offsets_to_fundraising_expenditures": 0.0,
+      "offsets_to_legal_accounting": 0.0,
+      "offsets_to_operating_expenditures": 0.0,
+      "operating_expenditures": 2025.0,
+      "other_disbursements": 0.0,
+      "other_political_committee_contributions": 0.0,
+      "other_receipts": 0.0,
+      "political_party_committee_contributions": 0.0,
+      "receipts": 0.0,
+      "refunded_individual_contributions": 0.0,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "total_offsets_to_operating_expenditures": 0.0,
+      "transaction_coverage_date": "2025-03-31T00:00:00",
+      "transfers_from_other_authorized_committee": 0.0,
+      "transfers_to_other_authorized_committee": 2578.86
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -357,12 +409,6 @@
       "total_receipts": null,
       "treasurer_name": "COUGHLIN, KEVIN",
       "update_date": "2024-04-15"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H4OH13153/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
