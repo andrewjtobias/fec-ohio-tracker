@@ -1,7 +1,7 @@
 {
   "fec_id": "C00373001",
   "name": "CITIZENS FOR TURNER",
-  "fetched_at": "2026-08-04T10:16:43.521026+00:00",
+  "fetched_at": "2026-08-04T18:15:18.994609+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -514,7 +514,7 @@
       "contribution_receipt_amount": 1000.0,
       "contribution_receipt_date": "2026-04-11",
       "contributor": {
-        "affiliated_committee_name": "KEGLER BROWN HILL + RITTER LPA",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "COLUMBUS",
         "committee_id": "C00578914",

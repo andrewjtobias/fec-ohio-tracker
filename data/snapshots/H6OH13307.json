@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH13307",
   "name": "COLEMAN, CAREY",
-  "fetched_at": "2026-08-04T10:16:45.277782+00:00",
+  "fetched_at": "2026-08-04T18:15:20.643757+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -49,7 +49,7 @@
       "refunded_other_political_committee_contributions": 0.0,
       "refunded_political_party_committee_contributions": 0.0,
       "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-04-15T00:00:00",
+      "transaction_coverage_date": "2026-06-30T00:00:00",
       "transfers_from_other_authorized_committee": 2000.0,
       "transfers_to_other_authorized_committee": 0.0
     }

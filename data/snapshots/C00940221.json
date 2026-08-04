@@ -1,7 +1,7 @@
 {
   "fec_id": "C00940221",
   "name": "COMMITTEE TO ELECT JANICE BECKETT TO CONGRESS",
-  "fetched_at": "2026-08-04T10:16:47.789128+00:00",
+  "fetched_at": "2026-08-04T18:16:05.950418+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -53,7 +53,7 @@
       "refunded_individual_contributions": 0.0,
       "refunded_other_political_committee_contributions": 0.0,
       "refunded_political_party_committee_contributions": 0.0,
-      "transaction_coverage_date": "2026-04-15",
+      "transaction_coverage_date": "2026-06-30",
       "transfers_from_other_authorized_committee": 0.0,
       "transfers_to_other_authorized_committee": 0.0,
       "treasurer_name": "BECKETT, JANICE"
