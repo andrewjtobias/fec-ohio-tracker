@@ -1,7 +1,7 @@
 {
   "fec_id": "C00933366",
   "name": "POINDEXTER FOR CONGRESS",
-  "fetched_at": "2026-08-05T10:18:27.355799+00:00",
+  "fetched_at": "2026-08-05T17:21:14.861700+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -8559,7 +8559,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-07-16",
-        "last_file_date": "2026-07-16",
+        "last_file_date": "2026-08-04",
         "name": "WORKERS FIRST PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -8900,10 +8900,10 @@
       "contributor": {
         "affiliated_committee_name": "NONE",
         "candidate_ids": [],
-        "city": "ST. PAUL",
+        "city": "WASHINGTON",
         "committee_id": "C00913178",
-        "committee_type": "Q",
-        "committee_type_full": "PAC - Qualified",
+        "committee_type": "V",
+        "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
         "cycle": 2026,
         "cycles": [
           2026
@@ -8935,19 +8935,19 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2026-04-27",
-        "last_file_date": "2026-07-15",
+        "last_f1_date": "2026-08-03",
+        "last_file_date": "2026-08-03",
         "name": "LEAGUE OF LABOR VOTERS",
         "organization_type": null,
         "organization_type_full": null,
         "party": null,
         "party_full": null,
-        "state": "MN",
-        "state_full": "Minnesota",
-        "street_1": "2038 FORD PKWY",
-        "street_2": "#415",
+        "state": "DC",
+        "state_full": "District Of Columbia",
+        "street_1": "1319 F ST NW STE 301",
+        "street_2": "PMB 204",
         "treasurer_name": "BADILLO, JORGE",
-        "zip": "55116"
+        "zip": "20004"
       },
       "contributor_aggregate_ytd": 4000.0,
       "contributor_city": "SAINT PAUL",
