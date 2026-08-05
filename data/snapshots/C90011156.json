@@ -1,7 +1,22 @@
 {
   "fec_id": "C90011156",
   "name": "WORKING AMERICA",
-  "fetched_at": "2026-08-05T17:23:09.200000+00:00",
+  "fetched_at": "2026-08-05T22:25:32.671238+00:00",
+  "totals": [
+    {
+      "committee_id": "C90011156",
+      "committee_state": "DC",
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2026-04-01T00:00:00",
+      "cycle": 2026,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_file_date": "2010-03-25",
+      "total_independent_contributions": 0.0,
+      "total_independent_expenditures": 2162.79,
+      "transaction_coverage_date": null
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -335,12 +350,6 @@
       "total_receipts": null,
       "treasurer_name": "CHENG, TONY",
       "update_date": "2026-03-24"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

@@ -1,7 +1,64 @@
 {
   "fec_id": "C00932632",
   "name": "NEIL FOR OHIO",
-  "fetched_at": "2026-08-05T17:20:01.047822+00:00",
+  "fetched_at": "2026-08-05T22:23:18.901242+00:00",
+  "totals": [
+    {
+      "all_other_loans": 17885.33,
+      "candidate_contribution": 0.0,
+      "cash_on_hand_beginning_period": 0.0,
+      "committee_designation": "P",
+      "committee_designation_full": "Principal campaign committee",
+      "committee_id": "C00932632",
+      "committee_name": "NEIL FOR OHIO",
+      "committee_state": "OH",
+      "committee_type": "H",
+      "committee_type_full": "House",
+      "contribution_refunds": 0.0,
+      "contributions": 28600.24,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2026-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 41138.35,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_f1_date": "2026-01-02",
+      "first_file_date": "2026-01-02",
+      "individual_contributions": 28100.24,
+      "individual_itemized_contributions": 26393.56,
+      "individual_unitemized_contributions": 1706.68,
+      "last_beginning_image_number": "202607129874891492",
+      "last_cash_on_hand_end_period": 5347.22,
+      "last_debts_owed_by_committee": 17885.33,
+      "last_debts_owed_to_committee": 0.0,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 17885.33,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 28600.24,
+      "net_operating_expenditures": 41138.35,
+      "offsets_to_operating_expenditures": 0.0,
+      "operating_expenditures": 41138.35,
+      "organization_type": null,
+      "organization_type_full": null,
+      "other_disbursements": 0.0,
+      "other_political_committee_contributions": 500.0,
+      "other_receipts": 0.0,
+      "party_full": "REPUBLICAN PARTY",
+      "political_party_committee_contributions": 0.0,
+      "receipts": 46485.57,
+      "refunded_individual_contributions": 0.0,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "transaction_coverage_date": "2026-06-30",
+      "transfers_from_other_authorized_committee": 0.0,
+      "transfers_to_other_authorized_committee": 0.0,
+      "treasurer_name": "OBRIEN, NORBERT"
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -337,12 +394,6 @@
       "total_receipts": null,
       "treasurer_name": "OBRIEN, NORBERT",
       "update_date": "2026-01-02"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
