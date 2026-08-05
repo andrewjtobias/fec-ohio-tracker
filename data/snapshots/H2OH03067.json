@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH03067",
   "name": "TURNER, MICHAEL R",
-  "fetched_at": "2026-08-04T18:21:46.586060+00:00",
+  "fetched_at": "2026-08-05T10:18:28.749499+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -461,7 +461,168 @@
       "spent": 141225.57,
       "transfers": null,
       "cash_on_hand": 556284.07,
-      "top_donors": []
+      "top_donors": [
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+          "amount": 5000.0,
+          "date": "2026-04-28",
+          "employer": null,
+          "city": "ANNAPOLIS",
+          "state": "MD"
+        },
+        {
+          "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+          "amount": 5000.0,
+          "date": "2026-05-01",
+          "employer": null,
+          "city": "TYSONS",
+          "state": "VA"
+        },
+        {
+          "name": "MAINTAINING AMERICAN COMPETITIVENESS PAC",
+          "amount": 5000.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "HARRISBURG",
+          "state": "PA"
+        },
+        {
+          "name": "IN THE ARENA PAC",
+          "amount": 5000.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "LITTLE ROCK",
+          "state": "AR"
+        },
+        {
+          "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+          "amount": 5000.0,
+          "date": "2026-05-03",
+          "employer": null,
+          "city": "ANOKA",
+          "state": "MN"
+        },
+        {
+          "name": "BUCKEYE LIBERTY PAC",
+          "amount": 5000.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "HUDSON",
+          "state": "WI"
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS (FIREPAC)",
+          "amount": 4000.0,
+          "date": "2026-06-03",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "amount": 4000.0,
+          "date": "2026-05-05",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "WINRED",
+          "amount": 4000.0,
+          "date": "2026-06-15",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "DOUGHERTY, JENNIFER",
+          "amount": 4000.0,
+          "date": "2026-06-09",
+          "employer": "CARESOURCE",
+          "city": "DAYTON",
+          "state": "OH"
+        },
+        {
+          "name": "WINRED",
+          "amount": 3500.0,
+          "date": "2026-06-08",
+          "employer": null,
+          "city": "ARLINGTON",
+          "state": "VA"
+        },
+        {
+          "name": "PETITFRRE, ERNEST PIERRE",
+          "amount": 3500.0,
+          "date": "2026-06-02",
+          "employer": "CREDENCE MANAGEMENT SOLUTIONS",
+          "city": "DAYTON",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, PETER G MR.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "GOSIGER MACHINERY",
+          "city": "DAYTON",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, PETER G MR.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "GOSIGER MACHINERY",
+          "city": "DAYTON",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, JOHN R. MR.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "GOSIGER INC",
+          "city": "OAKWOOD",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, JOHN R. MR.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "GOSIGER INC",
+          "city": "OAKWOOD",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, CARRIE COKER MS.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "GOSIGER INC",
+          "city": "OAKWOOD",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, CARRIE COKER MS.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "GOSIGER INC",
+          "city": "OAKWOOD",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, BARBARA L MRS.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "NONE",
+          "city": "OAKWOOD",
+          "state": "OH"
+        },
+        {
+          "name": "HALEY, BARBARA L MRS.",
+          "amount": 3500.0,
+          "date": "2026-04-28",
+          "employer": "NONE",
+          "city": "OAKWOOD",
+          "state": "OH"
+        }
+      ]
     },
     {
       "label": "Pre-Primary 2026",

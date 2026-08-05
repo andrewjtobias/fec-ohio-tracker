@@ -1,7 +1,8 @@
 {
   "fec_id": "C90022518",
   "name": "OHIO WORKS",
-  "fetched_at": "2026-08-04T18:21:11.959156+00:00",
+  "fetched_at": "2026-08-05T10:18:23.721901+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,
@@ -337,12 +338,6 @@
       "total_receipts": null,
       "treasurer_name": "LANGDON, DAVID",
       "update_date": "2024-09-27"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
   "fec_id": "C90018904",
   "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
-  "fetched_at": "2026-08-04T18:24:37.363385+00:00",
+  "fetched_at": "2026-08-05T10:20:21.645441+00:00",
+  "totals": [
+    {
+      "committee_id": "C90018904",
+      "committee_state": "VA",
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-01-01T00:00:00",
+      "cycle": 2026,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_file_date": "2020-01-08",
+      "total_independent_contributions": 112666.59,
+      "total_independent_expenditures": 207338.33,
+      "transaction_coverage_date": null
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -337,12 +352,6 @@
       "total_receipts": null,
       "treasurer_name": "PFAFF, JIM",
       "update_date": "2026-07-22"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
