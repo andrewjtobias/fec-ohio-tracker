@@ -1,59 +1,7 @@
 {
   "fec_id": "S6OH00163",
   "name": "BROWN, SHERROD",
-  "fetched_at": "2026-08-05T22:18:38.896053+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "candidate_election_year": 2026,
-      "candidate_id": "S6OH00163",
-      "contribution_refunds": 243146.01,
-      "contributions": 32007356.12,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-08-11T00:00:00",
-      "cycle": 2026,
-      "disbursements": 22336492.78,
-      "election_full": false,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 31146133.4,
-      "individual_itemized_contributions": 17618345.74,
-      "individual_unitemized_contributions": 13527787.66,
-      "last_beginning_image_number": "202607159890563695",
-      "last_cash_on_hand_end_period": 16229741.32,
-      "last_debts_owed_by_committee": 0.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 10121948.22,
-      "last_net_operating_expenditures": 13265620.14,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 0.0,
-      "loans_made_by_candidate": 0.0,
-      "net_contributions": 31764210.11,
-      "net_operating_expenditures": 22065463.87,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 20882.9,
-      "operating_expenditures": 22086346.77,
-      "other_disbursements": 7000.0,
-      "other_political_committee_contributions": 861022.72,
-      "other_receipts": 237933.15,
-      "political_party_committee_contributions": 200.0,
-      "receipts": 38566234.1,
-      "refunded_individual_contributions": 241646.01,
-      "refunded_other_political_committee_contributions": 1500.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-06-30T00:00:00",
-      "transfers_from_other_authorized_committee": 6300061.93,
-      "transfers_to_other_authorized_committee": 0.0
-    }
-  ],
+  "fetched_at": "2026-08-06T10:15:18.205139+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -13688,6 +13636,12 @@
           "state": "DC"
         }
       ]
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
