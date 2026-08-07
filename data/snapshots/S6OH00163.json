@@ -1,7 +1,7 @@
 {
   "fec_id": "S6OH00163",
   "name": "BROWN, SHERROD",
-  "fetched_at": "2026-08-07T09:36:47.545393+00:00",
+  "fetched_at": "2026-08-07T15:11:58.700516+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -505,7 +505,607 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "SHERROD",
+      "candidate_id": "S6OH00163",
+      "candidate_last_name": "BROWN",
+      "candidate_middle_name": null,
+      "candidate_name": "BROWN, SHERROD",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "004",
+      "category_code_full": "Advertising Expenses ",
+      "committee": {
+        "affiliated_committee_name": null,
+        "candidate_ids": [],
+        "city": "ARLINGTON",
+        "committee_id": "C00687103",
+        "committee_type": "V",
+        "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+        "cycle": 2026,
+        "cycles": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": "ARLINGTON",
+        "designated_agent_first_name": "JONATHAN",
+        "designated_agent_last_name": "ADCOCK",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "ADCOCK, JONATHAN",
+        "designated_agent_phone_number": "7032243200",
+        "designated_agent_prefix": null,
+        "designated_agent_state": "VA",
+        "designated_agent_street1": "4201 WILSON BLVD. #110",
+        "designated_agent_street2": "PO BOX 358",
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "22203",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2018-09-10",
+        "first_file_date": "2018-09-10",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-09-02",
+        "last_file_date": "2026-08-06",
+        "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "VA",
+        "state_full": "Virginia",
+        "street_1": "4201 WILSON BLVD. #110",
+        "street_2": "PO BOX 358",
+        "treasurer_name": "CLANCY, MARGEE",
+        "zip": "22203"
+      },
+      "committee_id": "C00687103",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": null,
+      "dissemination_date": "2026-08-04",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 2500.0,
+      "expenditure_date": "2026-08-04",
+      "expenditure_description": "MEDIA PRODUCTION",
+      "file_number": 2004631,
+      "filer_first_name": "MARGEE",
+      "filer_last_name": "CLANCY",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": "TREASURER",
+      "filing_date": "2026-08-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202608069899378415",
+      "independent_sign_date": "2026-08-06",
+      "independent_sign_name": "CLANCY, MARGEE TREASURER",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4080620261570255048,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 4203989.26,
+      "original_sub_id": null,
+      "payee_city": "ARLINGTON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "TARGETED VICTORY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "2311 WILSON BOULEVARD",
+      "payee_street_2": "SUITE 200",
+      "payee_suffix": null,
+      "payee_zip": "22201",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202608069899378415",
+      "previous_file_number": 2004631,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4080620261570446195",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.38444"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00163",
+        "idx": 128638,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "SHERROD",
+      "candidate_id": "S6OH00163",
+      "candidate_last_name": "BROWN",
+      "candidate_middle_name": null,
+      "candidate_name": "BROWN, SHERROD",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "004",
+      "category_code_full": "Advertising Expenses ",
+      "committee": {
+        "affiliated_committee_name": null,
+        "candidate_ids": [],
+        "city": "ARLINGTON",
+        "committee_id": "C00687103",
+        "committee_type": "V",
+        "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+        "cycle": 2026,
+        "cycles": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": "ARLINGTON",
+        "designated_agent_first_name": "JONATHAN",
+        "designated_agent_last_name": "ADCOCK",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "ADCOCK, JONATHAN",
+        "designated_agent_phone_number": "7032243200",
+        "designated_agent_prefix": null,
+        "designated_agent_state": "VA",
+        "designated_agent_street1": "4201 WILSON BLVD. #110",
+        "designated_agent_street2": "PO BOX 358",
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "22203",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2018-09-10",
+        "first_file_date": "2018-09-10",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-09-02",
+        "last_file_date": "2026-08-06",
+        "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "VA",
+        "state_full": "Virginia",
+        "street_1": "4201 WILSON BLVD. #110",
+        "street_2": "PO BOX 358",
+        "treasurer_name": "CLANCY, MARGEE",
+        "zip": "22203"
+      },
+      "committee_id": "C00687103",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": null,
+      "dissemination_date": "2026-08-04",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 8278.99,
+      "expenditure_date": "2026-08-04",
+      "expenditure_description": "DOORHANGER PRODUCTION",
+      "file_number": 2004631,
+      "filer_first_name": "MARGEE",
+      "filer_last_name": "CLANCY",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": "TREASURER",
+      "filing_date": "2026-08-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202608069899378404",
+      "independent_sign_date": "2026-08-06",
+      "independent_sign_name": "CLANCY, MARGEE TREASURER",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4080620261570255048,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 4203989.26,
+      "original_sub_id": null,
+      "payee_city": "MANDEVILLE",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PEOPLE WHO THINK",
+      "payee_prefix": null,
+      "payee_state": "LA",
+      "payee_street_1": "4522 LA-22",
+      "payee_street_2": "STE. 7",
+      "payee_suffix": null,
+      "payee_zip": "70471",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202608069899378404",
+      "previous_file_number": 2004631,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4080620261570446174",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.38451"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00163",
+        "idx": 128638,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "SHERROD",
+      "candidate_id": "S6OH00163",
+      "candidate_last_name": "BROWN",
+      "candidate_middle_name": null,
+      "candidate_name": "BROWN, SHERROD",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "004",
+      "category_code_full": "Advertising Expenses ",
+      "committee": {
+        "affiliated_committee_name": null,
+        "candidate_ids": [],
+        "city": "ARLINGTON",
+        "committee_id": "C00687103",
+        "committee_type": "V",
+        "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+        "cycle": 2026,
+        "cycles": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": "ARLINGTON",
+        "designated_agent_first_name": "JONATHAN",
+        "designated_agent_last_name": "ADCOCK",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "ADCOCK, JONATHAN",
+        "designated_agent_phone_number": "7032243200",
+        "designated_agent_prefix": null,
+        "designated_agent_state": "VA",
+        "designated_agent_street1": "4201 WILSON BLVD. #110",
+        "designated_agent_street2": "PO BOX 358",
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "22203",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2018-09-10",
+        "first_file_date": "2018-09-10",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-09-02",
+        "last_file_date": "2026-08-06",
+        "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "VA",
+        "state_full": "Virginia",
+        "street_1": "4201 WILSON BLVD. #110",
+        "street_2": "PO BOX 358",
+        "treasurer_name": "CLANCY, MARGEE",
+        "zip": "22203"
+      },
+      "committee_id": "C00687103",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": null,
+      "dissemination_date": "2026-08-04",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 249017.96,
+      "expenditure_date": "2026-08-04",
+      "expenditure_description": "MEDIA PLACEMENT",
+      "file_number": 2004631,
+      "filer_first_name": "MARGEE",
+      "filer_last_name": "CLANCY",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": "TREASURER",
+      "filing_date": "2026-08-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202608069899378403",
+      "independent_sign_date": "2026-08-06",
+      "independent_sign_name": "CLANCY, MARGEE TREASURER",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4080620261570255048,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 4203989.26,
+      "original_sub_id": null,
+      "payee_city": "ARLINGTON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "IN PURSUIT OF LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "4201 WILSON BOULEVARD",
+      "payee_street_2": "SUITE 900",
+      "payee_suffix": null,
+      "payee_zip": "222031867",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202608069899378403",
+      "previous_file_number": 2004631,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4080620261570446171",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.38449"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00163",
+        "idx": 128638,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "SHERROD",
+      "candidate_id": "S6OH00163",
+      "candidate_last_name": "BROWN",
+      "candidate_middle_name": null,
+      "candidate_name": "BROWN, SHERROD",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "004",
+      "category_code_full": "Advertising Expenses ",
+      "committee": {
+        "affiliated_committee_name": null,
+        "candidate_ids": [],
+        "city": "ARLINGTON",
+        "committee_id": "C00687103",
+        "committee_type": "V",
+        "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+        "cycle": 2026,
+        "cycles": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": "ARLINGTON",
+        "designated_agent_first_name": "JONATHAN",
+        "designated_agent_last_name": "ADCOCK",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "ADCOCK, JONATHAN",
+        "designated_agent_phone_number": "7032243200",
+        "designated_agent_prefix": null,
+        "designated_agent_state": "VA",
+        "designated_agent_street1": "4201 WILSON BLVD. #110",
+        "designated_agent_street2": "PO BOX 358",
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "22203",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2018-09-10",
+        "first_file_date": "2018-09-10",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-09-02",
+        "last_file_date": "2026-08-06",
+        "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "VA",
+        "state_full": "Virginia",
+        "street_1": "4201 WILSON BLVD. #110",
+        "street_2": "PO BOX 358",
+        "treasurer_name": "CLANCY, MARGEE",
+        "zip": "22203"
+      },
+      "committee_id": "C00687103",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": null,
+      "dissemination_date": "2026-08-04",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 11250.0,
+      "expenditure_date": "2026-08-04",
+      "expenditure_description": "MEDIA PRODUCTION",
+      "file_number": 2004631,
+      "filer_first_name": "MARGEE",
+      "filer_last_name": "CLANCY",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": "TREASURER",
+      "filing_date": "2026-08-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202608069899378398",
+      "independent_sign_date": "2026-08-06",
+      "independent_sign_name": "CLANCY, MARGEE TREASURER",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4080620261570255048,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 4203989.26,
+      "original_sub_id": null,
+      "payee_city": "ARLINGTON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "FP1 STRATEGIES LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "3001 WASHINGTON BLVD.",
+      "payee_street_2": "7TH FLOOR",
+      "payee_suffix": null,
+      "payee_zip": "22201",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202608069899378398",
+      "previous_file_number": 2004631,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4080620261570446162",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.38447"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00163",
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -569,7 +1169,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -652,7 +1252,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -716,7 +1316,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -799,7 +1399,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -863,7 +1463,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -946,7 +1546,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1010,7 +1610,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -1093,7 +1693,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1157,7 +1757,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -1240,7 +1840,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1304,7 +1904,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -1387,7 +1987,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1451,7 +2051,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -1534,7 +2134,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1598,7 +2198,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -1681,7 +2281,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1745,7 +2345,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-05",
         "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
         "organization_type": null,
         "organization_type_full": null,
@@ -1828,7 +2428,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1966,7 +2566,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2104,7 +2704,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2242,7 +2842,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2309,7 +2909,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2392,7 +2992,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2459,7 +3059,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2542,7 +3142,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2609,7 +3209,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2692,7 +3292,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2830,7 +3430,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2968,7 +3568,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3035,7 +3635,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3118,7 +3718,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3256,7 +3856,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3323,7 +3923,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3406,7 +4006,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3473,7 +4073,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3556,7 +4156,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3623,7 +4223,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3706,7 +4306,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3773,7 +4373,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -3856,7 +4456,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3923,7 +4523,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4006,7 +4606,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4064,7 +4664,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-06-24",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "FORWARD BLUE",
         "organization_type": null,
         "organization_type_full": null,
@@ -4147,7 +4747,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4217,7 +4817,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4300,7 +4900,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4370,7 +4970,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4453,7 +5053,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4520,7 +5120,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4603,7 +5203,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4670,7 +5270,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4753,7 +5353,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4820,7 +5420,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4903,7 +5503,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4970,7 +5570,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -5053,7 +5653,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5120,7 +5720,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -5203,7 +5803,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5365,7 +5965,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5527,7 +6127,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5585,7 +6185,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-06-24",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "FORWARD BLUE",
         "organization_type": null,
         "organization_type_full": null,
@@ -5668,7 +6268,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5812,7 +6412,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5956,7 +6556,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6023,7 +6623,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6106,7 +6706,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6256,7 +6856,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6394,7 +6994,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6532,7 +7132,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6670,7 +7270,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6737,7 +7337,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -6820,7 +7420,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6958,7 +7558,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7025,7 +7625,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -7108,7 +7708,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7175,7 +7775,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-09-02",
-        "last_file_date": "2026-08-05",
+        "last_file_date": "2026-08-06",
         "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -7258,7 +7858,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7411,7 +8011,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7549,7 +8149,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7687,7 +8287,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7825,7 +8425,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7963,7 +8563,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8107,7 +8707,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8251,7 +8851,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8401,7 +9001,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8551,7 +9151,7 @@
       "back_reference_transaction_id": "XEALC1641",
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8701,7 +9301,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8851,7 +9451,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8995,7 +9595,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9133,7 +9733,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9277,7 +9877,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9427,7 +10027,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9577,7 +10177,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9727,7 +10327,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9877,7 +10477,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10015,7 +10615,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10085,7 +10685,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10168,7 +10768,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10238,7 +10838,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10321,7 +10921,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10391,7 +10991,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10474,7 +11074,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10544,7 +11144,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10627,7 +11227,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10777,7 +11377,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10915,7 +11515,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11059,7 +11659,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11203,7 +11803,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11347,7 +11947,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11491,7 +12091,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11635,7 +12235,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11779,7 +12379,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11849,7 +12449,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -11932,7 +12532,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12002,7 +12602,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -12085,7 +12685,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12155,7 +12755,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-06",
         "name": "SLF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -12238,7 +12838,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12382,7 +12982,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12532,7 +13132,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12694,7 +13294,7 @@
       "back_reference_transaction_id": "D8A60F32E6C734D18973",
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128637,
+        "idx": 128638,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12758,7 +13358,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-01-11",
-        "last_file_date": "2026-07-30",
+        "last_file_date": "2026-08-06",
         "name": "RED SENATE",
         "organization_type": null,
         "organization_type_full": null,

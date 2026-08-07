@@ -1,7 +1,7 @@
 {
   "fec_id": "C00856823",
   "name": "MILLER FOR AMERICA",
-  "fetched_at": "2026-08-07T09:41:17.039047+00:00",
+  "fetched_at": "2026-08-07T15:16:26.614936+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -53,7 +53,7 @@
       "refunded_individual_contributions": 8744.0,
       "refunded_other_political_committee_contributions": 0.0,
       "refunded_political_party_committee_contributions": 0.0,
-      "transaction_coverage_date": "2026-04-15",
+      "transaction_coverage_date": "2026-06-30",
       "transfers_from_other_authorized_committee": 0.0,
       "transfers_to_other_authorized_committee": 0.0,
       "treasurer_name": "DECOLA, JOE"

@@ -1,7 +1,7 @@
 {
   "fec_id": "C00800276",
   "name": "LANDSMAN FOR CONGRESS",
-  "fetched_at": "2026-08-07T09:40:08.100775+00:00",
+  "fetched_at": "2026-08-07T15:15:47.145034+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3578,7 +3578,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-15",
-        "last_file_date": "2026-07-15",
+        "last_file_date": "2026-08-06",
         "name": "LIFTOFF PAC",
         "organization_type": null,
         "organization_type_full": null,
