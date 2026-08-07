@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH10121",
   "name": "KNICKERBOCKER, KRISTINA",
-  "fetched_at": "2026-08-07T05:58:17.841052+00:00",
+  "fetched_at": "2026-08-07T09:40:07.079307+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -201,7 +201,168 @@
       "spent": 125393.81,
       "transfers": null,
       "cash_on_hand": 125159.62,
-      "top_donors": []
+      "top_donors": [
+        {
+          "name": "IMPOSSIBLE TO INEVITABLE",
+          "amount": 7400.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "EMILY'S LIST",
+          "amount": 5000.0,
+          "date": "2026-06-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-05-24",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "YOUNGER, SCOTT",
+          "amount": 3500.0,
+          "date": "2026-05-21",
+          "employer": "SP HOLDINGS",
+          "city": "SEATTLE",
+          "state": "WA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-06-28",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "YEGEN, CHRIS",
+          "amount": 3500.0,
+          "date": "2026-06-23",
+          "employer": "NOT EMPLOYED",
+          "city": "TENAFLY",
+          "state": "NJ"
+        },
+        {
+          "name": "DIGIDEMS PAC",
+          "amount": 3500.0,
+          "date": "2026-05-07",
+          "employer": null,
+          "city": "WEST HOLLYWOOD",
+          "state": "CA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-05-31",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "WU, ALBERT",
+          "amount": 3500.0,
+          "date": "2026-05-25",
+          "employer": "JANE STREET",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "VON STEIN, THOMSON",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": "RETIRED",
+          "city": "ROCKVILLE",
+          "state": "MD"
+        },
+        {
+          "name": "SOROS, JONATHAN",
+          "amount": 3500.0,
+          "date": "2026-06-24",
+          "employer": "CEO",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "SOROS, JONATHAN",
+          "amount": 3500.0,
+          "date": "2026-04-22",
+          "employer": "CEO",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "SOROS, JENNIFER",
+          "amount": 3500.0,
+          "date": "2026-06-24",
+          "employer": "SELF EMPLOYED",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "SOROS, JENNIFER",
+          "amount": 3500.0,
+          "date": "2026-04-22",
+          "employer": "SELF EMPLOYED",
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "OATH",
+          "amount": 3500.0,
+          "date": "2026-06-15",
+          "employer": null,
+          "city": "DULLES",
+          "state": "VA"
+        },
+        {
+          "name": "SHACKELFORD, LEE",
+          "amount": 3500.0,
+          "date": "2026-06-09",
+          "employer": "BEXLEY RECREATIKN",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "SCHUSTERMAN, STACY H",
+          "amount": 3500.0,
+          "date": "2026-06-03",
+          "employer": "SAMSON ENERGY",
+          "city": "TULSA",
+          "state": "OK"
+        },
+        {
+          "name": "SCHUSTERMAN, LYNN",
+          "amount": 3500.0,
+          "date": "2026-06-03",
+          "employer": "CHARLES AND LYNN SCHUSTERMAN FAMILY PH",
+          "city": "TULSA",
+          "state": "OK"
+        },
+        {
+          "name": "PIGOTT, GAYE",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": "NOT EMPLOYED",
+          "city": "SEATTLE",
+          "state": "WA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-05-03",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        }
+      ]
     },
     {
       "label": "Pre-Primary 2026",

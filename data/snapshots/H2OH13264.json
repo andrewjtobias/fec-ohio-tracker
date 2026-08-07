@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH13264",
   "name": "SYKES, EMILIA",
-  "fetched_at": "2026-08-07T05:59:54.365707+00:00",
+  "fetched_at": "2026-08-07T09:42:05.486288+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -52,6 +52,398 @@
       "transaction_coverage_date": "2026-04-15T00:00:00",
       "transfers_from_other_authorized_committee": 183102.93,
       "transfers_to_other_authorized_committee": 0.0
+    }
+  ],
+  "filings": [
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1557598,
+        1662972,
+        1764275,
+        1795719,
+        1813297,
+        1848950,
+        1875232,
+        1881171,
+        1898789,
+        1916405,
+        1933311,
+        1965362,
+        1971689,
+        2003168
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 13,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202607319899259669",
+      "candidate_id": "H2OH13264",
+      "candidate_name": "SYKES, EMILIA",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H2OH13264",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/168/2003168.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202607319899259671",
+      "fec_file_id": "FEC-2003168",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2003168.fec",
+      "file_number": 2003168,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH13264/2003168/",
+      "is_amended": false,
+      "means_filed": "e-file",
+      "most_recent": true,
+      "most_recent_file_number": 2003168,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 3,
+      "party": "DEM",
+      "pdf_url": "https://docquery.fec.gov/pdf/669/202607319899259669/202607319899259669.pdf",
+      "previous_file_number": 1971689,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-07-31T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4073120261539959002",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "SYKES, EMILIA",
+      "update_date": "2026-07-31"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1557598,
+        1662972,
+        1764275,
+        1795719,
+        1813297,
+        1848950,
+        1875232,
+        1881171,
+        1898789,
+        1916405,
+        1933311,
+        1965362,
+        1971689
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 12,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202604299866728418",
+      "candidate_id": "H2OH13264",
+      "candidate_name": "SYKES, EMILIA",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H2OH13264",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/689/1971689.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202604299866728420",
+      "fec_file_id": "FEC-1971689",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/1971689.fec",
+      "file_number": 1971689,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH13264/1971689/",
+      "is_amended": true,
+      "means_filed": "e-file",
+      "most_recent": false,
+      "most_recent_file_number": 2003168,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 3,
+      "party": "DEM",
+      "pdf_url": "https://docquery.fec.gov/pdf/418/202604299866728418/202604299866728418.pdf",
+      "previous_file_number": 1965362,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-04-29T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4042920261483907010",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "SYKES, EMILIA",
+      "update_date": "2026-04-29"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1557598,
+        1662972,
+        1764275,
+        1795719,
+        1813297,
+        1848950,
+        1875232,
+        1881171,
+        1898789,
+        1916405,
+        1933311,
+        1965362
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 11,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202604159862282211",
+      "candidate_id": "H2OH13264",
+      "candidate_name": "SYKES, EMILIA",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H2OH13264",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/362/1965362.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202604159862282213",
+      "fec_file_id": "FEC-1965362",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/1965362.fec",
+      "file_number": 1965362,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH13264/1965362/",
+      "is_amended": true,
+      "means_filed": "e-file",
+      "most_recent": false,
+      "most_recent_file_number": 2003168,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 3,
+      "party": "DEM",
+      "pdf_url": "https://docquery.fec.gov/pdf/211/202604159862282211/202604159862282211.pdf",
+      "previous_file_number": 1933311,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-04-15T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4041520261435729013",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "SYKES, EMILIA",
+      "update_date": "2026-04-15"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1557598,
+        1662972,
+        1764275,
+        1795719,
+        1813297,
+        1848950,
+        1875232,
+        1881171,
+        1898789,
+        1916405,
+        1933311
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 10,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202601169794024794",
+      "candidate_id": "H2OH13264",
+      "candidate_name": "SYKES, EMILIA",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H2OH13264",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/311/1933311.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202601169794024796",
+      "fec_file_id": "FEC-1933311",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/1933311.fec",
+      "file_number": 1933311,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH13264/1933311/",
+      "is_amended": true,
+      "means_filed": "e-file",
+      "most_recent": false,
+      "most_recent_file_number": 2003168,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 3,
+      "party": "DEM",
+      "pdf_url": "https://docquery.fec.gov/pdf/794/202601169794024794/202601169794024794.pdf",
+      "previous_file_number": 1916405,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-01-16T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4011620261302504016",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "SYKES, EMILIA",
+      "update_date": "2026-01-16"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1557598,
+        1662972,
+        1764275,
+        1795719,
+        1813297,
+        1848950,
+        1875232,
+        1881171,
+        1898789,
+        1916405
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 9,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202509229790380107",
+      "candidate_id": "H2OH13264",
+      "candidate_name": "SYKES, EMILIA",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H2OH13264",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/405/1916405.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2025",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202509229790380109",
+      "fec_file_id": "FEC-1916405",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/1916405.fec",
+      "file_number": 1916405,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH13264/1916405/",
+      "is_amended": true,
+      "means_filed": "e-file",
+      "most_recent": false,
+      "most_recent_file_number": 2003168,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 3,
+      "party": "DEM",
+      "pdf_url": "https://docquery.fec.gov/pdf/107/202509229790380107/202509229790380107.pdf",
+      "previous_file_number": 1898789,
+      "primary_general_indicator": null,
+      "receipt_date": "2025-09-22T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2025,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4092220251291598007",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "SYKES, EMILIA",
+      "update_date": "2025-09-22"
     }
   ],
   "schedule_e_target": [
@@ -1928,14 +2320,1051 @@
       "transaction_id": "500487328"
     }
   ],
-  "errors": [
+  "quarterly": [
     {
-      "step": "filings",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+      "label": "July Quarterly 2026",
+      "coverage_start": "2026-04-16",
+      "coverage_end": "2026-06-30",
+      "raised": 539234.09,
+      "spent": 295835.15,
+      "transfers": null,
+      "cash_on_hand": 1897462.29,
+      "top_donors": [
+        {
+          "name": "LAHLOU, R'NELLE",
+          "amount": 1000.0,
+          "date": "2026-05-20",
+          "employer": "GOLDEN STATE INDUSTRIES INC",
+          "city": "SAN DIEGO",
+          "state": "CA"
+        }
+      ]
     },
     {
-      "step": "quarterly",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+      "label": "Pre-Primary 2026",
+      "coverage_start": "2026-04-01",
+      "coverage_end": "2026-04-15",
+      "raised": 89130.48,
+      "spent": 45310.27,
+      "transfers": null,
+      "cash_on_hand": 1654063.35,
+      "top_donors": [
+        {
+          "name": "THE COLLECTIVE PAC",
+          "amount": 5000.0,
+          "date": "2026-04-02",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+          "amount": 5000.0,
+          "date": "2026-04-13",
+          "employer": null,
+          "city": "MOORHEAD",
+          "state": "MN"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2026-04-05",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "HULL, MEGAN",
+          "amount": 3500.0,
+          "date": "2026-04-01",
+          "employer": "SELF-EMPLOYED",
+          "city": "PIEDMONT",
+          "state": "CA"
+        },
+        {
+          "name": "WIENER, JONATHAN M.",
+          "amount": 3500.0,
+          "date": "2026-04-03",
+          "employer": "SELF-EMPLOYED",
+          "city": "LOS ANGELES",
+          "state": "CA"
+        },
+        {
+          "name": "WIENER, JONATHAN M.",
+          "amount": 3500.0,
+          "date": "2026-04-03",
+          "employer": "SELF-EMPLOYED",
+          "city": "LOS ANGELES",
+          "state": "CA"
+        },
+        {
+          "name": "CHAMBERLIN, SUSAN",
+          "amount": 3500.0,
+          "date": "2026-04-14",
+          "employer": "NOT EMPLOYED",
+          "city": "RICHMOND",
+          "state": "CA"
+        },
+        {
+          "name": "CHAMBERLIN, STEPHEN W.",
+          "amount": 3500.0,
+          "date": "2026-04-14",
+          "employer": "NOT EMPLOYED",
+          "city": "RICHMOND",
+          "state": "CA"
+        },
+        {
+          "name": "SCHOTTENSTEIN, ROBERT H.",
+          "amount": 3500.0,
+          "date": "2026-04-03",
+          "employer": "M/I HOMES INC",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "FISKIN, JUDITH A.",
+          "amount": 3500.0,
+          "date": "2026-04-03",
+          "employer": "CALIFORNIA INSTITUTE OF THE ARTS",
+          "city": "LOS ANGELES",
+          "state": "CA"
+        },
+        {
+          "name": "FISKIN, JUDITH A.",
+          "amount": 3500.0,
+          "date": "2026-04-03",
+          "employer": "CALIFORNIA INSTITUTE OF THE ARTS",
+          "city": "LOS ANGELES",
+          "state": "CA"
+        },
+        {
+          "name": "FRONTLINE ORGANIZING FOR REPRESENTATION, CHANGE & EQUITY (FORCE) PAC",
+          "amount": 1500.0,
+          "date": "2026-04-06",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ORGANON & CO. EMPLOYEE POLITICAL ACTION COMMITTEE",
+          "amount": 1500.0,
+          "date": "2026-04-08",
+          "employer": null,
+          "city": "JERSEY CITY",
+          "state": "NJ"
+        },
+        {
+          "name": "ASSOCIATED EQUIPMENT DISTRIBUTORS POLITICAL ACTION COMMITTEE",
+          "amount": 1500.0,
+          "date": "2026-04-07",
+          "employer": null,
+          "city": "SCHAUMBURG",
+          "state": "IL"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 1428.57,
+          "date": "2026-04-12",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "HIRSCH, WILLIAM",
+          "amount": 1428.57,
+          "date": "2026-04-08",
+          "employer": "PEER REVIEW FILMS",
+          "city": "SONOMA",
+          "state": "CA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 1428.57,
+          "date": "2026-04-12",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "ROSENSTIEL, PAUL",
+          "amount": 1428.57,
+          "date": "2026-04-07",
+          "employer": "NOT EMPLOYED",
+          "city": "SAN FRANCISCO",
+          "state": "CA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 1428.57,
+          "date": "2026-04-12",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "NACHTWEY, GREG",
+          "amount": 1428.57,
+          "date": "2026-04-08",
+          "employer": "NOT EMPLOYED",
+          "city": "BERKELEY",
+          "state": "CA"
+        }
+      ]
+    },
+    {
+      "label": "April Quarterly 2026",
+      "coverage_start": "2026-01-01",
+      "coverage_end": "2026-03-31",
+      "raised": 667518.49,
+      "spent": 356863.1,
+      "transfers": null,
+      "cash_on_hand": 1610243.14,
+      "top_donors": [
+        {
+          "name": "CLARK FRONTLINE VICTORY FUND",
+          "amount": 20600.0,
+          "date": "2026-03-25",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "JEFFRIES BATTLEGROUND PROTECTION FUND",
+          "amount": 9733.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "THE METROPOLITAN HOTEL",
+          "amount": 6586.28,
+          "date": "2026-03-18",
+          "employer": null,
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC",
+          "amount": 5000.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "ANNAPOLIS",
+          "state": "MD"
+        },
+        {
+          "name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+          "amount": 5000.0,
+          "date": "2026-03-19",
+          "employer": null,
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "PAC TO THE FUTURE",
+          "amount": 5000.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCINNG IRON WORKERS (IPAL)",
+          "amount": 5000.0,
+          "date": "2026-03-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COPE",
+          "amount": 5000.0,
+          "date": "2026-01-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "amount": 5000.0,
+          "date": "2026-03-04",
+          "employer": null,
+          "city": "FORT WORTH",
+          "state": "TX"
+        },
+        {
+          "name": "PATTULLO, BETSY",
+          "amount": 3500.0,
+          "date": "2026-02-28",
+          "employer": "NOT EMPLOYED",
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "EISENSON, MICHAEL",
+          "amount": 3500.0,
+          "date": "2026-02-25",
+          "employer": "CHARLESBANK CAPITAL PARTNERS",
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SWING LEFT",
+          "amount": 3500.0,
+          "date": "2026-02-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "BASHEVKIN, ELI",
+          "amount": 3500.0,
+          "date": "2026-02-23",
+          "employer": "FLUENCE ENERGY",
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "JSTREETPAC",
+          "amount": 3500.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "RATNER, RONALD A.",
+          "amount": 3500.0,
+          "date": "2026-03-31",
+          "employer": "THE MAX COLLABORATIVE",
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "JSTREETPAC",
+          "amount": 3500.0,
+          "date": "2026-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "RATNER, RONALD A.",
+          "amount": 3500.0,
+          "date": "2026-03-31",
+          "employer": "THE MAX COLLABORATIVE",
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "JSTREETPAC",
+          "amount": 3500.0,
+          "date": "2026-03-06",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "HOROWITZ RATNER, ILANA",
+          "amount": 3500.0,
+          "date": "2026-02-27",
+          "employer": "NOT EMPLOYED",
+          "city": "SHAKER HEIGHTS",
+          "state": "OH"
+        },
+        {
+          "name": "JSTREETPAC",
+          "amount": 3500.0,
+          "date": "2026-03-06",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        }
+      ]
+    },
+    {
+      "label": "Year-End 2025",
+      "coverage_start": "2025-10-01",
+      "coverage_end": "2025-12-31",
+      "raised": 497390.51,
+      "spent": 176999.04,
+      "transfers": null,
+      "cash_on_hand": 1299587.75,
+      "top_donors": [
+        {
+          "name": "JEFFRIES BATTLEGROUND PROTECTION FUND",
+          "amount": 27060.0,
+          "date": "2025-12-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 13750.0,
+          "date": "2025-12-19",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "MEDINA, CORY",
+          "amount": 5000.0,
+          "date": "2025-12-29",
+          "employer": "EMILIA SYKES FOR CONGRESS",
+          "city": "AKRON",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 5000.0,
+          "date": "2025-10-12",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "SEIU COPE",
+          "amount": 5000.0,
+          "date": "2025-10-07",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "UNITED FOOD & COMMERCIAL WORKERS INTL UNION AFL-CIO PAC",
+          "amount": 5000.0,
+          "date": "2025-12-19",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "UAW V CAP",
+          "amount": 5000.0,
+          "date": "2025-12-22",
+          "employer": null,
+          "city": "DETROIT",
+          "state": "MI"
+        },
+        {
+          "name": "TOGETHER EVERYONE REALIZES REAL IMPACT (TERRI PAC)",
+          "amount": 5000.0,
+          "date": "2025-10-13",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE",
+          "amount": 5000.0,
+          "date": "2025-11-19",
+          "employer": null,
+          "city": "UPPER MARLBORO",
+          "state": "MD"
+        },
+        {
+          "name": "IN THIS TOGETHER PAC",
+          "amount": 5000.0,
+          "date": "2025-10-28",
+          "employer": null,
+          "city": "LOUISVILLE",
+          "state": "KY"
+        },
+        {
+          "name": "PERRY, CLAIRE E.",
+          "amount": 3500.0,
+          "date": "2025-12-30",
+          "employer": "SELF-EMPLOYED",
+          "city": "SAN JOSE",
+          "state": "CA"
+        },
+        {
+          "name": "KELLNER, PETER LAWRENCE",
+          "amount": 3500.0,
+          "date": "2025-12-17",
+          "employer": "NOT EMPLOYED",
+          "city": "NANTUCKET",
+          "state": "MA"
+        },
+        {
+          "name": "KELLNER, PETER LAWRENCE",
+          "amount": 3500.0,
+          "date": "2025-12-17",
+          "employer": "NOT EMPLOYED",
+          "city": "NANTUCKET",
+          "state": "MA"
+        },
+        {
+          "name": "EYCHANER, FRED",
+          "amount": 3500.0,
+          "date": "2025-12-29",
+          "employer": "NEWSWEB CORPORATION",
+          "city": "CHICAGO",
+          "state": "IL"
+        },
+        {
+          "name": "BOYERS, MICHELLE M.",
+          "amount": 3500.0,
+          "date": "2025-12-18",
+          "employer": "GIVE FORWARD FOUNDATION",
+          "city": "WOODSIDE",
+          "state": "CA"
+        },
+        {
+          "name": "TAYLOR, DALE",
+          "amount": 3500.0,
+          "date": "2025-10-19",
+          "employer": "ABELSONTAYLOR",
+          "city": "CHICAGO",
+          "state": "IL"
+        },
+        {
+          "name": "JACOBSEN, MELANIE",
+          "amount": 3500.0,
+          "date": "2025-10-28",
+          "employer": "SELF-EMPLOYED",
+          "city": "BETHESDA",
+          "state": "MD"
+        },
+        {
+          "name": "JACOBSEN, MELANIE",
+          "amount": 3500.0,
+          "date": "2025-10-28",
+          "employer": "SELF-EMPLOYED",
+          "city": "BETHESDA",
+          "state": "MD"
+        },
+        {
+          "name": "JACOBSEN, MARK",
+          "amount": 3500.0,
+          "date": "2025-10-28",
+          "employer": "INTRAFI",
+          "city": "BETHESDA",
+          "state": "MD"
+        },
+        {
+          "name": "JACOBSEN, MARK",
+          "amount": 3500.0,
+          "date": "2025-10-28",
+          "employer": "INTRAFI",
+          "city": "BETHESDA",
+          "state": "MD"
+        }
+      ]
+    },
+    {
+      "label": "October Quarterly 2025",
+      "coverage_start": "2025-07-01",
+      "coverage_end": "2025-09-30",
+      "raised": 546854.23,
+      "spent": 187027.36,
+      "transfers": null,
+      "cash_on_hand": 979196.28,
+      "top_donors": [
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 15000.0,
+          "date": "2025-09-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "JEFFRIES BATTLEGROUND PROTECTION FUND",
+          "amount": 9229.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "DEMOCRACY SUMMER 2026 - UNITEMIZED",
+          "amount": 7247.06,
+          "date": "2025-09-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCINNG IRON WORKERS (IPAL)",
+          "amount": 5000.0,
+          "date": "2025-09-17",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "amount": 5000.0,
+          "date": "2025-09-08",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+          "amount": 5000.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "PITTSBURGH",
+          "state": "PA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 5000.0,
+          "date": "2025-08-24",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+          "amount": 5000.0,
+          "date": "2025-08-18",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+          "amount": 5000.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "PITTSBURGH",
+          "state": "PA"
+        },
+        {
+          "name": "UNITED FOOD & COMMERCIAL WORKERS INTL UNION AFL-CIO PAC",
+          "amount": 5000.0,
+          "date": "2025-08-20",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "STOP PROJECT 2025",
+          "amount": 5000.0,
+          "date": "2025-09-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+          "amount": 5000.0,
+          "date": "2025-09-03",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "MOMS FED UP",
+          "amount": 5000.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "TUCSON",
+          "state": "AZ"
+        },
+        {
+          "name": "AIR LINE PILOTS ASSOCIATION PAC (ALPA)",
+          "amount": 5000.0,
+          "date": "2025-08-22",
+          "employer": null,
+          "city": "MCLEAN",
+          "state": "VA"
+        },
+        {
+          "name": "PAC TO THE FUTURE",
+          "amount": 5000.0,
+          "date": "2025-09-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+          "amount": 5000.0,
+          "date": "2025-09-03",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "BUCKLEY, JOHN",
+          "amount": 3500.0,
+          "date": "2025-07-02",
+          "employer": "GRIMLEY CAPITAL",
+          "city": "DENVER",
+          "state": "CO"
+        },
+        {
+          "name": "RISING DEMS",
+          "amount": 3500.0,
+          "date": "2025-08-11",
+          "employer": null,
+          "city": "SOMERS POINT",
+          "state": "NJ"
+        },
+        {
+          "name": "HARRIS, WILLIAM H. SR",
+          "amount": 3500.0,
+          "date": "2025-07-07",
+          "employer": "MASS GENERAL HOSPITAL",
+          "city": "LEXINGTON",
+          "state": "MA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-09-21",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        }
+      ]
+    },
+    {
+      "label": "July Quarterly 2025",
+      "coverage_start": "2025-04-01",
+      "coverage_end": "2025-06-30",
+      "raised": 523802.18,
+      "spent": 187739.31,
+      "transfers": null,
+      "cash_on_hand": 619369.41,
+      "top_donors": [
+        {
+          "name": "FRONTLINE PROTECTION FUND",
+          "amount": 16750.0,
+          "date": "2025-06-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CROCKETT SYKES VICTORY FUND",
+          "amount": 12311.06,
+          "date": "2025-06-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 5000.0,
+          "date": "2025-06-26",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "HMP",
+          "amount": 5000.0,
+          "date": "2025-06-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "amount": 5000.0,
+          "date": "2025-06-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC",
+          "amount": 5000.0,
+          "date": "2025-06-24",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "amount": 5000.0,
+          "date": "2025-06-04",
+          "employer": null,
+          "city": "FORT WORTH",
+          "state": "TX"
+        },
+        {
+          "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "amount": 5000.0,
+          "date": "2025-05-20",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "amount": 5000.0,
+          "date": "2025-05-12",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "NEW YORK LIFE INSURANCE COMPANY PAC",
+          "amount": 5000.0,
+          "date": "2025-05-06",
+          "employer": null,
+          "city": "NEW YORK",
+          "state": "NY"
+        },
+        {
+          "name": "THE COLLECTIVE PAC",
+          "amount": 5000.0,
+          "date": "2025-06-02",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CONGRESSIONAL BLACK CAUCUS PAC",
+          "amount": 5000.0,
+          "date": "2025-05-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+          "amount": 5000.0,
+          "date": "2025-04-22",
+          "employer": null,
+          "city": "CLEVELAND",
+          "state": "OH"
+        },
+        {
+          "name": "IBEW PAC VOLUNTARY FUND",
+          "amount": 5000.0,
+          "date": "2025-06-30",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "amount": 5000.0,
+          "date": "2025-06-17",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+          "amount": 5000.0,
+          "date": "2025-06-12",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE",
+          "amount": 5000.0,
+          "date": "2025-06-20",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ASIAN AMERICAN HOTEL OWNERS ASSOCIATION PAC (AAHOA PAC)",
+          "amount": 5000.0,
+          "date": "2025-05-27",
+          "employer": null,
+          "city": "ALEXANDRIA",
+          "state": "VA"
+        },
+        {
+          "name": "PROGRESSIVE TURNOUT PROJECT",
+          "amount": 4000.0,
+          "date": "2025-05-01",
+          "employer": null,
+          "city": "CHICAGO",
+          "state": "IL"
+        },
+        {
+          "name": "STRYKER, JON",
+          "amount": 3500.0,
+          "date": "2025-04-25",
+          "employer": "STREAM LINE CIRCLE LLC",
+          "city": "NEW YORK",
+          "state": "NY"
+        }
+      ]
+    },
+    {
+      "label": "April Quarterly 2025",
+      "coverage_start": "2025-01-01",
+      "coverage_end": "2025-03-31",
+      "raised": 271960.79,
+      "spent": 111332.79,
+      "transfers": null,
+      "cash_on_hand": 283306.54,
+      "top_donors": [
+        {
+          "name": "DEMOCRACY SUMMER 2026",
+          "amount": 7000.0,
+          "date": "2025-03-31",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "REPRESENTATION MATTERS: STAND UP FOR DEMOCRACY",
+          "amount": 5930.63,
+          "date": "2025-03-13",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC",
+          "amount": 5000.0,
+          "date": "2025-03-21",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "HMP",
+          "amount": 5000.0,
+          "date": "2025-03-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "JOBS, EDUCATION, & FAMILIES FIRST JEFF PAC",
+          "amount": 5000.0,
+          "date": "2025-03-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "JOBS, EDUCATION, & FAMILIES FIRST JEFF PAC",
+          "amount": 5000.0,
+          "date": "2025-03-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "FAIR SHOT PAC",
+          "amount": 5000.0,
+          "date": "2025-03-03",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SYNCHRONY FINANCIAL EMPLOYEES PAC (SYNCPAC)",
+          "amount": 5000.0,
+          "date": "2025-03-31",
+          "employer": null,
+          "city": "STAMFORD",
+          "state": "CT"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+          "amount": 5000.0,
+          "date": "2025-03-20",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "EMILY'S LIST",
+          "amount": 5000.0,
+          "date": "2025-03-28",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+          "amount": 5000.0,
+          "date": "2025-03-27",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+          "amount": 5000.0,
+          "date": "2025-03-11",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "KORNACKER, MELODEE S.",
+          "amount": 3500.0,
+          "date": "2025-03-27",
+          "employer": "NOT EMPLOYED",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "DREZNER, JEFFREY",
+          "amount": 3500.0,
+          "date": "2025-03-26",
+          "employer": "NOT EMPLOYED",
+          "city": "POTOMAC",
+          "state": "MD"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-03-02",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "HUMM, DAVID",
+          "amount": 3500.0,
+          "date": "2025-02-28",
+          "employer": "JOHNS HOPKINS APPLIED PHYSICS LAB",
+          "city": "ANNAPOLIS",
+          "state": "MD"
+        },
+        {
+          "name": "SIMONS, LIZ",
+          "amount": 3500.0,
+          "date": "2025-03-27",
+          "employer": "NOT EMPLOYED",
+          "city": "ATHERTON",
+          "state": "CA"
+        },
+        {
+          "name": "SIMONS, LIZ",
+          "amount": 3500.0,
+          "date": "2025-03-27",
+          "employer": "NOT EMPLOYED",
+          "city": "ATHERTON",
+          "state": "CA"
+        },
+        {
+          "name": "ACTBLUE",
+          "amount": 3500.0,
+          "date": "2025-03-31",
+          "employer": null,
+          "city": "WEST SOMERVILLE",
+          "state": "MA"
+        },
+        {
+          "name": "BOYERS, MICHELLE",
+          "amount": 3500.0,
+          "date": "2025-03-31",
+          "employer": "GIVE FORWARD FOUNDATION",
+          "city": "WOODSIDE",
+          "state": "CA"
+        }
+      ]
     }
   ]
 }
