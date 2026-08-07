@@ -1,7 +1,22 @@
 {
   "fec_id": "C90017492",
   "name": "INDIVISIBLE PROJECT INC.",
-  "fetched_at": "2026-08-06T10:27:02.283100+00:00",
+  "fetched_at": "2026-08-07T06:02:40.597285+00:00",
+  "totals": [
+    {
+      "committee_id": "C90017492",
+      "committee_state": "DC",
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-04-01T00:00:00",
+      "cycle": 2026,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_file_date": "2018-03-13",
+      "total_independent_contributions": 715507.1,
+      "total_independent_expenditures": 37450.69,
+      "transaction_coverage_date": null
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -337,12 +352,6 @@
       "total_receipts": null,
       "treasurer_name": "COATNEY, HALLIE",
       "update_date": "2026-06-23"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

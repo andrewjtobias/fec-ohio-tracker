@@ -1,7 +1,7 @@
 {
   "fec_id": "H4OH09169",
   "name": "MERRIN, DEREK",
-  "fetched_at": "2026-08-06T10:22:44.538005+00:00",
+  "fetched_at": "2026-08-07T05:59:03.743907+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -421,7 +421,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -574,7 +574,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -727,7 +727,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -880,7 +880,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1021,7 +1021,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1162,7 +1162,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1303,7 +1303,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1450,7 +1450,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1495,19 +1495,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "WASHINGTON",
+        "designated_agent_first_name": "IWONA",
+        "designated_agent_last_name": "KURTEK",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "KURTEK, IWONA",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "1032 15TH ST NW #140",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "20005",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "M",
@@ -1600,7 +1600,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1645,19 +1645,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "WASHINGTON",
+        "designated_agent_first_name": "IWONA",
+        "designated_agent_last_name": "KURTEK",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "KURTEK, IWONA",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "1032 15TH ST NW #140",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "20005",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "M",
@@ -1750,7 +1750,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1897,7 +1897,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2038,7 +2038,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2179,7 +2179,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2320,7 +2320,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53406,
+        "idx": 53407,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
