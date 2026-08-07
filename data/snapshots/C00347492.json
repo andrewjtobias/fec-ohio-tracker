@@ -1,64 +1,7 @@
 {
   "fec_id": "C00347492",
   "name": "FRIENDS OF TIBERI",
-  "fetched_at": "2026-08-07T15:14:32.305321+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "cash_on_hand_beginning_period": 4935238.45,
-      "committee_designation": "P",
-      "committee_designation_full": "Principal campaign committee",
-      "committee_id": "C00347492",
-      "committee_name": "FRIENDS OF TIBERI",
-      "committee_state": "OH",
-      "committee_type": "H",
-      "committee_type_full": "House",
-      "contribution_refunds": 0.0,
-      "contributions": 0.0,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 373818.05,
-      "filing_frequency": "Q",
-      "filing_frequency_full": "Quarterly filer",
-      "first_f1_date": "1999-08-02",
-      "first_file_date": "1999-08-02",
-      "individual_contributions": 0.0,
-      "individual_itemized_contributions": 0.0,
-      "individual_unitemized_contributions": 0.0,
-      "last_beginning_image_number": "202607139874943778",
-      "last_cash_on_hand_end_period": 4895777.53,
-      "last_debts_owed_by_committee": 0.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 0.0,
-      "loans_made_by_candidate": 0.0,
-      "net_contributions": 0.0,
-      "net_operating_expenditures": 168486.71,
-      "offsets_to_operating_expenditures": 0.0,
-      "operating_expenditures": 168486.71,
-      "organization_type": null,
-      "organization_type_full": null,
-      "other_disbursements": 205331.34,
-      "other_political_committee_contributions": 0.0,
-      "other_receipts": 334357.13,
-      "party_full": "REPUBLICAN PARTY",
-      "political_party_committee_contributions": 0.0,
-      "receipts": 334357.13,
-      "refunded_individual_contributions": 0.0,
-      "refunded_other_political_committee_contributions": 0.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "transaction_coverage_date": "2026-06-30",
-      "transfers_from_other_authorized_committee": 0.0,
-      "transfers_to_other_authorized_committee": 0.0,
-      "treasurer_name": "FRISSORA, KRISTEN"
-    }
-  ],
+  "fetched_at": "2026-08-07T20:09:54.199739+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -389,6 +332,12 @@
       "total_receipts": 76760.1,
       "treasurer_name": "FRISSORA, KRISTEN",
       "update_date": "2026-01-29"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

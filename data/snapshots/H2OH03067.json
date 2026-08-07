@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH03067",
   "name": "TURNER, MICHAEL R",
-  "fetched_at": "2026-08-07T15:17:36.559329+00:00",
+  "fetched_at": "2026-08-07T20:13:00.161537+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -451,6 +451,7 @@
       "update_date": "2021-04-17"
     }
   ],
+  "schedule_e_target": [],
   "quarterly": [
     {
       "label": "July Quarterly 2026",
@@ -1512,12 +1513,6 @@
           "state": "OH"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "step": "schedule_e_target",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

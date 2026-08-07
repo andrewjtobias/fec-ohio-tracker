@@ -1,7 +1,12 @@
 {
   "fec_id": "H2OH01202",
   "name": "GIROUX, JENN",
-  "fetched_at": "2026-08-07T15:14:34.135341+00:00",
-  "totals": [],
-  "filings": []
+  "fetched_at": "2026-08-07T20:10:26.747409+00:00",
+  "filings": [],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
 }

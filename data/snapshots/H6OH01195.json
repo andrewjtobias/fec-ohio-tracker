@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH01195",
   "name": "ADAMS, HOLLY",
-  "fetched_at": "2026-08-07T15:11:42.136910+00:00",
+  "fetched_at": "2026-08-07T20:04:36.667257+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -54,73 +54,10 @@
       "transfers_to_other_authorized_committee": 0.0
     }
   ],
-  "filings": [
+  "errors": [
     {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1944910
-      ],
-      "amendment_indicator": "N",
-      "amendment_version": 0,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202602049825917946",
-      "candidate_id": "H6OH01195",
-      "candidate_name": "ADAMS, HOLLY",
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "H6OH01195",
-      "committee_name": null,
-      "committee_type": null,
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/910/1944910.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Candidacy 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": 2026,
-      "ending_image_number": "202602049825917946",
-      "fec_file_id": "FEC-1944910",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1944910.fec",
-      "file_number": 1944910,
-      "form_category": "STATEMENT",
-      "form_type": "F2",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H6OH01195/1944910/",
-      "is_amended": false,
-      "means_filed": "e-file",
-      "most_recent": true,
-      "most_recent_file_number": 1944910,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 1,
-      "party": "REP",
-      "pdf_url": "https://docquery.fec.gov/pdf/946/202602049825917946/202602049825917946.pdf",
-      "previous_file_number": 1944910,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-02-04T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2026,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": "OH",
-      "sub_id": "4020420261304557018",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "ADAMS, HOLLY",
-      "update_date": "2026-02-04"
+      "step": "filings",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
