@@ -1,7 +1,7 @@
 {
   "fec_id": "C00800276",
   "name": "LANDSMAN FOR CONGRESS",
-  "fetched_at": "2026-08-08T08:10:47.276784+00:00",
+  "fetched_at": "2026-08-08T14:10:17.490372+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2644,7 +2644,7 @@
       "contribution_receipt_amount": 500.0,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "DAVIDS NEW DEMS FUND",
+        "affiliated_committee_name": "DEFEND DEMOCRACY NOW PAC",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00409730",
@@ -4473,7 +4473,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-04-15",
-        "last_file_date": "2026-07-20",
+        "last_file_date": "2026-08-07",
         "name": "GROWTH ENERGY PAC",
         "organization_type": "T",
         "organization_type_full": "Trade Association",
