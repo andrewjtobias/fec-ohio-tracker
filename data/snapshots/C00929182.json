@@ -1,64 +1,7 @@
 {
   "fec_id": "C00929182",
   "name": "ANTHONY CAMPBELL FOR US",
-  "fetched_at": "2026-08-08T04:18:05.688473+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "cash_on_hand_beginning_period": 0.0,
-      "committee_designation": "P",
-      "committee_designation_full": "Principal campaign committee",
-      "committee_id": "C00929182",
-      "committee_name": "ANTHONY CAMPBELL FOR US",
-      "committee_state": "OH",
-      "committee_type": "H",
-      "committee_type_full": "House",
-      "contribution_refunds": 1.0,
-      "contributions": 6662.36,
-      "coverage_end_date": "2026-04-15T00:00:00",
-      "coverage_start_date": "2025-11-28T00:00:00",
-      "cycle": 2026,
-      "disbursements": 27639.52,
-      "filing_frequency": "Q",
-      "filing_frequency_full": "Quarterly filer",
-      "first_f1_date": "2025-12-02",
-      "first_file_date": "2025-12-02",
-      "individual_contributions": 6662.36,
-      "individual_itemized_contributions": 4384.42,
-      "individual_unitemized_contributions": 2277.94,
-      "last_beginning_image_number": "202604229866681757",
-      "last_cash_on_hand_end_period": 6679.57,
-      "last_debts_owed_by_committee": 27656.73,
-      "last_debts_owed_to_committee": 0.0,
-      "last_report_type_full": "PRE-PRIMARY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 27656.73,
-      "loans_made_by_candidate": 27656.73,
-      "net_contributions": 6661.36,
-      "net_operating_expenditures": 27638.52,
-      "offsets_to_operating_expenditures": 0.0,
-      "operating_expenditures": 27638.52,
-      "organization_type": null,
-      "organization_type_full": null,
-      "other_disbursements": 0.0,
-      "other_political_committee_contributions": 0.0,
-      "other_receipts": 0.0,
-      "party_full": "REPUBLICAN PARTY",
-      "political_party_committee_contributions": 0.0,
-      "receipts": 34319.09,
-      "refunded_individual_contributions": 1.0,
-      "refunded_other_political_committee_contributions": 0.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "transaction_coverage_date": "2026-04-15",
-      "transfers_from_other_authorized_committee": 0.0,
-      "transfers_to_other_authorized_committee": 0.0,
-      "treasurer_name": "LACOURSE, TIFFANY"
-    }
-  ],
+  "fetched_at": "2026-08-08T08:06:33.871669+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -390,6 +333,12 @@
       "total_receipts": null,
       "treasurer_name": "LACOURSE, TIFFANY",
       "update_date": "2026-01-30"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

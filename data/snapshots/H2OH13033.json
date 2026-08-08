@@ -1,7 +1,8 @@
 {
   "fec_id": "H2OH13033",
   "name": "BROWN, SHERROD",
-  "fetched_at": "2026-08-08T04:18:08.388918+00:00",
+  "fetched_at": "2026-08-08T08:07:06.071429+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,
@@ -334,12 +335,6 @@
       "total_receipts": null,
       "treasurer_name": null,
       "update_date": "2002-04-07"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

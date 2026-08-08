@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH15112",
   "name": "LEONARD, DON RALPH",
-  "fetched_at": "2026-08-08T04:23:47.433441+00:00",
+  "fetched_at": "2026-08-08T08:12:20.038775+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1045,7 +1045,168 @@
       "spent": 143446.43,
       "transfers": null,
       "cash_on_hand": 252401.72,
-      "top_donors": []
+      "top_donors": [
+        {
+          "name": "ALI, AHMET",
+          "amount": 5000.0,
+          "date": "2026-04-24",
+          "employer": "ACADEMIA MEDICAL INSTITUTE",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "BUILDING BETTER COMMUNITIES",
+          "amount": 3500.0,
+          "date": "2026-06-27",
+          "employer": null,
+          "city": "DUBLIN",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-25",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "YOUNGER, SCOTT",
+          "amount": 3500.0,
+          "date": "2026-06-25",
+          "employer": "SP HOLDINGS",
+          "city": "SEATTLE",
+          "state": "WA"
+        },
+        {
+          "name": "WOLFE, SUE A",
+          "amount": 3500.0,
+          "date": "2026-05-22",
+          "employer": "NOT EMPLOYED",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "TASIOUDIS, TASSO",
+          "amount": 3500.0,
+          "date": "2026-05-22",
+          "employer": "OHIO STATE UNIVERSITY WEXNER MEDICAL C",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SULEIMAN, STASIA",
+          "amount": 3500.0,
+          "date": "2026-06-26",
+          "employer": "SELF",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SULEIMAN, SAMER",
+          "amount": 3500.0,
+          "date": "2026-06-29",
+          "employer": "EXECUTIVE",
+          "city": "CANTON",
+          "state": "MI"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SULEIMAN, JIAB",
+          "amount": 3500.0,
+          "date": "2026-06-29",
+          "employer": "NOT EMPLOYED",
+          "city": "CANTON",
+          "state": "MI"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SULEIMAN, ISMAIL",
+          "amount": 3500.0,
+          "date": "2026-06-28",
+          "employer": "SELF EMPLOYED",
+          "city": "CANTON",
+          "state": "MI"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SULEIMAN, FEDA",
+          "amount": 3500.0,
+          "date": "2026-06-28",
+          "employer": "NOT EMPLOYED",
+          "city": "CANTON",
+          "state": "MI"
+        },
+        {
+          "name": "ACTBLUE TECHNICAL SERVICES",
+          "amount": 3500.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "BOSTON",
+          "state": "MA"
+        },
+        {
+          "name": "SULEIMAN, FADI",
+          "amount": 3500.0,
+          "date": "2026-06-26",
+          "employer": "RENTALYTIX INC",
+          "city": "COLUMBUS",
+          "state": "OH"
+        },
+        {
+          "name": "SPENCE, GENE P",
+          "amount": 3500.0,
+          "date": "2026-05-22",
+          "employer": "N/A",
+          "city": "OMAHA",
+          "state": "NE"
+        }
+      ]
     },
     {
       "label": "Pre-Primary 2026",
