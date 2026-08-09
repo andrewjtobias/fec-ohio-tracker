@@ -1,7 +1,64 @@
 {
   "fec_id": "C00856823",
   "name": "MILLER FOR AMERICA",
-  "fetched_at": "2026-08-09T04:50:47.897870+00:00",
+  "fetched_at": "2026-08-09T08:13:54.649128+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 38590.0,
+      "cash_on_hand_beginning_period": 3613.63,
+      "committee_designation": "P",
+      "committee_designation_full": "Principal campaign committee",
+      "committee_id": "C00856823",
+      "committee_name": "MILLER FOR AMERICA",
+      "committee_state": "OH",
+      "committee_type": "H",
+      "committee_type_full": "House",
+      "contribution_refunds": 8744.0,
+      "contributions": 759125.74,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 891059.97,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_f1_date": "2023-11-15",
+      "first_file_date": "2023-11-15",
+      "individual_contributions": 657535.74,
+      "individual_itemized_contributions": 230527.75,
+      "individual_unitemized_contributions": 427007.99,
+      "last_beginning_image_number": "202607159875601745",
+      "last_cash_on_hand_end_period": 18428.46,
+      "last_debts_owed_by_committee": 99643.6,
+      "last_debts_owed_to_committee": 0.0,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 114750.0,
+      "loan_repayments_candidate_loans": 114750.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 146600.0,
+      "loans_made_by_candidate": 146600.0,
+      "net_contributions": 750381.74,
+      "net_operating_expenditures": 766014.29,
+      "offsets_to_operating_expenditures": 0.0,
+      "operating_expenditures": 766014.29,
+      "organization_type": null,
+      "organization_type_full": null,
+      "other_disbursements": 1551.68,
+      "other_political_committee_contributions": 62500.0,
+      "other_receipts": 149.06,
+      "party_full": "DEMOCRATIC PARTY",
+      "political_party_committee_contributions": 500.0,
+      "receipts": 905874.8,
+      "refunded_individual_contributions": 8744.0,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "transaction_coverage_date": "2026-06-30",
+      "transfers_from_other_authorized_committee": 0.0,
+      "transfers_to_other_authorized_committee": 0.0,
+      "treasurer_name": "DECOLA, JOE"
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -337,12 +394,6 @@
       "total_receipts": null,
       "treasurer_name": "DECOLA, JOE",
       "update_date": "2026-04-18"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00856823/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
