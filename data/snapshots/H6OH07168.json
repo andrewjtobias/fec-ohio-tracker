@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH07168",
   "name": "POINDEXTER, BRIAN",
-  "fetched_at": "2026-08-09T08:14:39.766588+00:00",
+  "fetched_at": "2026-08-09T14:13:00.101279+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2606,7 +2606,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-05-19",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-07",
         "name": "BDA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2744,7 +2744,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-05-19",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-07",
         "name": "BDA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2882,7 +2882,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-05-19",
-        "last_file_date": "2026-07-31",
+        "last_file_date": "2026-08-07",
         "name": "BDA PAC",
         "organization_type": null,
         "organization_type_full": null,

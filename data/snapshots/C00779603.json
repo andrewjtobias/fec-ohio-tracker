@@ -1,7 +1,7 @@
 {
   "fec_id": "C00779603",
   "name": "CAREY FOR CONGRESS",
-  "fetched_at": "2026-08-09T08:09:51.025486+00:00",
+  "fetched_at": "2026-08-09T14:07:40.681786+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -5277,11 +5277,11 @@
         "designated_agent_phone_number": "9898780996",
         "designated_agent_prefix": null,
         "designated_agent_state": "MI",
-        "designated_agent_street1": "2014 N. SAGINAW ROAD",
+        "designated_agent_street1": "913 S. SAGINAW ROAD",
         "designated_agent_street2": "SUITE 209",
         "designated_agent_suffix": null,
         "designated_agent_title": "TREASURER",
-        "designated_agent_zip": "486406824",
+        "designated_agent_zip": "48640",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
