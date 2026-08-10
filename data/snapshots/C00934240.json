@@ -1,7 +1,7 @@
 {
   "fec_id": "C00934240",
   "name": "KNICKERBOCKER FOR CONGRESS",
-  "fetched_at": "2026-08-10T10:44:01.004385+00:00",
+  "fetched_at": "2026-08-10T15:36:35.649346+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1100,7 +1100,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-05-18",
-        "last_file_date": "2026-08-03",
+        "last_file_date": "2026-08-09",
         "name": "ELECT DEMOCRATIC WOMEN",
         "organization_type": null,
         "organization_type_full": null,

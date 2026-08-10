@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-08-10T10:45:14.267208+00:00",
+  "fetched_at": "2026-08-10T15:37:38.179635+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -520,7 +520,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-08-07",
+        "last_file_date": "2026-08-09",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -682,7 +682,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-08-07",
+        "last_file_date": "2026-08-09",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
