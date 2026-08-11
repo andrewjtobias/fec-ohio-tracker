@@ -1,7 +1,7 @@
 {
   "fec_id": "C00800276",
   "name": "LANDSMAN FOR CONGRESS",
-  "fetched_at": "2026-08-11T09:39:05.038303+00:00",
+  "fetched_at": "2026-08-11T15:34:39.002490+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1826,7 +1826,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2015-06-12",
-        "last_file_date": "2026-07-15",
+        "last_file_date": "2026-08-10",
         "name": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE POLITICAL ACTION COMMITTEE",
         "organization_type": "V",
         "organization_type_full": "Cooperative",
@@ -2061,7 +2061,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-16",
-        "last_file_date": "2026-07-08",
+        "last_file_date": "2026-08-10",
         "name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
         "organization_type": "M",
         "organization_type_full": "Membership Organization",
@@ -2644,7 +2644,7 @@
       "contribution_receipt_amount": 500.0,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "DEFEND DEMOCRACY NOW PAC",
+        "affiliated_committee_name": "DAVIDS NEW DEMS FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00409730",
