@@ -1,8 +1,7 @@
 {
   "fec_id": "H2OH09197",
   "name": "ABDULLAHI, MUNIRA YASIN",
-  "fetched_at": "2026-08-11T15:30:12.274120+00:00",
-  "totals": [],
+  "fetched_at": "2026-08-11T20:11:17.940049+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -70,6 +69,12 @@
       "total_receipts": null,
       "treasurer_name": "ABDULLAHI, MUNIRA",
       "update_date": "2022-02-22"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
