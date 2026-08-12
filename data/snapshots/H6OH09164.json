@@ -1,7 +1,8 @@
 {
   "fec_id": "H6OH09164",
   "name": "FROST, JACOB THOMAS MR.",
-  "fetched_at": "2026-08-12T15:33:26.397453+00:00",
+  "fetched_at": "2026-08-12T20:14:01.637753+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,
@@ -69,12 +70,6 @@
       "total_receipts": null,
       "treasurer_name": "FROST, JACOB THOMAS",
       "update_date": "2025-12-25"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

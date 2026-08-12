@@ -1,64 +1,7 @@
 {
   "fec_id": "C00837484",
   "name": "BERNIE MORENO FOR SENATE",
-  "fetched_at": "2026-08-12T15:30:37.733336+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "cash_on_hand_beginning_period": 378319.71,
-      "committee_designation": "P",
-      "committee_designation_full": "Principal campaign committee",
-      "committee_id": "C00837484",
-      "committee_name": "BERNIE MORENO FOR SENATE",
-      "committee_state": "OH",
-      "committee_type": "S",
-      "committee_type_full": "Senate",
-      "contribution_refunds": 16458.71,
-      "contributions": 1001408.21,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 2473567.62,
-      "filing_frequency": "Q",
-      "filing_frequency_full": "Quarterly filer",
-      "first_f1_date": "2023-04-10",
-      "first_file_date": "2023-04-10",
-      "individual_contributions": 726036.89,
-      "individual_itemized_contributions": 361859.16,
-      "individual_unitemized_contributions": 364177.73,
-      "last_beginning_image_number": "202607159875702622",
-      "last_cash_on_hand_end_period": 639132.67,
-      "last_debts_owed_by_committee": 7039894.14,
-      "last_debts_owed_to_committee": 0.0,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 1400000.0,
-      "loan_repayments_candidate_loans": 1400000.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 0.0,
-      "loans_made_by_candidate": 0.0,
-      "net_contributions": 984949.5,
-      "net_operating_expenditures": 931051.98,
-      "offsets_to_operating_expenditures": 8206.93,
-      "operating_expenditures": 939258.91,
-      "organization_type": null,
-      "organization_type_full": null,
-      "other_disbursements": 117850.0,
-      "other_political_committee_contributions": 275371.32,
-      "other_receipts": 42.61,
-      "party_full": "REPUBLICAN PARTY",
-      "political_party_committee_contributions": 0.0,
-      "receipts": 2734380.58,
-      "refunded_individual_contributions": 14958.71,
-      "refunded_other_political_committee_contributions": 1500.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "transaction_coverage_date": "2026-06-30",
-      "transfers_from_other_authorized_committee": 1724722.83,
-      "transfers_to_other_authorized_committee": 0.0,
-      "treasurer_name": "KILGORE, PAUL"
-    }
-  ],
+  "fetched_at": "2026-08-12T20:10:40.529559+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -393,6 +336,12 @@
       "total_receipts": 398594.59,
       "treasurer_name": "KILGORE, PAUL",
       "update_date": "2026-04-15"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
