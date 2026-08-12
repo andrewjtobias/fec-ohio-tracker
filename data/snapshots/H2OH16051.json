@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-08-12T05:49:52.564658+00:00",
+  "fetched_at": "2026-08-12T09:51:53.240758+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -928,7 +928,168 @@
       "spent": 212055.02,
       "transfers": null,
       "cash_on_hand": 1379131.85,
-      "top_donors": []
+      "top_donors": [
+        {
+          "name": "MAX MILLER VICTORY",
+          "amount": 57899.16,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "ATHENS",
+          "state": "GA"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "amount": 22350.0,
+          "date": "2026-05-10",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "amount": 19500.0,
+          "date": "2026-06-18",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "WINRED",
+          "amount": 18828.18,
+          "date": "2026-05-25",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 18770.66,
+          "date": "2026-05-31",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 17309.67,
+          "date": "2026-05-17",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 13725.52,
+          "date": "2026-06-07",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 13188.14,
+          "date": "2026-06-14",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11232.01,
+          "date": "2026-06-28",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "MAX MILLER VICTORY",
+          "amount": 10059.21,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "ATHENS",
+          "state": "GA"
+        },
+        {
+          "name": "VALOR PAC",
+          "amount": 10000.0,
+          "date": "2026-05-04",
+          "employer": null,
+          "city": "ATHENS",
+          "state": "GA"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "amount": 8510.03,
+          "date": "2026-06-11",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+          "amount": 8068.0,
+          "date": "2026-06-29",
+          "employer": null,
+          "city": "WASHINGTON",
+          "state": "DC"
+        },
+        {
+          "name": "ALEVY & ASSOCIATES",
+          "amount": 7000.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "LONG BEACH",
+          "state": "CA"
+        },
+        {
+          "name": "WINRED",
+          "amount": 6819.11,
+          "date": "2026-05-04",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 6218.19,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 6133.7,
+          "date": "2026-06-21",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "PRESTON, PATRICK",
+          "amount": 5205.08,
+          "date": "2026-05-27",
+          "employer": "PRESTON SUPERSTORE",
+          "city": "NEWBURY",
+          "state": "OH"
+        },
+        {
+          "name": "VALOR PAC",
+          "amount": 5000.0,
+          "date": "2026-05-01",
+          "employer": null,
+          "city": "ATHENS",
+          "state": "GA"
+        },
+        {
+          "name": "SUNSHINE PAC",
+          "amount": 5000.0,
+          "date": "2026-06-30",
+          "employer": null,
+          "city": "DELAND",
+          "state": "FL"
+        }
+      ]
     },
     {
       "label": "Pre-Primary 2026",
