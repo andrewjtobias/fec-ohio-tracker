@@ -1,7 +1,8 @@
 {
   "fec_id": "H0OH01040",
   "name": "CRANLEY, JOHN J IV",
-  "fetched_at": "2026-08-13T15:33:58.286017+00:00",
+  "fetched_at": "2026-08-13T20:04:39.661207+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,
@@ -258,12 +259,6 @@
       "total_receipts": null,
       "treasurer_name": null,
       "update_date": "2002-04-07"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

@@ -1,7 +1,59 @@
 {
   "fec_id": "H2OH15228",
   "name": "CAREY, MIKE",
-  "fetched_at": "2026-08-13T15:32:36.514003+00:00",
+  "fetched_at": "2026-08-13T20:03:44.742961+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 0.0,
+      "candidate_election_year": 2026,
+      "candidate_id": "H2OH15228",
+      "contribution_refunds": 23564.65,
+      "contributions": 2643008.7,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 1404260.15,
+      "election_full": false,
+      "exempt_legal_accounting_disbursement": 0.0,
+      "federal_funds": 0.0,
+      "fundraising_disbursements": 0.0,
+      "individual_contributions": 900358.7,
+      "individual_itemized_contributions": 849113.67,
+      "individual_unitemized_contributions": 51245.03,
+      "last_beginning_image_number": "202607159875640133",
+      "last_cash_on_hand_end_period": 2056712.66,
+      "last_debts_owed_by_committee": 0.0,
+      "last_debts_owed_to_committee": 0.0,
+      "last_net_contributions": 608029.89,
+      "last_net_operating_expenditures": 186651.6,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 0.0,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 2619444.05,
+      "net_operating_expenditures": 1360054.46,
+      "offsets_to_fundraising_expenditures": 0.0,
+      "offsets_to_legal_accounting": 0.0,
+      "offsets_to_operating_expenditures": 1501.69,
+      "operating_expenditures": 1361556.15,
+      "other_disbursements": 19139.35,
+      "other_political_committee_contributions": 1742150.0,
+      "other_receipts": 500.0,
+      "political_party_committee_contributions": 500.0,
+      "receipts": 3299678.5,
+      "refunded_individual_contributions": 17064.65,
+      "refunded_other_political_committee_contributions": 6500.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "total_offsets_to_operating_expenditures": 0.0,
+      "transaction_coverage_date": "2026-06-30T00:00:00",
+      "transfers_from_other_authorized_committee": 654668.11,
+      "transfers_to_other_authorized_committee": 0.0
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -1548,12 +1600,6 @@
           "state": "TX"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "fec_id": "C00264697",
   "name": "DIGNITY OF WORK PAC",
-  "fetched_at": "2026-08-13T15:34:37.760747+00:00",
+  "fetched_at": "2026-08-13T20:04:58.372493+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -10237,7 +10237,7 @@
   "errors": [
     {
       "step": "schedule_a",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+      "error": "504 Server Error: Gateway Timeout for url: https://api.open.fec.gov/v1/schedules/schedule_a/?committee_id=C00264697&per_page=100&sort=-contribution_receipt_date&api_key=REDACTED"
     }
   ]
 }
