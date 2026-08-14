@@ -1,7 +1,7 @@
 {
   "fec_id": "C00844613",
   "name": "WIN IT BACK PAC",
-  "fetched_at": "2026-08-14T09:49:42.905147+00:00",
+  "fetched_at": "2026-08-14T15:16:03.078314+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -86,7 +86,7 @@
       "sponsor_candidate_list": [],
       "total_exp_subject_limits": 0.0,
       "total_transfers": 0.0,
-      "transaction_coverage_date": "2026-05-31",
+      "transaction_coverage_date": "2026-06-30",
       "transfers_from_affiliated_party": 0.0,
       "transfers_from_nonfed_account": 0.0,
       "transfers_from_nonfed_levin": 0.0,
