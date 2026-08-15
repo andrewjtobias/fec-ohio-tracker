@@ -1,7 +1,64 @@
 {
   "fec_id": "C00933366",
   "name": "POINDEXTER FOR CONGRESS",
-  "fetched_at": "2026-08-14T20:07:12.084539+00:00",
+  "fetched_at": "2026-08-15T03:10:23.659662+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 1420.6,
+      "cash_on_hand_beginning_period": 0.0,
+      "committee_designation": "P",
+      "committee_designation_full": "Principal campaign committee",
+      "committee_id": "C00933366",
+      "committee_name": "POINDEXTER FOR CONGRESS",
+      "committee_state": "OH",
+      "committee_type": "H",
+      "committee_type_full": "House",
+      "contribution_refunds": 2496.5,
+      "contributions": 603152.82,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-11-17T00:00:00",
+      "cycle": 2026,
+      "disbursements": 290865.42,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_f1_date": "2026-01-07",
+      "first_file_date": "2026-01-07",
+      "individual_contributions": 439659.22,
+      "individual_itemized_contributions": 290757.58,
+      "individual_unitemized_contributions": 148901.64,
+      "last_beginning_image_number": "202607159875542748",
+      "last_cash_on_hand_end_period": 312290.17,
+      "last_debts_owed_by_committee": 0.0,
+      "last_debts_owed_to_committee": 0.0,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 0.0,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 600656.32,
+      "net_operating_expenditures": 288241.47,
+      "offsets_to_operating_expenditures": 2.45,
+      "operating_expenditures": 288243.92,
+      "organization_type": null,
+      "organization_type_full": null,
+      "other_disbursements": 125.0,
+      "other_political_committee_contributions": 162073.0,
+      "other_receipts": 0.32,
+      "party_full": "DEMOCRATIC PARTY",
+      "political_party_committee_contributions": 0.0,
+      "receipts": 603155.59,
+      "refunded_individual_contributions": 96.5,
+      "refunded_other_political_committee_contributions": 2400.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "transaction_coverage_date": "2026-06-30",
+      "transfers_from_other_authorized_committee": 0.0,
+      "transfers_to_other_authorized_committee": 0.0,
+      "treasurer_name": "DUFOUR, TOM"
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -17953,11 +18010,5 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": [],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00933366/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
-    }
-  ]
+  "schedule_e": []
 }
