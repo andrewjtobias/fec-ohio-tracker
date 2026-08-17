@@ -1,7 +1,7 @@
 {
   "fec_id": "C00800276",
   "name": "LANDSMAN FOR CONGRESS",
-  "fetched_at": "2026-08-17T08:13:09.679065+00:00",
+  "fetched_at": "2026-08-17T14:00:22.283521+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2644,7 +2644,7 @@
       "contribution_receipt_amount": 500.0,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "DAVIDS NEW DEMS FUND",
+        "affiliated_committee_name": "DEFEND DEMOCRACY NOW PAC",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00409730",
