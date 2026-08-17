@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH13307",
   "name": "COLEMAN, CAREY",
-  "fetched_at": "2026-08-17T13:56:28.624224+00:00",
+  "fetched_at": "2026-08-17T19:18:11.966086+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -123,6 +123,7 @@
       "update_date": "2026-01-07"
     }
   ],
+  "schedule_e_target": [],
   "quarterly": [
     {
       "label": "July Quarterly 2026",
@@ -484,12 +485,6 @@
           "state": "OH"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "step": "schedule_e_target",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?candidate_id=H6OH13307&min_date=2025-01-01&per_page=100&sort=-expenditure_date&api_key=REDACTED"
     }
   ]
 }
