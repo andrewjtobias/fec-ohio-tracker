@@ -1,7 +1,7 @@
 {
   "fec_id": "C00934240",
   "name": "KNICKERBOCKER FOR CONGRESS",
-  "fetched_at": "2026-08-16T19:05:02.939890+00:00",
+  "fetched_at": "2026-08-17T03:21:30.720408+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -15801,5 +15801,10 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "errors": [
+    {
+      "step": "schedule_e",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?committee_id=C00934240&per_page=100&sort=-expenditure_date&api_key=REDACTED"
+    }
+  ]
 }

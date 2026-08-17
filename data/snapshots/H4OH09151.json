@@ -1,8 +1,7 @@
 {
   "fec_id": "H4OH09151",
   "name": "MAJEWSKI, JR",
-  "fetched_at": "2026-08-16T19:05:37.328338+00:00",
-  "totals": [],
+  "fetched_at": "2026-08-17T03:22:23.167411+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -70,6 +69,12 @@
       "total_receipts": null,
       "treasurer_name": "MAJEWSKI, JR",
       "update_date": "2023-04-12"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H4OH09151/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
