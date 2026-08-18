@@ -1,7 +1,64 @@
 {
   "fec_id": "C00909630",
   "name": "DEREK MERRIN FOR CONGRESS",
-  "fetched_at": "2026-08-18T03:12:20.425938+00:00",
+  "fetched_at": "2026-08-18T07:59:30.158725+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 0.0,
+      "cash_on_hand_beginning_period": 0.0,
+      "committee_designation": "P",
+      "committee_designation_full": "Principal campaign committee",
+      "committee_id": "C00909630",
+      "committee_name": "DEREK MERRIN FOR CONGRESS",
+      "committee_state": "OH",
+      "committee_type": "H",
+      "committee_type_full": "House",
+      "contribution_refunds": 3500.0,
+      "contributions": 568714.26,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-06-23T00:00:00",
+      "cycle": 2026,
+      "disbursements": 761594.66,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_f1_date": "2025-07-01",
+      "first_file_date": "2025-07-01",
+      "individual_contributions": 451814.26,
+      "individual_itemized_contributions": 363240.76,
+      "individual_unitemized_contributions": 88573.5,
+      "last_beginning_image_number": "202607159875740878",
+      "last_cash_on_hand_end_period": 511443.15,
+      "last_debts_owed_by_committee": 88351.8,
+      "last_debts_owed_to_committee": 0.0,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 280000.0,
+      "loan_repayments_candidate_loans": 280000.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 310000.0,
+      "loans_made_by_candidate": 310000.0,
+      "net_contributions": 565214.26,
+      "net_operating_expenditures": 478094.66,
+      "offsets_to_operating_expenditures": 0.0,
+      "operating_expenditures": 478094.66,
+      "organization_type": null,
+      "organization_type_full": null,
+      "other_disbursements": 0.0,
+      "other_political_committee_contributions": 116900.0,
+      "other_receipts": 2241.7,
+      "party_full": "REPUBLICAN PARTY",
+      "political_party_committee_contributions": 0.0,
+      "receipts": 1273037.81,
+      "refunded_individual_contributions": 3500.0,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "transaction_coverage_date": "2026-06-30",
+      "transfers_from_other_authorized_committee": 392081.85,
+      "transfers_to_other_authorized_committee": 0.0,
+      "treasurer_name": "CRATE, BRADLEY T."
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": [
@@ -16280,11 +16337,5 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": [],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00909630/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
-    }
-  ]
+  "schedule_e": []
 }
