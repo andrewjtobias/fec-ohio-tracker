@@ -1,7 +1,7 @@
 {
   "fec_id": "C00912311",
   "name": "CONROY FOR CONGRESS",
-  "fetched_at": "2026-08-19T07:58:31.983148+00:00",
+  "fetched_at": "2026-08-19T14:07:20.898761+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3505,7 +3505,7 @@
       "contribution_receipt_amount": 31882.96,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "EMMER MAJORITY BUILDERS",
         "candidate_ids": [
           "H6OH01138"
         ],
@@ -4703,7 +4703,7 @@
       "contribution_receipt_amount": 2000.0,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "CLAY FULLER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H0GA14030"
         ],
@@ -4721,19 +4721,19 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "ATHENS",
-        "designated_agent_first_name": "MICHAEL",
-        "designated_agent_last_name": "GOODE",
+        "designated_agent_city": "ATLANTA",
+        "designated_agent_first_name": "BRYAN",
+        "designated_agent_last_name": "TYSON",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "GOODE, MICHAEL",
-        "designated_agent_phone_number": "7065347780",
+        "designated_agent_name": "TYSON, BRYAN",
+        "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
         "designated_agent_state": "GA",
-        "designated_agent_street1": "824 S MILLEDGE AVE",
-        "designated_agent_street2": "STE 101",
+        "designated_agent_street1": "3630 PEACHTREE ROAD NE STE 700",
+        "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "30605",
+        "designated_agent_title": null,
+        "designated_agent_zip": "30326",
         "designation": "P",
         "designation_full": "Principal campaign committee",
         "filing_frequency": "Q",
