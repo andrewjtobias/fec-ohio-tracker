@@ -1,7 +1,7 @@
 {
   "fec_id": "C00913491",
   "name": "DON LEONARD FOR OHIO",
-  "fetched_at": "2026-08-20T08:06:46.381564+00:00",
+  "fetched_at": "2026-08-20T14:12:48.150288+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -14947,5 +14947,10 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "errors": [
+    {
+      "step": "schedule_e",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
 }
