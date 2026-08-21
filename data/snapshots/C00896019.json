@@ -1,7 +1,7 @@
 {
   "fec_id": "C00896019",
   "name": "HUSTED FOR SENATE",
-  "fetched_at": "2026-08-21T08:09:02.153796+00:00",
+  "fetched_at": "2026-08-21T14:10:05.264292+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -7432,7 +7432,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-22",
-        "last_file_date": "2026-07-20",
+        "last_file_date": "2026-08-20",
         "name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
         "organization_type": "C",
         "organization_type_full": "Corporation",
@@ -10506,7 +10506,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-10-30",
-        "last_file_date": "2026-07-20",
+        "last_file_date": "2026-08-20",
         "name": "AMERICAN PETROLEUM INSTITUTE POLITICAL ACTION COMMITTEE (API PAC)",
         "organization_type": "T",
         "organization_type_full": "Trade Association",
