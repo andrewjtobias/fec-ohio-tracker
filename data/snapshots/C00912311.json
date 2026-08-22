@@ -1,7 +1,7 @@
 {
   "fec_id": "C00912311",
   "name": "CONROY FOR CONGRESS",
-  "fetched_at": "2026-08-22T06:37:18.986721+00:00",
+  "fetched_at": "2026-08-22T12:36:22.591874+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3505,7 +3505,7 @@
       "contribution_receipt_amount": 31882.96,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "EMMER MAJORITY BUILDERS",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH01138"
         ],
@@ -3967,7 +3967,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-02-20",
-        "last_file_date": "2026-08-20",
+        "last_file_date": "2026-08-21",
         "name": "TIMBERLINE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4154,7 +4154,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-02-20",
-        "last_file_date": "2026-08-20",
+        "last_file_date": "2026-08-21",
         "name": "TIMBERLINE PAC",
         "organization_type": null,
         "organization_type_full": null,
