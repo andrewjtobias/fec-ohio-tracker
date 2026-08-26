@@ -1,7 +1,59 @@
 {
   "fec_id": "S6OH00304",
   "name": "HUSTED, JON",
-  "fetched_at": "2026-08-25T18:40:39.215209+00:00",
+  "fetched_at": "2026-08-26T01:15:08.556708+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 0.0,
+      "candidate_election_year": 2026,
+      "candidate_id": "S6OH00304",
+      "contribution_refunds": 218791.13,
+      "contributions": 8662572.05,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 4940716.33,
+      "election_full": false,
+      "exempt_legal_accounting_disbursement": 0.0,
+      "federal_funds": 0.0,
+      "fundraising_disbursements": 0.0,
+      "individual_contributions": 6280012.05,
+      "individual_itemized_contributions": 4436372.48,
+      "individual_unitemized_contributions": 1843639.57,
+      "last_beginning_image_number": "202607119874877979",
+      "last_cash_on_hand_end_period": 9419311.2,
+      "last_debts_owed_by_committee": 0.0,
+      "last_debts_owed_to_committee": 0.0,
+      "last_net_contributions": 2447456.33,
+      "last_net_operating_expenditures": 2467314.94,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 0.0,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 8443780.92,
+      "net_operating_expenditures": 4692197.47,
+      "offsets_to_fundraising_expenditures": 0.0,
+      "offsets_to_legal_accounting": 0.0,
+      "offsets_to_operating_expenditures": 21564.4,
+      "operating_expenditures": 4713761.87,
+      "other_disbursements": 3500.0,
+      "other_political_committee_contributions": 2320510.0,
+      "other_receipts": 0.0,
+      "political_party_committee_contributions": 62050.0,
+      "receipts": 14360027.53,
+      "refunded_individual_contributions": 211050.11,
+      "refunded_other_political_committee_contributions": 7741.02,
+      "refunded_political_party_committee_contributions": 0.0,
+      "total_offsets_to_operating_expenditures": 0.0,
+      "transaction_coverage_date": "2026-06-30T00:00:00",
+      "transfers_from_other_authorized_committee": 5675891.08,
+      "transfers_to_other_authorized_committee": 4663.33
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -18269,12 +18321,6 @@
           "state": "OH"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/S6OH00304/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
