@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH01194",
   "name": "LANDSMAN, GREG",
-  "fetched_at": "2026-08-27T07:27:30.534501+00:00",
+  "fetched_at": "2026-08-27T21:51:51.839704+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -421,7 +421,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -565,7 +565,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -709,7 +709,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -853,7 +853,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -997,7 +997,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1159,7 +1159,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1303,7 +1303,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1447,7 +1447,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1591,7 +1591,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
