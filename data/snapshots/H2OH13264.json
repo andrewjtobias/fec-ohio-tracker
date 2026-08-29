@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH13264",
   "name": "SYKES, EMILIA",
-  "fetched_at": "2026-08-29T05:48:27.859531+00:00",
+  "fetched_at": "2026-08-29T12:24:07.091917+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -9,24 +9,24 @@
       "candidate_election_year": 2026,
       "candidate_id": "H2OH13264",
       "contribution_refunds": 7131.72,
-      "contributions": 2929121.53,
+      "contributions": 2930670.72,
       "coverage_end_date": "2026-06-30T00:00:00",
       "coverage_start_date": "2025-01-01T00:00:00",
       "cycle": 2026,
-      "disbursements": 1361107.02,
+      "disbursements": 1362656.21,
       "election_full": false,
       "exempt_legal_accounting_disbursement": 0.0,
       "federal_funds": 0.0,
       "fundraising_disbursements": 0.0,
-      "individual_contributions": 1922344.38,
-      "individual_itemized_contributions": 1508105.69,
-      "individual_unitemized_contributions": 414238.69,
-      "last_beginning_image_number": "202607159875768590",
+      "individual_contributions": 1923893.57,
+      "individual_itemized_contributions": 1509754.88,
+      "individual_unitemized_contributions": 414138.69,
+      "last_beginning_image_number": "202608289903427565",
       "last_cash_on_hand_end_period": 1897462.29,
       "last_debts_owed_by_committee": 0.0,
       "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 493695.81,
-      "last_net_operating_expenditures": 286865.93,
+      "last_net_contributions": 495245.0,
+      "last_net_operating_expenditures": 288415.12,
       "last_report_type_full": "JULY QUARTERLY",
       "last_report_year": 2026,
       "loan_repayments": 0.0,
@@ -34,17 +34,17 @@
       "loan_repayments_other_loans": 0.0,
       "loans": 0.0,
       "loans_made_by_candidate": 0.0,
-      "net_contributions": 2921989.81,
-      "net_operating_expenditures": 1311856.67,
+      "net_contributions": 2923539.0,
+      "net_operating_expenditures": 1313405.86,
       "offsets_to_fundraising_expenditures": 0.0,
       "offsets_to_legal_accounting": 0.0,
       "offsets_to_operating_expenditures": 17368.63,
-      "operating_expenditures": 1329225.3,
+      "operating_expenditures": 1330774.49,
       "other_disbursements": 24750.0,
       "other_political_committee_contributions": 1000913.34,
       "other_receipts": 6297.68,
       "political_party_committee_contributions": 5863.81,
-      "receipts": 3135890.77,
+      "receipts": 3137439.96,
       "refunded_individual_contributions": 5031.72,
       "refunded_other_political_committee_contributions": 2100.0,
       "refunded_political_party_committee_contributions": 0.0,
@@ -456,7 +456,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -600,7 +600,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -744,7 +744,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -888,7 +888,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1032,7 +1032,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1176,7 +1176,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1320,7 +1320,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1464,7 +1464,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1608,7 +1608,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1752,7 +1752,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1896,7 +1896,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2040,7 +2040,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2184,7 +2184,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35916,
+        "idx": 35915,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
