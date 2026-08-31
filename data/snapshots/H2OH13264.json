@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH13264",
   "name": "SYKES, EMILIA",
-  "fetched_at": "2026-08-31T03:50:52.025134+00:00",
+  "fetched_at": "2026-08-31T12:50:30.572188+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2325,8 +2325,8 @@
       "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
-      "raised": 540783.28,
-      "spent": 297384.34,
+      "raised": 539234.09,
+      "spent": 295835.15,
       "transfers": null,
       "cash_on_hand": 1897462.29,
       "top_donors": [
