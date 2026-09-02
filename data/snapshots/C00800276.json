@@ -1,7 +1,7 @@
 {
   "fec_id": "C00800276",
   "name": "LANDSMAN FOR CONGRESS",
-  "fetched_at": "2026-09-02T10:44:47.140250+00:00",
+  "fetched_at": "2026-09-02T16:04:06.628520+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2284,7 +2284,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2021-12-20",
-        "last_file_date": "2026-08-26",
+        "last_file_date": "2026-09-01",
         "name": "SHORE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2644,7 +2644,7 @@
       "contribution_receipt_amount": 500.0,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "DAVIDS NEW DEMS FUND",
+        "affiliated_committee_name": "DEFEND DEMOCRACY NOW PAC",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00409730",
