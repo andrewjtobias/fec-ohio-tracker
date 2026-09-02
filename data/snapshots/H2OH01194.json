@@ -1,59 +1,7 @@
 {
   "fec_id": "H2OH01194",
   "name": "LANDSMAN, GREG",
-  "fetched_at": "2026-09-02T03:02:09.137929+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "candidate_election_year": 2026,
-      "candidate_id": "H2OH01194",
-      "contribution_refunds": 28596.97,
-      "contributions": 3786918.17,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 1203151.62,
-      "election_full": false,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 2810230.49,
-      "individual_itemized_contributions": 2567369.37,
-      "individual_unitemized_contributions": 242861.12,
-      "last_beginning_image_number": "202607159880544908",
-      "last_cash_on_hand_end_period": 3610213.67,
-      "last_debts_owed_by_committee": 0.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 873930.9,
-      "last_net_operating_expenditures": 305691.96,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 0.0,
-      "loan_repayments_candidate_loans": 0.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 0.0,
-      "loans_made_by_candidate": 0.0,
-      "net_contributions": 3758321.2,
-      "net_operating_expenditures": 1140682.87,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 14173.81,
-      "operating_expenditures": 1154856.68,
-      "other_disbursements": 19697.97,
-      "other_political_committee_contributions": 970742.21,
-      "other_receipts": 0.0,
-      "political_party_committee_contributions": 5945.47,
-      "receipts": 4633250.38,
-      "refunded_individual_contributions": 9431.32,
-      "refunded_other_political_committee_contributions": 19165.65,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-06-30T00:00:00",
-      "transfers_from_other_authorized_committee": 832158.4,
-      "transfers_to_other_authorized_committee": 0.0
-    }
-  ],
+  "fetched_at": "2026-09-02T10:44:50.989187+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -421,7 +369,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -565,7 +513,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -709,7 +657,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -853,7 +801,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -997,7 +945,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1159,7 +1107,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1303,7 +1251,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1447,7 +1395,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1591,7 +1539,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35400,
+        "idx": 35401,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2924,6 +2872,12 @@
           "state": "OH"
         }
       ]
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H2OH01194/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
