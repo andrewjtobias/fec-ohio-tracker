@@ -1,7 +1,7 @@
 {
   "fec_id": "C00800276",
   "name": "LANDSMAN FOR CONGRESS",
-  "fetched_at": "2026-09-03T10:46:47.313850+00:00",
+  "fetched_at": "2026-09-03T15:53:05.225104+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2977,7 +2977,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-24",
-        "last_file_date": "2026-08-19",
+        "last_file_date": "2026-09-02",
         "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
         "organization_type": "T",
         "organization_type_full": "Trade Association",
@@ -3176,8 +3176,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2026-07-15",
-        "last_file_date": "2026-07-31",
+        "last_f1_date": "2026-09-02",
+        "last_file_date": "2026-09-02",
         "name": "MCCLELLAN FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -18547,10 +18547,5 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "errors": [
-    {
-      "step": "schedule_e",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?committee_id=C00800276&per_page=100&sort=-expenditure_date&api_key=REDACTED"
-    }
-  ]
+  "schedule_e": []
 }

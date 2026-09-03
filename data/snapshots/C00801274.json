@@ -1,7 +1,7 @@
 {
   "fec_id": "C00801274",
   "name": "EMILIA SYKES FOR CONGRESS",
-  "fetched_at": "2026-09-03T10:45:11.971001+00:00",
+  "fetched_at": "2026-09-03T15:51:26.378792+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1577,8 +1577,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2026-07-15",
-        "last_file_date": "2026-07-31",
+        "last_f1_date": "2026-09-02",
+        "last_file_date": "2026-09-02",
         "name": "MCCLELLAN FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
