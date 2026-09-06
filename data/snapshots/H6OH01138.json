@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH01138",
   "name": "CONROY, ERIC",
-  "fetched_at": "2026-09-06T10:18:30.383323+00:00",
+  "fetched_at": "2026-09-06T14:57:20.923018+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -679,7 +679,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -955,7 +955,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -1231,7 +1231,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -1507,7 +1507,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -1645,7 +1645,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -1783,7 +1783,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -1921,7 +1921,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -2059,7 +2059,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -2197,7 +2197,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -2335,7 +2335,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -2473,7 +2473,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -2611,7 +2611,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -2749,7 +2749,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -2887,7 +2887,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -3025,7 +3025,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -3163,7 +3163,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -3301,7 +3301,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -3439,7 +3439,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -3715,7 +3715,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -3991,7 +3991,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -4405,7 +4405,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -4681,7 +4681,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -5095,7 +5095,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -5509,7 +5509,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -5923,7 +5923,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -6199,7 +6199,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -6337,7 +6337,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
