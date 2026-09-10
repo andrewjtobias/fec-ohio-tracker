@@ -1,7 +1,7 @@
 {
   "fec_id": "C00912311",
   "name": "CONROY FOR CONGRESS",
-  "fetched_at": "2026-09-10T10:39:57.090694+00:00",
+  "fetched_at": "2026-09-10T15:52:17.194367+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3505,7 +3505,7 @@
       "contribution_receipt_amount": 31882.96,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "EMMER MAJORITY BUILDERS",
         "candidate_ids": [
           "H6OH01138"
         ],
