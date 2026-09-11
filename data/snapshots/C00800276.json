@@ -1,7 +1,7 @@
 {
   "fec_id": "C00800276",
   "name": "LANDSMAN FOR CONGRESS",
-  "fetched_at": "2026-09-11T10:43:09.244803+00:00",
+  "fetched_at": "2026-09-11T15:59:41.890384+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1371,7 +1371,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-11-07",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-09-10",
         "name": "SUGAR CANE GROWERS COOPERATIVE OF FLORIDA (PAC)",
         "organization_type": "V",
         "organization_type_full": "Cooperative",
@@ -3578,7 +3578,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-15",
-        "last_file_date": "2026-08-06",
+        "last_file_date": "2026-09-10",
         "name": "LIFTOFF PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5495,7 +5495,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-01-22",
-        "last_file_date": "2026-08-14",
+        "last_file_date": "2026-09-10",
         "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
         "organization_type": "M",
         "organization_type_full": "Membership Organization",
