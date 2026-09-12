@@ -1,7 +1,7 @@
 {
   "fec_id": "C00801274",
   "name": "EMILIA SYKES FOR CONGRESS",
-  "fetched_at": "2026-09-12T10:10:21.925229+00:00",
+  "fetched_at": "2026-09-12T15:03:06.880400+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1310,7 +1310,7 @@
       "contribution_receipt_amount": 1000.0,
       "contribution_receipt_date": "2026-06-30",
       "contributor": {
-        "affiliated_committee_name": "DEFEND DEMOCRACY NOW PAC",
+        "affiliated_committee_name": "DAVIDS NEW DEMS FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00409730",
@@ -2455,7 +2455,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-01-31",
-        "last_file_date": "2026-08-20",
+        "last_file_date": "2026-09-11",
         "name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
         "organization_type": null,
         "organization_type_full": null,
@@ -2936,8 +2936,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2026-09-04",
-        "last_file_date": "2026-09-08",
+        "last_f1_date": "2026-09-11",
+        "last_file_date": "2026-09-11",
         "name": "DCCC",
         "organization_type": null,
         "organization_type_full": null,
@@ -12353,8 +12353,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2026-09-04",
-        "last_file_date": "2026-09-08",
+        "last_f1_date": "2026-09-11",
+        "last_file_date": "2026-09-11",
         "name": "DCCC",
         "organization_type": null,
         "organization_type_full": null,
