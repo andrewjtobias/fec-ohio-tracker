@@ -1,7 +1,7 @@
 {
   "fec_id": "C00933366",
   "name": "POINDEXTER FOR CONGRESS",
-  "fetched_at": "2026-09-13T03:20:25.216470+00:00",
+  "fetched_at": "2026-09-13T11:12:42.775351+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -130,70 +130,6 @@
     },
     {
       "additional_bank_names": null,
-      "amendment_chain": null,
-      "amendment_indicator": null,
-      "amendment_version": 0,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202608130300358710",
-      "candidate_id": null,
-      "candidate_name": null,
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "C00933366",
-      "committee_name": "POINDEXTER FOR CONGRESS",
-      "committee_type": "H",
-      "coverage_end_date": "2026-06-30",
-      "coverage_start_date": "2026-04-16",
-      "csv_url": null,
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "RFAI: JULY QUARTERLY 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": null,
-      "ending_image_number": "202608130300358712",
-      "fec_file_id": null,
-      "file_number": null,
-      "form_category": "OTHER",
-      "form_type": "FRQ",
-      "house_personal_funds": null,
-      "html_url": null,
-      "is_amended": false,
-      "means_filed": "paper",
-      "most_recent": true,
-      "most_recent_file_number": null,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 3,
-      "party": null,
-      "pdf_url": "https://docquery.fec.gov/pdf/710/202608130300358710/202608130300358710.pdf",
-      "previous_file_number": 0,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-08-13T00:00:00",
-      "report_type": "Q2",
-      "report_type_full": "JULY QUARTERLY",
-      "report_year": 2026,
-      "request_type": "2",
-      "senate_personal_funds": null,
-      "state": null,
-      "sub_id": "1081320260266105200",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": null,
-      "update_date": "2026-08-13"
-    },
-    {
-      "additional_bank_names": null,
       "amendment_chain": [
         1931131,
         1931327,
@@ -259,6 +195,70 @@
       "total_individual_contributions": null,
       "total_receipts": null,
       "treasurer_name": "DUFOUR, TOM",
+      "update_date": "2026-08-13"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": null,
+      "amendment_indicator": null,
+      "amendment_version": 0,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202608130300358710",
+      "candidate_id": null,
+      "candidate_name": null,
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "C00933366",
+      "committee_name": "POINDEXTER FOR CONGRESS",
+      "committee_type": "H",
+      "coverage_end_date": "2026-06-30",
+      "coverage_start_date": "2026-04-16",
+      "csv_url": null,
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "RFAI: JULY QUARTERLY 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": null,
+      "ending_image_number": "202608130300358712",
+      "fec_file_id": null,
+      "file_number": null,
+      "form_category": "OTHER",
+      "form_type": "FRQ",
+      "house_personal_funds": null,
+      "html_url": null,
+      "is_amended": false,
+      "means_filed": "paper",
+      "most_recent": true,
+      "most_recent_file_number": null,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 3,
+      "party": null,
+      "pdf_url": "https://docquery.fec.gov/pdf/710/202608130300358710/202608130300358710.pdf",
+      "previous_file_number": 0,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-08-13T00:00:00",
+      "report_type": "Q2",
+      "report_type_full": "JULY QUARTERLY",
+      "report_year": 2026,
+      "request_type": "2",
+      "senate_personal_funds": null,
+      "state": null,
+      "sub_id": "1081320260266105200",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": null,
       "update_date": "2026-08-13"
     },
     {
@@ -330,66 +330,69 @@
     },
     {
       "additional_bank_names": null,
-      "amendment_chain": null,
-      "amendment_indicator": null,
-      "amendment_version": 0,
+      "amendment_chain": [
+        1965051,
+        1983478
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 1,
       "bank_depository_city": null,
       "bank_depository_name": null,
       "bank_depository_state": null,
       "bank_depository_street_1": null,
       "bank_depository_street_2": null,
       "bank_depository_zip": null,
-      "beginning_image_number": "202606159870672393",
+      "beginning_image_number": "202606159870672301",
       "candidate_id": null,
       "candidate_name": null,
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
+      "cash_on_hand_beginning_period": 0.0,
+      "cash_on_hand_end_period": 73154.7,
       "committee_id": "C00933366",
       "committee_name": "POINDEXTER FOR CONGRESS",
       "committee_type": "H",
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/480/1983480.csv",
+      "coverage_end_date": "2026-03-31",
+      "coverage_start_date": "2025-11-17",
+      "csv_url": "https://docquery.fec.gov/csv/478/1983478.csv",
       "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Miscellaneous Submission to FEC 2026",
-      "document_type": "T",
-      "document_type_full": "Miscellaneous Submission to FEC",
+      "debts_owed_by_committee": 0.0,
+      "debts_owed_to_committee": 0.0,
+      "document_description": "APRIL QUARTERLY 2026",
+      "document_type": null,
+      "document_type_full": null,
       "election_year": null,
-      "ending_image_number": "202606159870672393",
-      "fec_file_id": "FEC-1983480",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1983480.fec",
-      "file_number": 1983480,
-      "form_category": "OTHER",
-      "form_type": "F99",
+      "ending_image_number": "202606159870672390",
+      "fec_file_id": "FEC-1983478",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/1983478.fec",
+      "file_number": 1983478,
+      "form_category": "REPORT",
+      "form_type": "F3",
       "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00933366/1983480/",
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00933366/1983478/",
       "is_amended": false,
       "means_filed": "e-file",
       "most_recent": true,
-      "most_recent_file_number": 1983480,
+      "most_recent_file_number": 1983478,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
-      "pages": 1,
+      "pages": 90,
       "party": null,
-      "pdf_url": "https://docquery.fec.gov/pdf/393/202606159870672393/202606159870672393.pdf",
-      "previous_file_number": 0,
-      "primary_general_indicator": null,
+      "pdf_url": "https://docquery.fec.gov/pdf/301/202606159870672301/202606159870672301.pdf",
+      "previous_file_number": 1965051,
+      "primary_general_indicator": "P",
       "receipt_date": "2026-06-15T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
+      "report_type": "Q1",
+      "report_type_full": "APRIL QUARTERLY",
       "report_year": 2026,
       "request_type": null,
       "senate_personal_funds": null,
       "state": null,
-      "sub_id": "4061520261521339149",
+      "sub_id": "4061520261521332018",
       "total_communication_cost": null,
-      "total_disbursements": null,
+      "total_disbursements": 64153.79,
       "total_independent_expenditures": null,
       "total_individual_contributions": null,
-      "total_receipts": null,
+      "total_receipts": 137308.49,
       "treasurer_name": "DUFOUR, THOMAS",
       "update_date": "2026-06-15"
     }
@@ -413,7 +416,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -609,7 +612,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -802,7 +805,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1064,7 +1067,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1326,7 +1329,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1588,7 +1591,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1850,7 +1853,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2052,7 +2055,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2188,7 +2191,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2398,7 +2401,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2589,7 +2592,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2809,7 +2812,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3029,7 +3032,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3249,7 +3252,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3469,7 +3472,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3689,7 +3692,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3909,7 +3912,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4129,7 +4132,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4349,7 +4352,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4569,7 +4572,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4789,7 +4792,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4976,7 +4979,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5196,7 +5199,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5416,7 +5419,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5636,7 +5639,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5856,7 +5859,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6076,7 +6079,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6296,7 +6299,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6516,7 +6519,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6736,7 +6739,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6923,7 +6926,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7110,7 +7113,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7330,7 +7333,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7550,7 +7553,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7770,7 +7773,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7990,7 +7993,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8210,7 +8213,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8430,7 +8433,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8650,7 +8653,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8870,7 +8873,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9006,7 +9009,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9226,7 +9229,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9446,7 +9449,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9582,7 +9585,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9769,7 +9772,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9989,7 +9992,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10209,7 +10212,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10429,7 +10432,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10649,7 +10652,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10869,7 +10872,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11095,7 +11098,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11230,7 +11233,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11365,7 +11368,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11584,7 +11587,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11719,7 +11722,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11854,7 +11857,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11989,7 +11992,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12124,7 +12127,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12259,7 +12262,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12394,7 +12397,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12529,7 +12532,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12664,7 +12667,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12799,7 +12802,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12934,7 +12937,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13069,7 +13072,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13204,7 +13207,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13339,7 +13342,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13474,7 +13477,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13609,7 +13612,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13744,7 +13747,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13879,7 +13882,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14014,7 +14017,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14251,7 +14254,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14386,7 +14389,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14521,7 +14524,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14656,7 +14659,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14791,7 +14794,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14926,7 +14929,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15061,7 +15064,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15196,7 +15199,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15331,7 +15334,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15466,7 +15469,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15601,7 +15604,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15736,7 +15739,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15871,7 +15874,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16006,7 +16009,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16141,7 +16144,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16276,7 +16279,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16411,7 +16414,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16546,7 +16549,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16681,7 +16684,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16816,7 +16819,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16951,7 +16954,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17086,7 +17089,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17221,7 +17224,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17356,7 +17359,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17491,7 +17494,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17626,7 +17629,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17761,7 +17764,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17896,7 +17899,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
         "candidate_ids": [
           "H6OH07168"
         ],
