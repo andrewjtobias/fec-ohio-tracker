@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-09-15T03:33:54.662140+00:00",
+  "fetched_at": "2026-09-15T11:11:37.343883+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -446,7 +446,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -608,7 +608,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -644,19 +644,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -749,7 +749,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -911,7 +911,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -1073,7 +1073,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -1235,7 +1235,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -1382,7 +1382,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -1544,7 +1544,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -1706,7 +1706,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -1868,7 +1868,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -2030,7 +2030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -2192,7 +2192,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
@@ -2354,7 +2354,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH16051",
-        "idx": 36032,
+        "idx": 36035,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MAX",
