@@ -1,7 +1,7 @@
 {
   "fec_id": "S6OH00304",
   "name": "HUSTED, JON",
-  "fetched_at": "2026-09-16T03:28:19.803288+00:00",
+  "fetched_at": "2026-09-16T10:55:14.324822+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -446,7 +446,450 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "JON",
+      "candidate_id": "S6OH00304",
+      "candidate_last_name": "HUSTED",
+      "candidate_middle_name": null,
+      "candidate_name": "HUSTED, JON",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "004",
+      "category_code_full": "Advertising Expenses ",
+      "committee": {
+        "affiliated_committee_name": null,
+        "candidate_ids": [],
+        "city": "WASHINGTON",
+        "committee_id": "C90011172",
+        "committee_type": "I",
+        "committee_type_full": "Independent expenditure filer (not a committee)",
+        "cycle": 2026,
+        "cycles": [
+          2010,
+          2012,
+          2014,
+          2016,
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2010,
+          2012,
+          2014,
+          2016,
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2010,
+          2012,
+          2016,
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": null,
+        "first_file_date": "2010-04-16",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": null,
+        "last_file_date": "2026-09-15",
+        "name": "AFSCME WORKING FAMILIES FUND",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "DC",
+        "state_full": "District Of Columbia",
+        "street_1": "1625 L STREET NW",
+        "street_2": null,
+        "treasurer_name": null,
+        "zip": "20036"
+      },
+      "committee_id": "C90011172",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-15",
+      "dissemination_date": null,
+      "election_type": "G2026",
+      "election_type_full": "GENERAL",
+      "expenditure_amount": 1000000.0,
+      "expenditure_date": "2026-09-15",
+      "expenditure_description": "VIDEO AD OPPOSING JON HUSTED",
+      "file_number": 2012068,
+      "filer_first_name": null,
+      "filer_last_name": null,
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-09-15",
+      "filing_form": "F5",
+      "form_line_number": null,
+      "image_number": "202609159904214491",
+      "independent_sign_date": null,
+      "independent_sign_name": null,
+      "is_notice": true,
+      "line_number": null,
+      "link_id": 4091520261598430002,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 1000000.0,
+      "original_sub_id": null,
+      "payee_city": "KANSAS CITY",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "GPS IMPACT",
+      "payee_prefix": null,
+      "payee_state": "MO",
+      "payee_street_1": "220 W 18TH ST. SUITE 202",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "64108",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609159904214491",
+      "previous_file_number": 2012068,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE-F57",
+      "schedule_type_full": "FOR EACH INDEPENDENT EXPENDITURE MADE",
+      "sub_id": "4091520261598431005",
+      "support_oppose_indicator": "O",
+      "transaction_id": "F57.5214"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00304",
+        "idx": 128934,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "JON",
+      "candidate_id": "S6OH00304",
+      "candidate_last_name": "HUSTED",
+      "candidate_middle_name": null,
+      "candidate_name": "HUSTED, JON",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "AUSTIN",
+        "committee_id": "C00879510",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2024-05-22",
+        "first_file_date": "2024-05-22",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-10-22",
+        "last_file_date": "2026-09-14",
+        "name": "AMERICA PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "TX",
+        "state_full": "Texas",
+        "street_1": "P.O. BOX 341027",
+        "street_2": null,
+        "treasurer_name": "YOUNG, CHRIS",
+        "zip": "78734"
+      },
+      "committee_id": "C00879510",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-14",
+      "dissemination_date": "2026-09-15",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 665.0,
+      "expenditure_date": "2026-09-14",
+      "expenditure_description": "PRINTING",
+      "file_number": 2011920,
+      "filer_first_name": "CHRIS",
+      "filer_last_name": "YOUNG",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-09-14",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202609149904205615",
+      "independent_sign_date": "2026-09-14",
+      "independent_sign_name": "YOUNG, CHRIS",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4091520261598429004,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 2101256.43,
+      "original_sub_id": null,
+      "payee_city": "ADDISON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "RED ZONE STRATEGIC LLC",
+      "payee_prefix": null,
+      "payee_state": "TX",
+      "payee_street_1": "PO BOX 151",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "75201",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609149904205615",
+      "previous_file_number": 2011920,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4091520261598532043",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE24.1426"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00304",
+        "idx": 128934,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "JON",
+      "candidate_id": "S6OH00304",
+      "candidate_last_name": "HUSTED",
+      "candidate_middle_name": null,
+      "candidate_name": "HUSTED, JON",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "AUSTIN",
+        "committee_id": "C00879510",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2024-05-22",
+        "first_file_date": "2024-05-22",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-10-22",
+        "last_file_date": "2026-09-14",
+        "name": "AMERICA PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "TX",
+        "state_full": "Texas",
+        "street_1": "P.O. BOX 341027",
+        "street_2": null,
+        "treasurer_name": "YOUNG, CHRIS",
+        "zip": "78734"
+      },
+      "committee_id": "C00879510",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-14",
+      "dissemination_date": "2026-09-15",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 219129.49,
+      "expenditure_date": "2026-09-14",
+      "expenditure_description": "PRINTING/POSTAGE",
+      "file_number": 2011920,
+      "filer_first_name": "CHRIS",
+      "filer_last_name": "YOUNG",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-09-14",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202609149904205614",
+      "independent_sign_date": "2026-09-14",
+      "independent_sign_name": "YOUNG, CHRIS",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4091520261598429004,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 2101256.43,
+      "original_sub_id": null,
+      "payee_city": "ADDISON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "RED ZONE STRATEGIC LLC",
+      "payee_prefix": null,
+      "payee_state": "TX",
+      "payee_street_1": "PO BOX 151",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "75201",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609149904205614",
+      "previous_file_number": 2011920,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4091520261598532041",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE24.1421"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00304",
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -587,7 +1030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -650,7 +1093,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -733,7 +1176,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -883,7 +1326,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1033,7 +1476,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1183,7 +1626,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1333,7 +1776,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1483,7 +1926,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1546,7 +1989,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -1629,7 +2072,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1779,7 +2222,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -1929,7 +2372,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2079,7 +2522,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2229,7 +2672,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2379,7 +2822,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2529,7 +2972,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2670,7 +3113,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2811,7 +3254,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -2869,7 +3312,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2952,7 +3395,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3010,7 +3453,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3093,7 +3536,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3151,7 +3594,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3234,7 +3677,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3292,7 +3735,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3375,7 +3818,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3433,7 +3876,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3516,7 +3959,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3574,7 +4017,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3657,7 +4100,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3720,7 +4163,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -3803,7 +4246,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -3944,7 +4387,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4007,7 +4450,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -4090,7 +4533,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4148,7 +4591,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4231,7 +4674,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4393,7 +4836,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4555,7 +4998,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4717,7 +5160,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4858,7 +5301,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -4999,7 +5442,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5152,7 +5595,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5299,7 +5742,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5446,7 +5889,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5593,7 +6036,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5743,7 +6186,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -5893,7 +6336,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6034,7 +6477,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6175,7 +6618,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6325,7 +6768,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6475,7 +6918,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6613,7 +7056,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6754,7 +7197,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6904,7 +7347,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -6962,7 +7405,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -7045,7 +7488,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7103,7 +7546,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -7186,7 +7629,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7324,7 +7767,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7474,7 +7917,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7624,7 +8067,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7762,7 +8205,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7903,7 +8346,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -7966,7 +8409,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -8049,7 +8492,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8199,7 +8642,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8349,7 +8792,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8412,7 +8855,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -8495,7 +8938,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8558,7 +9001,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -8641,7 +9084,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8791,7 +9234,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -8854,7 +9297,7 @@
         "last_cycle_has_activity": 2030,
         "last_cycle_has_financial": 2030,
         "last_f1_date": "2024-12-26",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-09-15",
         "name": "THE SENTINEL ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -8937,7 +9380,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9087,7 +9530,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9237,7 +9680,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9387,7 +9830,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9537,7 +9980,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9687,7 +10130,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9837,7 +10280,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -9987,7 +10430,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10137,7 +10580,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10287,7 +10730,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10437,7 +10880,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10587,7 +11030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10737,7 +11180,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -10887,7 +11330,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11037,7 +11480,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11190,7 +11633,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11340,7 +11783,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11490,7 +11933,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11640,7 +12083,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11790,7 +12233,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -11940,7 +12383,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12090,7 +12533,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12157,7 +12600,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -12240,7 +12683,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12307,7 +12750,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -12390,7 +12833,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12543,7 +12986,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12696,7 +13139,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12846,7 +13289,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -12999,7 +13442,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -13152,7 +13595,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -13302,7 +13745,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -13452,7 +13895,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -13602,7 +14045,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -13755,7 +14198,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -13908,7 +14351,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -14061,7 +14504,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -14214,7 +14657,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -14364,7 +14807,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -14514,7 +14957,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -14664,7 +15107,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -14814,7 +15257,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -14964,7 +15407,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -15114,7 +15557,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -15264,7 +15707,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -15414,7 +15857,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -15567,7 +16010,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -15720,7 +16163,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -15870,7 +16313,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -16020,7 +16463,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -16170,7 +16613,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -16320,7 +16763,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -16470,7 +16913,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -16632,7 +17075,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -16794,7 +17237,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -16944,7 +17387,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -17094,7 +17537,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -17161,7 +17604,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -17244,7 +17687,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -17394,7 +17837,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -17544,7 +17987,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -17694,7 +18137,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -17844,7 +18287,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -17994,7 +18437,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -18144,7 +18587,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -18294,7 +18737,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -18444,7 +18887,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -18594,7 +19037,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -18744,7 +19187,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -18894,7 +19337,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -18961,7 +19404,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -19044,7 +19487,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -19111,7 +19554,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -19194,7 +19637,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -19344,7 +19787,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -19494,7 +19937,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -19644,7 +20087,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -19794,7 +20237,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -19944,7 +20387,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -20094,7 +20537,7 @@
       "back_reference_transaction_id": "XEALC1637",
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -20161,7 +20604,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -20244,7 +20687,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -20397,7 +20840,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -20550,7 +20993,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -20703,7 +21146,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -20856,7 +21299,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21006,7 +21449,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21156,7 +21599,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21306,7 +21749,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21456,7 +21899,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21606,7 +22049,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21756,7 +22199,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21823,7 +22266,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -21906,7 +22349,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -21973,7 +22416,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -22056,7 +22499,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -22209,7 +22652,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -22362,7 +22805,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -22503,7 +22946,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -22644,7 +23087,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -22711,7 +23154,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -22794,7 +23237,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -22861,7 +23304,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -22944,7 +23387,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -23011,7 +23454,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -23094,7 +23537,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -23235,7 +23678,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -23376,7 +23819,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -23529,7 +23972,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -23682,7 +24125,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -23835,7 +24278,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -23988,7 +24431,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -24141,7 +24584,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -24294,7 +24737,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -24447,7 +24890,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -24600,7 +25043,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -24753,7 +25196,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -24906,7 +25349,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -24973,7 +25416,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -25056,7 +25499,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -25206,7 +25649,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00304",
-        "idx": 128906,
+        "idx": 128934,
         "two_year_period": "2026"
       },
       "candidate_first_name": "JON",
@@ -25273,7 +25716,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,

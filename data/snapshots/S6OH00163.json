@@ -1,7 +1,7 @@
 {
   "fec_id": "S6OH00163",
   "name": "BROWN, SHERROD",
-  "fetched_at": "2026-09-16T03:24:41.761170+00:00",
+  "fetched_at": "2026-09-16T10:52:21.498231+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -505,7 +505,148 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "SHERROD",
+      "candidate_id": "S6OH00163",
+      "candidate_last_name": "BROWN",
+      "candidate_middle_name": null,
+      "candidate_name": "BROWN, SHERROD",
+      "candidate_office": "S",
+      "candidate_office_district": "00",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "AUSTIN",
+        "committee_id": "C00879510",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2024-05-22",
+        "first_file_date": "2024-05-22",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-10-22",
+        "last_file_date": "2026-09-14",
+        "name": "AMERICA PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "TX",
+        "state_full": "Texas",
+        "street_1": "P.O. BOX 341027",
+        "street_2": null,
+        "treasurer_name": "YOUNG, CHRIS",
+        "zip": "78734"
+      },
+      "committee_id": "C00879510",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-14",
+      "dissemination_date": "2026-09-15",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 219129.49,
+      "expenditure_date": "2026-09-14",
+      "expenditure_description": "PRINTING/POSTAGE",
+      "file_number": 2011920,
+      "filer_first_name": "CHRIS",
+      "filer_last_name": "YOUNG",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-09-14",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202609149904205614",
+      "independent_sign_date": "2026-09-14",
+      "independent_sign_name": "YOUNG, CHRIS",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4091520261598429004,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 2101256.43,
+      "original_sub_id": null,
+      "payee_city": "ADDISON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "RED ZONE STRATEGIC LLC",
+      "payee_prefix": null,
+      "payee_state": "TX",
+      "payee_street_1": "PO BOX 151",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "75201",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609149904205614",
+      "previous_file_number": 2011920,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4091520261598532042",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.1422"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "S6OH00163",
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -643,7 +784,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -698,7 +839,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-13",
+        "last_file_date": "2026-09-14",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -781,7 +922,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -934,7 +1075,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1087,7 +1228,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1142,7 +1283,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-13",
+        "last_file_date": "2026-09-14",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1225,7 +1366,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1378,7 +1519,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1528,7 +1669,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1678,7 +1819,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1828,7 +1969,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -1978,7 +2119,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2128,7 +2269,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2281,7 +2422,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2434,7 +2575,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2587,7 +2728,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2737,7 +2878,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -2887,7 +3028,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3037,7 +3178,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3175,7 +3316,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3233,7 +3374,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3316,7 +3457,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3374,7 +3515,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3457,7 +3598,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3610,7 +3751,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3757,7 +3898,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -3904,7 +4045,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4051,7 +4192,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4198,7 +4339,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4345,7 +4486,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4492,7 +4633,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4639,7 +4780,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4786,7 +4927,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -4933,7 +5074,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5080,7 +5221,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5233,7 +5374,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5386,7 +5527,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5533,7 +5674,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5680,7 +5821,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5827,7 +5968,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -5974,7 +6115,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6121,7 +6262,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6268,7 +6409,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6415,7 +6556,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6562,7 +6703,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6709,7 +6850,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -6856,7 +6997,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7003,7 +7144,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7150,7 +7291,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7297,7 +7438,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7444,7 +7585,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7591,7 +7732,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7738,7 +7879,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7885,7 +8026,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -7943,7 +8084,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -8026,7 +8167,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8084,7 +8225,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -8167,7 +8308,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8320,7 +8461,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8464,7 +8605,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8608,7 +8749,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8666,7 +8807,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -8749,7 +8890,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -8896,7 +9037,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9043,7 +9184,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9190,7 +9331,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9343,7 +9484,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9481,7 +9622,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9634,7 +9775,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9787,7 +9928,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -9937,7 +10078,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10087,7 +10228,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10225,7 +10366,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10363,7 +10504,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10501,7 +10642,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10639,7 +10780,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10777,7 +10918,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -10915,7 +11056,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11053,7 +11194,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11191,7 +11332,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11332,7 +11473,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11482,7 +11623,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11620,7 +11761,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11770,7 +11911,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -11917,7 +12058,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12064,7 +12205,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12211,7 +12352,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12358,7 +12499,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12505,7 +12646,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12652,7 +12793,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12802,7 +12943,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -12952,7 +13093,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -13102,7 +13243,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -13252,7 +13393,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -13399,7 +13540,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -13546,7 +13687,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -13693,7 +13834,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -13840,7 +13981,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -13987,7 +14128,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -14134,7 +14275,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -14281,7 +14422,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -14428,7 +14569,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -14575,7 +14716,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -14716,7 +14857,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -14857,7 +14998,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -15004,7 +15145,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -15151,7 +15292,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -15298,7 +15439,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -15445,7 +15586,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -15592,7 +15733,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -15730,7 +15871,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -15874,7 +16015,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -16012,7 +16153,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -16162,7 +16303,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -16312,7 +16453,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -16450,7 +16591,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -16591,7 +16732,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -16741,7 +16882,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -16891,7 +17032,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -17041,7 +17182,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -17191,7 +17332,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -17335,7 +17476,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -17402,7 +17543,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -17485,7 +17626,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -17552,7 +17693,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -17635,7 +17776,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -17702,7 +17843,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -17785,7 +17926,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -17923,7 +18064,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -18073,7 +18214,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -18211,7 +18352,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -18355,7 +18496,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -18499,7 +18640,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -18643,7 +18784,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -18793,7 +18934,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -18931,7 +19072,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -19081,7 +19222,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -19231,7 +19372,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -19375,7 +19516,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -19525,7 +19666,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -19675,7 +19816,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -19825,7 +19966,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -19975,7 +20116,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -20125,7 +20266,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -20275,7 +20416,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -20425,7 +20566,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -20575,7 +20716,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -20716,7 +20857,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -20869,7 +21010,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -21022,7 +21163,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -21172,7 +21313,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -21322,7 +21463,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -21472,7 +21613,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -21622,7 +21763,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -21772,7 +21913,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -21934,7 +22075,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -22096,7 +22237,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -22237,7 +22378,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -22381,7 +22522,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -22525,7 +22666,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -22675,7 +22816,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -22742,7 +22883,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -22825,7 +22966,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -22963,7 +23104,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -23101,7 +23242,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -23239,7 +23380,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -23389,7 +23530,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -23527,7 +23668,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -23677,7 +23818,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -23827,7 +23968,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -23980,7 +24121,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -24118,7 +24259,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -24256,7 +24397,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -24394,7 +24535,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -24532,7 +24673,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -24676,7 +24817,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -24820,7 +24961,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -24887,7 +25028,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -24970,7 +25111,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -25037,7 +25178,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -25120,7 +25261,7 @@
       "back_reference_transaction_id": "XEALC1641",
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -25187,7 +25328,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -25270,7 +25411,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -25414,7 +25555,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -25552,7 +25693,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -25696,7 +25837,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -25763,7 +25904,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -25846,7 +25987,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -25913,7 +26054,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -25996,7 +26137,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -26063,7 +26204,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -26146,7 +26287,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -26213,7 +26354,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -26296,7 +26437,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -26434,7 +26575,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -26587,7 +26728,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -26740,7 +26881,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -26893,7 +27034,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -27046,7 +27187,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -27113,7 +27254,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -27196,7 +27337,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -27334,7 +27475,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -27478,7 +27619,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -27622,7 +27763,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -27766,7 +27907,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -27910,7 +28051,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -28054,7 +28195,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -28198,7 +28339,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -28351,7 +28492,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -28504,7 +28645,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -28657,7 +28798,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -28801,7 +28942,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -28868,7 +29009,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-27",
-        "last_file_date": "2026-09-08",
+        "last_file_date": "2026-09-15",
         "name": "ACTIVATE AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -28951,7 +29092,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",
@@ -29030,7 +29171,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-05-02",
-        "last_file_date": "2026-08-19",
+        "last_file_date": "2026-09-15",
         "name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -29113,7 +29254,7 @@
       "back_reference_transaction_id": "D8A60F32E6C734D18973",
       "candidate": {
         "candidate_id": "S6OH00163",
-        "idx": 128878,
+        "idx": 128906,
         "two_year_period": "2026"
       },
       "candidate_first_name": "SHERROD",

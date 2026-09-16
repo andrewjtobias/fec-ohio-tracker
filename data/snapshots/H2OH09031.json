@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH09031",
   "name": "KAPTUR, MARCY HON. M.C.",
-  "fetched_at": "2026-09-16T03:28:30.652893+00:00",
+  "fetched_at": "2026-09-16T10:55:56.368651+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -486,7 +486,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "MARCY HON. M.C.",
+      "candidate_id": "H2OH09031",
+      "candidate_last_name": "KAPTUR",
+      "candidate_middle_name": null,
+      "candidate_name": "KAPTUR, MARCY HON. M.C.",
+      "candidate_office": "H",
+      "candidate_office_district": "09",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-09-14",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-14",
+      "dissemination_date": "2026-09-12",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 2083.0,
+      "expenditure_date": "2026-09-14",
+      "expenditure_description": "TEXT MESSAGES",
+      "file_number": 2011918,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-09-14",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202609149904205422",
+      "independent_sign_date": "2026-09-14",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4091520261598429003,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 140672.0,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609149904205422",
+      "previous_file_number": 2011918,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4091520261598532024",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.1180376.2"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H2OH09031",
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -639,7 +777,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -715,7 +853,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-24",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -798,7 +936,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -1011,7 +1149,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -1224,7 +1362,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -1300,7 +1438,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-24",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -1383,7 +1521,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -1459,7 +1597,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-24",
-        "last_file_date": "2026-09-11",
+        "last_file_date": "2026-09-14",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -1542,7 +1680,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY HON. M.C.",
@@ -1597,7 +1735,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-13",
+        "last_file_date": "2026-09-14",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1680,7 +1818,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -1833,7 +1971,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -1986,7 +2124,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "M.C.",
@@ -2133,7 +2271,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "M.C.",
@@ -2280,7 +2418,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "M.C.",
@@ -2427,7 +2565,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "M.C.",
@@ -2574,7 +2712,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "M.C.",
@@ -2721,7 +2859,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -2883,7 +3021,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -3045,7 +3183,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -3207,7 +3345,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -3360,7 +3498,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -3522,7 +3660,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -3684,7 +3822,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -3846,7 +3984,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -4008,7 +4146,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -4152,7 +4290,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -4296,7 +4434,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -4440,7 +4578,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -4584,7 +4722,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -4728,7 +4866,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY HON. M.C.",
@@ -4890,7 +5028,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -5034,7 +5172,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -5178,7 +5316,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -5322,7 +5460,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -5466,7 +5604,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -5610,7 +5748,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -5748,7 +5886,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -5886,7 +6024,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -6024,7 +6162,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -6168,7 +6306,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -6312,7 +6450,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
@@ -6456,7 +6594,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH09031",
-        "idx": 35696,
+        "idx": 35699,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MARCY",
