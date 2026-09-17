@@ -1,7 +1,7 @@
 {
   "fec_id": "C00916288",
   "name": "FRIENDS OF SHERROD BROWN",
-  "fetched_at": "2026-09-16T20:56:10.796403+00:00",
+  "fetched_at": "2026-09-17T03:32:53.318541+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -7241,7 +7241,7 @@
   "errors": [
     {
       "step": "schedule_a",
-      "error": "504 Server Error: Gateway Timeout for url: https://api.open.fec.gov/v1/schedules/schedule_a/?committee_id=C00916288&per_page=100&sort=-contribution_receipt_date&api_key=REDACTED"
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
