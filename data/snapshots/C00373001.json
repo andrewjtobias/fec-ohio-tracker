@@ -1,7 +1,7 @@
 {
   "fec_id": "C00373001",
   "name": "CITIZENS FOR TURNER",
-  "fetched_at": "2026-09-18T10:36:27.190899+00:00",
+  "fetched_at": "2026-09-18T15:52:05.791464+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -5190,7 +5190,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-10",
-        "last_file_date": "2026-09-10",
+        "last_file_date": "2026-09-17",
         "name": "NORTH AMERICA'S BUILDING TRADES UNIONS POLITICAL EDUCATIONAL FUND",
         "organization_type": "L",
         "organization_type_full": "Labor Organization",
