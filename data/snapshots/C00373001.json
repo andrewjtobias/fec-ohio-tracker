@@ -1,7 +1,7 @@
 {
   "fec_id": "C00373001",
   "name": "CITIZENS FOR TURNER",
-  "fetched_at": "2026-09-20T10:40:10.982220+00:00",
+  "fetched_at": "2026-09-20T15:29:01.065354+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -4892,7 +4892,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-07-22",
-        "last_file_date": "2026-08-18",
+        "last_file_date": "2026-09-19",
         "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
         "organization_type": "T",
         "organization_type_full": "Trade Association",
