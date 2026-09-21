@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH13281",
   "name": "KEVIN, SIEMBIDA",
-  "fetched_at": "2026-09-21T18:04:41.133022+00:00",
+  "fetched_at": "2026-09-21T21:45:55.365617+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -54,73 +54,10 @@
       "transfers_to_other_authorized_committee": 0.0
     }
   ],
-  "filings": [
+  "errors": [
     {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1929885
-      ],
-      "amendment_indicator": "N",
-      "amendment_version": 0,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202512229793852913",
-      "candidate_id": "H6OH13281",
-      "candidate_name": "KEVIN, SIEMBIDA",
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "H6OH13281",
-      "committee_name": null,
-      "committee_type": null,
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/885/1929885.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Candidacy 2025",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": 2026,
-      "ending_image_number": "202512229793852913",
-      "fec_file_id": "FEC-1929885",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1929885.fec",
-      "file_number": 1929885,
-      "form_category": "STATEMENT",
-      "form_type": "F2",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H6OH13281/1929885/",
-      "is_amended": false,
-      "means_filed": "e-file",
-      "most_recent": true,
-      "most_recent_file_number": 1929885,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 1,
-      "party": "REP",
-      "pdf_url": "https://docquery.fec.gov/pdf/913/202512229793852913/202512229793852913.pdf",
-      "previous_file_number": 1929885,
-      "primary_general_indicator": null,
-      "receipt_date": "2025-12-22T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2025,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": "OH",
-      "sub_id": "4122220251299547006",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "DATWYLER, THOMAS",
-      "update_date": "2025-12-22"
+      "step": "filings",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
