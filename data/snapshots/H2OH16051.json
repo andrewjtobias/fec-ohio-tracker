@@ -1,7 +1,59 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-09-22T16:23:39.278167+00:00",
+  "fetched_at": "2026-09-22T20:59:51.071963+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 0.0,
+      "candidate_election_year": 2026,
+      "candidate_id": "H2OH16051",
+      "contribution_refunds": 9625.0,
+      "contributions": 1581225.75,
+      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_start_date": "2025-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 937959.47,
+      "election_full": false,
+      "exempt_legal_accounting_disbursement": 0.0,
+      "federal_funds": 0.0,
+      "fundraising_disbursements": 0.0,
+      "individual_contributions": 924384.95,
+      "individual_itemized_contributions": 758708.38,
+      "individual_unitemized_contributions": 165676.57,
+      "last_beginning_image_number": "202607159875781285",
+      "last_cash_on_hand_end_period": 1379131.85,
+      "last_debts_owed_by_committee": 970000.0,
+      "last_debts_owed_to_committee": 0.0,
+      "last_net_contributions": 343081.26,
+      "last_net_operating_expenditures": 198119.14,
+      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 30000.0,
+      "loan_repayments_candidate_loans": 30000.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 0.0,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 1571600.75,
+      "net_operating_expenditures": 893919.89,
+      "offsets_to_fundraising_expenditures": 0.0,
+      "offsets_to_legal_accounting": 0.0,
+      "offsets_to_operating_expenditures": 1923.58,
+      "operating_expenditures": 895843.47,
+      "other_disbursements": 2491.0,
+      "other_political_committee_contributions": 656840.8,
+      "other_receipts": 0.0,
+      "political_party_committee_contributions": 0.0,
+      "receipts": 2142561.93,
+      "refunded_individual_contributions": 9625.0,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "total_offsets_to_operating_expenditures": 0.0,
+      "transaction_coverage_date": "2026-06-30T00:00:00",
+      "transfers_from_other_authorized_committee": 559412.6,
+      "transfers_to_other_authorized_committee": 0.0
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -3794,12 +3846,6 @@
           "state": "NY"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H2OH16051/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
