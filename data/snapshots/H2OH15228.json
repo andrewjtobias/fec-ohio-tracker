@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH15228",
   "name": "CAREY, MIKE",
-  "fetched_at": "2026-09-23T10:48:12.056150+00:00",
+  "fetched_at": "2026-09-23T16:08:50.816585+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -412,7 +412,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH15228",
-        "idx": 36022,
+        "idx": 36023,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MIKE",
@@ -467,7 +467,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-20",
+        "last_file_date": "2026-09-22",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -550,7 +550,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH15228",
-        "idx": 36022,
+        "idx": 36023,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MIKE",
@@ -605,7 +605,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-20",
+        "last_file_date": "2026-09-22",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -688,7 +688,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH15228",
-        "idx": 36022,
+        "idx": 36023,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MIKE",
@@ -764,7 +764,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-24",
-        "last_file_date": "2026-09-19",
+        "last_file_date": "2026-09-22",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
