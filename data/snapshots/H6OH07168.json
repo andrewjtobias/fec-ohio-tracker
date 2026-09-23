@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH07168",
   "name": "POINDEXTER, BRIAN",
-  "fetched_at": "2026-09-23T03:31:06.904605+00:00",
+  "fetched_at": "2026-09-23T10:53:12.104266+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -201,7 +201,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -354,7 +354,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -498,7 +498,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -642,7 +642,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -795,7 +795,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -939,7 +939,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1092,7 +1092,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1236,7 +1236,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1380,7 +1380,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1524,7 +1524,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1668,7 +1668,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1806,7 +1806,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1939,12 +1939,12 @@
       "action_code": "N",
       "action_code_full": "NO CHANGE",
       "amendment_indicator": "A",
-      "amendment_number": 1,
+      "amendment_number": 2,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2042,21 +2042,21 @@
       "expenditure_amount": 4054.0,
       "expenditure_date": "2026-04-23",
       "expenditure_description": "TEXTING  FEC-1972671",
-      "file_number": 1981271,
+      "file_number": 2012694,
       "filer_first_name": "MIKE",
       "filer_last_name": "BOLAND",
       "filer_middle_name": null,
       "filer_prefix": null,
       "filer_suffix": null,
-      "filing_date": "2026-06-04",
+      "filing_date": "2026-09-17",
       "filing_form": "F3X",
       "form_line_number": "F3X-24",
-      "image_number": "202606049870370177",
+      "image_number": "202609179904293955",
       "independent_sign_date": "2026-05-20",
       "independent_sign_name": "BOLAND, MIKE",
       "is_notice": false,
       "line_number": "24",
-      "link_id": 4060420261520167020,
+      "link_id": 4091720261598641183,
       "memo_code": "X",
       "memo_code_full": null,
       "memo_text": "*",
@@ -2078,13 +2078,13 @@
       "payee_street_2": null,
       "payee_suffix": null,
       "payee_zip": "112011431",
-      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202606049870370177",
-      "previous_file_number": 1978105,
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609179904293955",
+      "previous_file_number": 1981271,
       "report_type": "M5",
       "report_year": "2026",
       "schedule_type": "SE",
       "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
-      "sub_id": "4062520261522796246",
+      "sub_id": "4092120261599176077",
       "support_oppose_indicator": "S",
       "transaction_id": "500002509"
     },
@@ -2097,7 +2097,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2250,7 +2250,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2403,7 +2403,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2556,7 +2556,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2694,7 +2694,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2832,7 +2832,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2970,7 +2970,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3108,7 +3108,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3246,7 +3246,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3384,7 +3384,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3522,7 +3522,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3660,7 +3660,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3798,7 +3798,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3936,7 +3936,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4074,7 +4074,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73595,
+        "idx": 73596,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
