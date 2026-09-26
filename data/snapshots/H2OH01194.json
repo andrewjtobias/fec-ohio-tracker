@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH01194",
   "name": "LANDSMAN, GREG",
-  "fetched_at": "2026-09-26T03:41:16.648898+00:00",
+  "fetched_at": "2026-09-26T10:54:24.670344+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -421,7 +421,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -439,6 +439,288 @@
       "category_code_full": null,
       "committee": {
         "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "AUSTIN",
+        "committee_id": "C00879510",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2024-05-22",
+        "first_file_date": "2024-05-22",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-10-22",
+        "last_file_date": "2026-09-25",
+        "name": "AMERICA PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "TX",
+        "state_full": "Texas",
+        "street_1": "P.O. BOX 341027",
+        "street_2": null,
+        "treasurer_name": "YOUNG, CHRIS",
+        "zip": "78734"
+      },
+      "committee_id": "C00879510",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-24",
+      "dissemination_date": "2026-09-24",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 977.33,
+      "expenditure_date": "2026-09-24",
+      "expenditure_description": "TEXTING SERVICE",
+      "file_number": 2015089,
+      "filer_first_name": "CHRIS",
+      "filer_last_name": "YOUNG",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-09-24",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202609249908417850",
+      "independent_sign_date": "2026-09-24",
+      "independent_sign_name": "YOUNG, CHRIS",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4092520261599534005,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 17845.8,
+      "original_sub_id": null,
+      "payee_city": "WASHINGTON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "IMGE LLC",
+      "payee_prefix": null,
+      "payee_state": "DC",
+      "payee_street_1": "1401 H STREET NW STE 550",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "20005",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609249908417850",
+      "previous_file_number": 2015089,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4092520261599630080",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.1574"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H2OH01194",
+        "idx": 35417,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "GREG",
+      "candidate_id": "H2OH01194",
+      "candidate_last_name": "LANDSMAN",
+      "candidate_middle_name": null,
+      "candidate_name": "LANDSMAN, GREG",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "AUSTIN",
+        "committee_id": "C00879510",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2024-05-22",
+        "first_file_date": "2024-05-22",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-10-22",
+        "last_file_date": "2026-09-25",
+        "name": "AMERICA PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "TX",
+        "state_full": "Texas",
+        "street_1": "P.O. BOX 341027",
+        "street_2": null,
+        "treasurer_name": "YOUNG, CHRIS",
+        "zip": "78734"
+      },
+      "committee_id": "C00879510",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-23",
+      "dissemination_date": "2026-09-22",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 2193.75,
+      "expenditure_date": "2026-09-23",
+      "expenditure_description": "PRINTING",
+      "file_number": 2015089,
+      "filer_first_name": "CHRIS",
+      "filer_last_name": "YOUNG",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-09-24",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202609249908417825",
+      "independent_sign_date": "2026-09-24",
+      "independent_sign_name": "YOUNG, CHRIS",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4092520261599534005,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 17845.8,
+      "original_sub_id": null,
+      "payee_city": "ADDISON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "RED ZONE STRATEGIC LLC",
+      "payee_prefix": null,
+      "payee_state": "TX",
+      "payee_street_1": "PO BOX 151",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "75201",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202609249908417825",
+      "previous_file_number": 2015089,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4092520261599630031",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.1522"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H2OH01194",
+        "idx": 35417,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "GREG",
+      "candidate_id": "H2OH01194",
+      "candidate_last_name": "LANDSMAN",
+      "candidate_middle_name": null,
+      "candidate_name": "LANDSMAN, GREG",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -568,7 +850,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -585,7 +867,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -715,7 +997,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -770,7 +1052,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-23",
+        "last_file_date": "2026-09-25",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -853,7 +1135,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -997,7 +1279,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1141,7 +1423,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1196,7 +1478,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-23",
+        "last_file_date": "2026-09-25",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1279,7 +1561,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1420,7 +1702,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1475,7 +1757,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-23",
+        "last_file_date": "2026-09-25",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1558,7 +1840,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1613,7 +1895,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-23",
+        "last_file_date": "2026-09-25",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1696,7 +1978,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1751,7 +2033,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-23",
+        "last_file_date": "2026-09-25",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1834,7 +2116,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1889,7 +2171,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-23",
+        "last_file_date": "2026-09-25",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1972,7 +2254,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2125,7 +2407,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2278,7 +2560,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2295,7 +2577,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -2425,7 +2707,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2442,7 +2724,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -2572,7 +2854,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2589,7 +2871,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -2719,7 +3001,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2736,7 +3018,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -2866,7 +3148,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2883,7 +3165,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -3013,7 +3295,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3157,7 +3439,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3301,7 +3583,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3445,7 +3727,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3589,7 +3871,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3733,7 +4015,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3895,7 +4177,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4039,7 +4321,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4183,7 +4465,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4327,7 +4609,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35416,
+        "idx": 35417,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
