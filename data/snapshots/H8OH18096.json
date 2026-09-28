@@ -1,7 +1,8 @@
 {
   "fec_id": "H8OH18096",
   "name": "CAREY, MIKE",
-  "fetched_at": "2026-09-27T20:54:31.259600+00:00",
+  "fetched_at": "2026-09-28T03:45:09.218265+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,
@@ -130,12 +131,6 @@
       "total_receipts": null,
       "treasurer_name": null,
       "update_date": "2007-06-21"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
