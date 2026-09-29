@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-09-29T04:23:52.826295+00:00",
+  "fetched_at": "2026-09-29T12:13:51.364804+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -924,7 +924,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-03-03",
-        "last_file_date": "2026-09-25",
+        "last_file_date": "2026-09-28",
         "name": "AMERICA FIRST AGRICULTURE ACTION INC.",
         "organization_type": null,
         "organization_type_full": null,

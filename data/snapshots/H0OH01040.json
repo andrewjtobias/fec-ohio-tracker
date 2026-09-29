@@ -1,7 +1,8 @@
 {
   "fec_id": "H0OH01040",
   "name": "CRANLEY, JOHN J IV",
-  "fetched_at": "2026-09-29T04:20:41.545326+00:00",
+  "fetched_at": "2026-09-29T12:11:08.454415+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,
@@ -258,12 +259,6 @@
       "total_receipts": null,
       "treasurer_name": null,
       "update_date": "2002-04-07"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H0OH01040/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
