@@ -1,12 +1,7 @@
 {
   "fec_id": "H2OH01202",
   "name": "GIROUX, JENN",
-  "fetched_at": "2026-09-30T21:55:46.054529+00:00",
+  "fetched_at": "2026-10-01T04:17:46.460350+00:00",
   "totals": [],
-  "errors": [
-    {
-      "step": "filings",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H2OH01202/filings/?per_page=5&sort=-receipt_date&api_key=REDACTED"
-    }
-  ]
+  "filings": []
 }
