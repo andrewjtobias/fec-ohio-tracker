@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH10121",
   "name": "KNICKERBOCKER, KRISTINA",
-  "fetched_at": "2026-10-02T04:11:37.376045+00:00",
+  "fetched_at": "2026-10-02T11:58:15.138079+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -256,7 +256,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-29",
+        "last_file_date": "2026-10-01",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -394,7 +394,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-09-29",
+        "last_file_date": "2026-10-01",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -816,8 +816,8 @@
       "label": "April Quarterly 2026",
       "coverage_start": "2026-01-01",
       "coverage_end": "2026-03-31",
-      "raised": 115607.37,
-      "spent": 83687.13,
+      "raised": 115579.35,
+      "spent": 83659.11,
       "transfers": null,
       "cash_on_hand": 31920.24,
       "top_donors": [

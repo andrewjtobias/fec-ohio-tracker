@@ -1,7 +1,7 @@
 {
   "fec_id": "H4OH02172",
   "name": "ANTANI, NIRAJ JAIMINI",
-  "fetched_at": "2026-10-02T04:08:18.930088+00:00",
+  "fetched_at": "2026-10-02T11:54:44.385778+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -10,7 +10,7 @@
       "candidate_id": "H4OH02172",
       "contribution_refunds": 0.0,
       "contributions": 0.0,
-      "coverage_end_date": "2026-06-30T00:00:00",
+      "coverage_end_date": "2026-09-30T00:00:00",
       "coverage_start_date": "2025-01-01T00:00:00",
       "cycle": 2026,
       "disbursements": 0.0,
@@ -21,13 +21,13 @@
       "individual_contributions": 0.0,
       "individual_itemized_contributions": 0.0,
       "individual_unitemized_contributions": 0.0,
-      "last_beginning_image_number": "202607019874295546",
+      "last_beginning_image_number": "202610019908503103",
       "last_cash_on_hand_end_period": 0.0,
       "last_debts_owed_by_committee": 149016.62,
       "last_debts_owed_to_committee": 0.0,
       "last_net_contributions": 0.0,
       "last_net_operating_expenditures": 0.0,
-      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_type_full": "OCTOBER QUARTERLY",
       "last_report_year": 2026,
       "loan_repayments": 0.0,
       "loan_repayments_candidate_loans": 0.0,
@@ -49,7 +49,7 @@
       "refunded_other_political_committee_contributions": 0.0,
       "refunded_political_party_committee_contributions": 0.0,
       "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-06-30T00:00:00",
+      "transaction_coverage_date": "2026-09-30T00:00:00",
       "transfers_from_other_authorized_committee": 0.0,
       "transfers_to_other_authorized_committee": 0.0
     }
