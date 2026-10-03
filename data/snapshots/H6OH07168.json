@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH07168",
   "name": "POINDEXTER, BRIAN",
-  "fetched_at": "2026-10-03T03:56:11.482379+00:00",
+  "fetched_at": "2026-10-03T11:12:07.549224+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -131,75 +131,6 @@
       "amendment_chain": [
         1931142,
         2006146,
-        2015522
-      ],
-      "amendment_indicator": "A",
-      "amendment_version": 2,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202609299908491085",
-      "candidate_id": "H6OH07168",
-      "candidate_name": "POINDEXTER, BRIAN",
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "H6OH07168",
-      "committee_name": null,
-      "committee_type": null,
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/522/2015522.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Candidacy 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": 2026,
-      "ending_image_number": "202609299908491086",
-      "fec_file_id": "FEC-2015522",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/2015522.fec",
-      "file_number": 2015522,
-      "form_category": "STATEMENT",
-      "form_type": "F2",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H6OH07168/2015522/",
-      "is_amended": true,
-      "means_filed": "e-file",
-      "most_recent": false,
-      "most_recent_file_number": 2015697,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 2,
-      "party": "DEM",
-      "pdf_url": "https://docquery.fec.gov/pdf/085/202609299908491085/202609299908491085.pdf",
-      "previous_file_number": 2006146,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-09-29T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2026,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": "OH",
-      "sub_id": "4092920261599760003",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "POINDEXTER, BRIAN",
-      "update_date": "2026-09-29"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1931142,
-        2006146,
         2015522,
         2015547
       ],
@@ -257,6 +188,75 @@
       "senate_personal_funds": null,
       "state": "OH",
       "sub_id": "4092920261599760005",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "POINDEXTER, BRIAN",
+      "update_date": "2026-09-29"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1931142,
+        2006146,
+        2015522
+      ],
+      "amendment_indicator": "A",
+      "amendment_version": 2,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202609299908491085",
+      "candidate_id": "H6OH07168",
+      "candidate_name": "POINDEXTER, BRIAN",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H6OH07168",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/522/2015522.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2026,
+      "ending_image_number": "202609299908491086",
+      "fec_file_id": "FEC-2015522",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2015522.fec",
+      "file_number": 2015522,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H6OH07168/2015522/",
+      "is_amended": true,
+      "means_filed": "e-file",
+      "most_recent": false,
+      "most_recent_file_number": 2015697,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 2,
+      "party": "DEM",
+      "pdf_url": "https://docquery.fec.gov/pdf/085/202609299908491085/202609299908491085.pdf",
+      "previous_file_number": 2006146,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-09-29T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4092920261599760003",
       "total_communication_cost": null,
       "total_disbursements": null,
       "total_independent_expenditures": null,
@@ -411,7 +411,151 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "BRIAN",
+      "candidate_id": "H6OH07168",
+      "candidate_last_name": "POINDEXTER",
+      "candidate_middle_name": null,
+      "candidate_name": "POINDEXTER, BRIAN",
+      "candidate_office": "H",
+      "candidate_office_district": "07",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": null,
+        "candidate_ids": [],
+        "city": "CLEVELAND",
+        "committee_id": "C90021726",
+        "committee_type": "I",
+        "committee_type_full": "Independent expenditure filer (not a committee)",
+        "cycle": 2026,
+        "cycles": [
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": null,
+        "first_file_date": "2022-10-20",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": null,
+        "last_file_date": "2026-10-02",
+        "name": "OHIO CITIZEN ACTION",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "OH",
+        "state_full": "Ohio",
+        "street_1": "1511 BROOKPARK RD",
+        "street_2": null,
+        "treasurer_name": null,
+        "zip": "44109"
+      },
+      "committee_id": "C90021726",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-02",
+      "dissemination_date": null,
+      "election_type": "G2026",
+      "election_type_full": "GENERAL",
+      "expenditure_amount": 408.59,
+      "expenditure_date": "2026-10-02",
+      "expenditure_description": "STAFF TIME & SALARIES FOR DISSEMINATION OF IE LITERATURE THROUGH DOOR TO DOOR CANVASING",
+      "file_number": 2016376,
+      "filer_first_name": null,
+      "filer_last_name": null,
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-02",
+      "filing_form": "F5",
+      "form_line_number": null,
+      "image_number": "202610029908508809",
+      "independent_sign_date": null,
+      "independent_sign_name": null,
+      "is_notice": true,
+      "line_number": null,
+      "link_id": 4100220261600381003,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 9516.8,
+      "original_sub_id": null,
+      "payee_city": "CLEVELAND",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "OHIO CITIZEN ACTION",
+      "payee_prefix": null,
+      "payee_state": "OH",
+      "payee_street_1": "1511 BROOKPARK RD",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "44109",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610029908508809",
+      "previous_file_number": 2016376,
+      "report_type": "48",
+      "report_year": "2026",
+      "schedule_type": "SE-F57",
+      "schedule_type_full": "FOR EACH INDEPENDENT EXPENDITURE MADE",
+      "sub_id": "4100220261600382014",
+      "support_oppose_indicator": "S",
+      "transaction_id": "F57.4324"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH07168",
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -469,7 +613,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-30",
+        "last_file_date": "2026-10-01",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -552,7 +696,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -607,7 +751,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-06-15",
-        "last_file_date": "2026-10-01",
+        "last_file_date": "2026-10-02",
         "name": "CIVIC RENEWAL FUND INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -690,7 +834,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -748,7 +892,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-30",
+        "last_file_date": "2026-10-01",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -831,7 +975,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -901,7 +1045,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-03-23",
-        "last_file_date": "2026-09-27",
+        "last_file_date": "2026-10-02",
         "name": "PROGRESSIVE TURNOUT PROJECT",
         "organization_type": null,
         "organization_type_full": null,
@@ -984,7 +1128,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1042,7 +1186,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-30",
+        "last_file_date": "2026-10-01",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1125,7 +1269,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1183,7 +1327,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-09-30",
+        "last_file_date": "2026-10-01",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1266,7 +1410,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1404,7 +1548,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1548,7 +1692,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1686,7 +1830,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1756,7 +1900,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-03-23",
-        "last_file_date": "2026-09-27",
+        "last_file_date": "2026-10-02",
         "name": "PROGRESSIVE TURNOUT PROJECT",
         "organization_type": null,
         "organization_type_full": null,
@@ -1839,7 +1983,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1900,7 +2044,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-09-18",
+        "last_file_date": "2026-10-02",
         "name": "OHIO CITIZEN ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -1983,7 +2127,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2044,7 +2188,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-09-18",
+        "last_file_date": "2026-10-02",
         "name": "OHIO CITIZEN ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2127,7 +2271,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2182,7 +2326,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-06-15",
-        "last_file_date": "2026-10-01",
+        "last_file_date": "2026-10-02",
         "name": "CIVIC RENEWAL FUND INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -2265,7 +2409,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2335,7 +2479,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-03-23",
-        "last_file_date": "2026-09-27",
+        "last_file_date": "2026-10-02",
         "name": "PROGRESSIVE TURNOUT PROJECT",
         "organization_type": null,
         "organization_type_full": null,
@@ -2418,7 +2562,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2479,7 +2623,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-09-18",
+        "last_file_date": "2026-10-02",
         "name": "OHIO CITIZEN ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -2562,7 +2706,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2632,7 +2776,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-03-23",
-        "last_file_date": "2026-09-27",
+        "last_file_date": "2026-10-02",
         "name": "PROGRESSIVE TURNOUT PROJECT",
         "organization_type": null,
         "organization_type_full": null,
@@ -2715,7 +2859,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2859,7 +3003,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3003,7 +3147,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3147,7 +3291,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3291,7 +3435,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3429,7 +3573,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3567,7 +3711,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3720,7 +3864,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3873,7 +4017,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4026,7 +4170,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4179,7 +4323,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4317,7 +4461,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4455,7 +4599,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4593,7 +4737,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4731,7 +4875,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4869,7 +5013,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5007,7 +5151,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5145,7 +5289,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5283,7 +5427,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5421,7 +5565,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5559,7 +5703,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5697,7 +5841,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73597,
+        "idx": 73598,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",

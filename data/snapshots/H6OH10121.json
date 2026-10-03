@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH10121",
   "name": "KNICKERBOCKER, KRISTINA",
-  "fetched_at": "2026-10-03T03:55:01.842623+00:00",
+  "fetched_at": "2026-10-03T11:10:43.333901+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -201,7 +201,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73742,
+        "idx": 73743,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -339,7 +339,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73742,
+        "idx": 73743,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
