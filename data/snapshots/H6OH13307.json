@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH13307",
   "name": "COLEMAN, CAREY",
-  "fetched_at": "2026-10-06T04:58:06.575198+00:00",
+  "fetched_at": "2026-10-06T12:47:10.709525+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -133,7 +133,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH13307",
-        "idx": 73879,
+        "idx": 73878,
         "two_year_period": "2026"
       },
       "candidate_first_name": "CAREY",
@@ -274,7 +274,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH13307",
-        "idx": 73879,
+        "idx": 73878,
         "two_year_period": "2026"
       },
       "candidate_first_name": "CAREY",
@@ -415,7 +415,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH13307",
-        "idx": 73879,
+        "idx": 73878,
         "two_year_period": "2026"
       },
       "candidate_first_name": "CAREY",
