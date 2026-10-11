@@ -1,7 +1,7 @@
 {
   "fec_id": "C00373001",
   "name": "CITIZENS FOR TURNER",
-  "fetched_at": "2026-10-11T04:06:11.111734+00:00",
+  "fetched_at": "2026-10-11T12:09:12.928438+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2500,7 +2500,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-06-02",
-        "last_file_date": "2026-10-07",
+        "last_file_date": "2026-10-10",
         "name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
         "organization_type": null,
         "organization_type_full": null,
