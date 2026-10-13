@@ -1,8 +1,7 @@
 {
   "fec_id": "C00960435",
   "name": "NO GOING BACK PAC INC.",
-  "fetched_at": "2026-10-12T21:10:22.102290+00:00",
-  "totals": [],
+  "fetched_at": "2026-10-13T00:17:24.127870+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -338,6 +337,12 @@
       "total_receipts": null,
       "treasurer_name": "GANTT, CHARLES",
       "update_date": "2026-10-03"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
