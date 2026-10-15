@@ -1,111 +1,7 @@
 {
   "fec_id": "C00264697",
   "name": "DIGNITY OF WORK PAC",
-  "fetched_at": "2026-10-15T03:18:39.247047+00:00",
-  "totals": [
-    {
-      "all_loans_received": 0.0,
-      "allocated_federal_election_levin_share": 0.0,
-      "cash_on_hand_beginning_period": 394230.48,
-      "committee_designation": "U",
-      "committee_designation_full": "Unauthorized",
-      "committee_id": "C00264697",
-      "committee_name": "DIGNITY OF WORK PAC",
-      "committee_state": "DC",
-      "committee_type": "V",
-      "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
-      "contribution_refunds": -26386.45,
-      "contributions": 79469.3,
-      "contributions_ie_and_party_expenditures_made_percent": 0.0,
-      "convention_exp": 0.0,
-      "coordinated_expenditures_by_party_committee": 0.0,
-      "coverage_end_date": "2026-06-30T00:00:00",
-      "coverage_start_date": "2025-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 616743.06,
-      "exp_prior_years_subject_limits": 0.0,
-      "exp_subject_limits": 0.0,
-      "fed_candidate_committee_contributions": 0.0,
-      "fed_candidate_contribution_refunds": 0.0,
-      "fed_disbursements": 616743.06,
-      "fed_election_activity": 0.0,
-      "fed_operating_expenditures": 553462.85,
-      "fed_receipts": 234840.67,
-      "federal_funds": 0.0,
-      "filing_frequency": "Q",
-      "filing_frequency_full": "Quarterly filer",
-      "first_f1_date": "1992-04-09",
-      "first_file_date": "1992-04-09",
-      "independent_expenditures": 0.0,
-      "individual_contributions": 66969.3,
-      "individual_contributions_percent": 28.52,
-      "individual_itemized_contributions": 18267.0,
-      "individual_unitemized_contributions": 48702.3,
-      "itemized_convention_exp": 0.0,
-      "itemized_other_disb": 0.0,
-      "itemized_other_income": 0.0,
-      "itemized_other_refunds": 0.0,
-      "itemized_refunds_relating_convention_exp": 0.0,
-      "last_beginning_image_number": "202607159875119431",
-      "last_cash_on_hand_end_period": 12328.09,
-      "last_debts_owed_by_committee": 0.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_report_type_full": "JULY QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments_made": 0.0,
-      "loan_repayments_received": 0.0,
-      "loans_and_loan_repayments_made": 0.0,
-      "loans_and_loan_repayments_received": 0.0,
-      "loans_made": 0.0,
-      "net_contributions": 105855.75,
-      "net_operating_expenditures": 433223.28,
-      "non_allocated_fed_election_activity": 0.0,
-      "offsets_to_operating_expenditures": 120239.57,
-      "operating_expenditures": 553462.85,
-      "operating_expenditures_percent": 89.74,
-      "organization_type": null,
-      "organization_type_full": null,
-      "other_disbursements": 89666.66,
-      "other_fed_operating_expenditures": 553462.85,
-      "other_fed_receipts": 16634.99,
-      "other_political_committee_contributions": 12500.0,
-      "other_refunds": 0.0,
-      "party_and_other_committee_contributions_percent": 5.32,
-      "party_full": "DEMOCRATIC PARTY",
-      "political_party_committee_contributions": 0.0,
-      "receipts": 234840.67,
-      "refunded_individual_contributions": -19886.45,
-      "refunded_other_political_committee_contributions": -6500.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "refunds_relating_convention_exp": 0.0,
-      "shared_fed_activity": 0.0,
-      "shared_fed_activity_nonfed": 0.0,
-      "shared_fed_operating_expenditures": 0.0,
-      "shared_nonfed_operating_expenditures": 0.0,
-      "sponsor_candidate_ids": [
-        "S6OH00379"
-      ],
-      "sponsor_candidate_list": [
-        {
-          "sponsor_candidate_id": null,
-          "sponsor_candidate_name": null
-        }
-      ],
-      "total_exp_subject_limits": 0.0,
-      "total_transfers": 0.0,
-      "transaction_coverage_date": "2026-06-30",
-      "transfers_from_affiliated_party": 18496.81,
-      "transfers_from_nonfed_account": 0.0,
-      "transfers_from_nonfed_levin": 0.0,
-      "transfers_to_affiliated_committee": 0.0,
-      "treasurer_name": "ZAMORE, JUDITH",
-      "unitemized_convention_exp": 0.0,
-      "unitemized_other_disb": 0.0,
-      "unitemized_other_income": 0.0,
-      "unitemized_other_refunds": 0.0,
-      "unitemized_refunds_relating_convention_exp": 0.0
-    }
-  ],
+  "fetched_at": "2026-10-15T10:54:51.812700+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -460,7 +356,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -531,10 +427,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -648,7 +544,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -719,10 +615,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -836,7 +732,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -907,10 +803,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -1024,7 +920,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -1095,10 +991,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -1212,7 +1108,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -1283,10 +1179,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -1400,7 +1296,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -1471,10 +1367,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -1588,7 +1484,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -1659,10 +1555,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -1776,7 +1672,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -1847,10 +1743,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -1964,7 +1860,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -2035,10 +1931,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -2152,7 +2048,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -2223,10 +2119,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -2340,7 +2236,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -2411,10 +2307,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -2528,7 +2424,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -2599,10 +2495,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -2716,7 +2612,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -2787,10 +2683,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -2904,7 +2800,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -2975,10 +2871,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -3092,7 +2988,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -3163,10 +3059,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -3280,7 +3176,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -3351,10 +3247,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -3468,7 +3364,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -3539,10 +3435,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -3656,7 +3552,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -3727,10 +3623,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -3844,7 +3740,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -3915,10 +3811,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -4032,7 +3928,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -4103,10 +3999,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -4220,7 +4116,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -4291,10 +4187,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -4492,7 +4388,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -4563,10 +4459,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -4764,7 +4660,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -4835,10 +4731,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -5036,7 +4932,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -5107,10 +5003,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -5308,7 +5204,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -5379,10 +5275,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -5580,7 +5476,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -5651,10 +5547,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -5852,7 +5748,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -5923,10 +5819,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -6124,7 +6020,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -6195,10 +6091,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -6396,7 +6292,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -6467,10 +6363,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -6668,7 +6564,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -6739,10 +6635,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -6856,7 +6752,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -6927,10 +6823,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -7128,7 +7024,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -7199,10 +7095,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -7400,7 +7296,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -7471,10 +7367,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -7672,7 +7568,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -7743,10 +7639,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -7944,7 +7840,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -8015,10 +7911,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -8216,7 +8112,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -8287,10 +8183,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -8488,7 +8384,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -8559,10 +8455,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -8760,7 +8656,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -8831,10 +8727,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -9032,7 +8928,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -9103,10 +8999,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -9304,7 +9200,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -9375,10 +9271,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -9576,7 +9472,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -9647,10 +9543,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -9848,7 +9744,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -9919,10 +9815,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -10120,7 +10016,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -10191,10 +10087,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -10392,7 +10288,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -10463,10 +10359,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -10664,7 +10560,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -10735,10 +10631,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -10936,7 +10832,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -11007,10 +10903,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -11208,7 +11104,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -11279,10 +11175,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -11396,7 +11292,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -11467,10 +11363,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -11668,7 +11564,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -11739,10 +11635,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -11856,7 +11752,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -11927,10 +11823,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -12134,7 +12030,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -12205,10 +12101,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -12321,7 +12217,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -12392,10 +12288,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -12508,7 +12404,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -12579,10 +12475,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -12695,7 +12591,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -12766,10 +12662,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -12882,7 +12778,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -12953,10 +12849,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -13069,7 +12965,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -13140,10 +13036,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -13256,7 +13152,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -13327,10 +13223,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -13443,7 +13339,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -13514,10 +13410,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -13630,7 +13526,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -13701,10 +13597,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -13817,7 +13713,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -13888,10 +13784,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -14004,7 +13900,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -14075,10 +13971,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -14191,7 +14087,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -14262,10 +14158,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -14378,7 +14274,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -14449,10 +14345,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -14565,7 +14461,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -14636,10 +14532,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -14752,7 +14648,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -14823,10 +14719,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -14939,7 +14835,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -15010,10 +14906,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -15126,7 +15022,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -15197,10 +15093,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -15313,7 +15209,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -15384,10 +15280,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -15500,7 +15396,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -15571,10 +15467,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -15687,7 +15583,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -15758,10 +15654,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -15874,7 +15770,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -15945,10 +15841,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -16061,7 +15957,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -16132,10 +16028,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -16248,7 +16144,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -16319,10 +16215,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -16435,7 +16331,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -16506,10 +16402,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -16622,7 +16518,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -16693,10 +16589,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -16809,7 +16705,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -16880,10 +16776,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -16996,7 +16892,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -17067,10 +16963,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -17264,7 +17160,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -17335,10 +17231,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -17568,7 +17464,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -17639,10 +17535,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -17809,7 +17705,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -17880,10 +17776,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -17996,7 +17892,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -18067,10 +17963,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -18258,7 +18154,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-05-09",
-        "last_file_date": "2026-07-15",
+        "last_file_date": "2026-10-14",
         "name": "SENATE FUTURE FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -18311,7 +18207,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -18382,10 +18278,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -18505,7 +18401,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2019-10-22",
-        "last_file_date": "2026-09-22",
+        "last_file_date": "2026-10-14",
         "name": "STAND UP FOR WORKERS PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -18558,7 +18454,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -18629,10 +18525,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -18745,7 +18641,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -18816,10 +18712,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -18932,7 +18828,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -19003,10 +18899,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -19119,7 +19015,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -19190,10 +19086,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -19306,7 +19202,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -19377,10 +19273,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -19493,7 +19389,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -19564,10 +19460,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -19680,7 +19576,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -19751,10 +19647,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -19867,7 +19763,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -19938,10 +19834,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -20054,7 +19950,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -20125,10 +20021,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -20241,7 +20137,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -20312,10 +20208,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -20428,7 +20324,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -20499,10 +20395,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -20615,7 +20511,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -20686,10 +20582,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -20802,7 +20698,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -20873,10 +20769,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -20989,7 +20885,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -21060,10 +20956,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -21176,7 +21072,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -21247,10 +21143,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -21363,7 +21259,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -21434,10 +21330,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -21550,7 +21446,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -21621,10 +21517,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -21737,7 +21633,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "CANARY FUND",
+        "affiliated_committee_name": "AMERICA WORKS FEDERAL PAC",
         "candidate_ids": [
           "H2OH13033",
           "S6OH00163"
@@ -21808,10 +21704,10 @@
           2026
         ],
         "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "MELISSA",
-        "designated_agent_last_name": "NISSEN",
+        "designated_agent_first_name": "JOSH",
+        "designated_agent_last_name": "MYLES",
         "designated_agent_middle_name": null,
-        "designated_agent_name": "NISSEN, MELISSA",
+        "designated_agent_name": "MYLES, JOSH",
         "designated_agent_phone_number": "2025446960",
         "designated_agent_prefix": null,
         "designated_agent_state": "DC",
@@ -21903,5 +21799,11 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "schedule_e": [],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
 }
