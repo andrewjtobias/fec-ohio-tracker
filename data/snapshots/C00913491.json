@@ -1,7 +1,7 @@
 {
   "fec_id": "C00913491",
   "name": "DON LEONARD FOR OHIO",
-  "fetched_at": "2026-10-16T10:45:42.155994+00:00",
+  "fetched_at": "2026-10-16T16:08:26.524529+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -14,52 +14,119 @@
       "committee_state": "OH",
       "committee_type": "H",
       "committee_type_full": "House",
-      "contribution_refunds": 1500.0,
-      "contributions": 596657.6,
-      "coverage_end_date": "2026-06-30T00:00:00",
+      "contribution_refunds": 5055.0,
+      "contributions": 1003513.7,
+      "coverage_end_date": "2026-09-30T00:00:00",
       "coverage_start_date": "2025-04-01T00:00:00",
       "cycle": 2026,
-      "disbursements": 354255.88,
+      "disbursements": 949716.11,
       "filing_frequency": "Q",
       "filing_frequency_full": "Quarterly filer",
       "first_f1_date": "2025-07-26",
       "first_file_date": "2025-07-26",
-      "individual_contributions": 583487.97,
-      "individual_itemized_contributions": 493000.1,
-      "individual_unitemized_contributions": 90487.87,
-      "last_beginning_image_number": "202607159875711210",
-      "last_cash_on_hand_end_period": 252401.72,
+      "individual_contributions": 966716.07,
+      "individual_itemized_contributions": 796807.97,
+      "individual_unitemized_contributions": 169908.1,
+      "last_beginning_image_number": "202610159909464861",
+      "last_cash_on_hand_end_period": 196061.19,
       "last_debts_owed_by_committee": 10000.0,
       "last_debts_owed_to_committee": 0.0,
-      "last_report_type_full": "JULY QUARTERLY",
+      "last_report_type_full": "OCTOBER QUARTERLY",
       "last_report_year": 2026,
       "loan_repayments": 0.0,
       "loan_repayments_candidate_loans": 0.0,
       "loan_repayments_other_loans": 0.0,
       "loans": 10000.0,
       "loans_made_by_candidate": 10000.0,
-      "net_contributions": 595157.6,
-      "net_operating_expenditures": 352755.88,
+      "net_contributions": 998458.7,
+      "net_operating_expenditures": 944661.11,
       "offsets_to_operating_expenditures": 0.0,
-      "operating_expenditures": 352755.88,
+      "operating_expenditures": 944661.11,
       "organization_type": null,
       "organization_type_full": null,
       "other_disbursements": 0.0,
-      "other_political_committee_contributions": 11250.0,
-      "other_receipts": 0.0,
+      "other_political_committee_contributions": 34000.0,
+      "other_receipts": 0.77,
       "party_full": "DEMOCRATIC PARTY",
-      "political_party_committee_contributions": 0.0,
-      "receipts": 606657.6,
-      "refunded_individual_contributions": 0.0,
+      "political_party_committee_contributions": 878.0,
+      "receipts": 1145777.3,
+      "refunded_individual_contributions": 3555.0,
       "refunded_other_political_committee_contributions": 1500.0,
       "refunded_political_party_committee_contributions": 0.0,
       "transaction_coverage_date": "2026-06-30",
-      "transfers_from_other_authorized_committee": 0.0,
+      "transfers_from_other_authorized_committee": 132262.83,
       "transfers_to_other_authorized_committee": 0.0,
       "treasurer_name": "CAHILL, MITCHELL"
     }
   ],
   "filings": [
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        2025264
+      ],
+      "amendment_indicator": "N",
+      "amendment_version": 0,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202610159909464861",
+      "candidate_id": null,
+      "candidate_name": null,
+      "cash_on_hand_beginning_period": 252401.72,
+      "cash_on_hand_end_period": 196061.19,
+      "committee_id": "C00913491",
+      "committee_name": "DON LEONARD FOR OHIO",
+      "committee_type": "H",
+      "coverage_end_date": "2026-09-30",
+      "coverage_start_date": "2026-07-01",
+      "csv_url": "https://docquery.fec.gov/csv/264/2025264.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": 10000.0,
+      "debts_owed_to_committee": 0.0,
+      "document_description": "OCTOBER QUARTERLY 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": null,
+      "ending_image_number": "202610159909465329",
+      "fec_file_id": "FEC-2025264",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2025264.fec",
+      "file_number": 2025264,
+      "form_category": "REPORT",
+      "form_type": "F3",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00913491/2025264/",
+      "is_amended": false,
+      "means_filed": "e-file",
+      "most_recent": true,
+      "most_recent_file_number": 2025264,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 469,
+      "party": null,
+      "pdf_url": "https://docquery.fec.gov/pdf/861/202610159909464861/202610159909464861.pdf",
+      "previous_file_number": 2025264,
+      "primary_general_indicator": "P",
+      "receipt_date": "2026-10-15T00:00:00",
+      "report_type": "Q3",
+      "report_type_full": "OCTOBER QUARTERLY",
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": null,
+      "sub_id": "4101520261612460763",
+      "total_communication_cost": null,
+      "total_disbursements": 595460.23,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": 539119.7,
+      "treasurer_name": "CAHILL, MITCHELL",
+      "update_date": "2026-10-15"
+    },
     {
       "additional_bank_names": [
         "FIFTH THIRD BANK"
@@ -343,73 +410,6 @@
       "total_receipts": null,
       "treasurer_name": "CAHILL, MITCHELL",
       "update_date": "2026-06-18"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1971450
-      ],
-      "amendment_indicator": null,
-      "amendment_version": 0,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202604279866710311",
-      "candidate_id": null,
-      "candidate_name": null,
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "C00913491",
-      "committee_name": "DON LEONARD FOR OHIO",
-      "committee_type": "H",
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/450/1971450.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": null,
-      "ending_image_number": "202604279866710311",
-      "fec_file_id": "FEC-1971450",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1971450.fec",
-      "file_number": 1971450,
-      "form_category": "NOTICE",
-      "form_type": "F6",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00913491/1971450/",
-      "is_amended": false,
-      "means_filed": "e-file",
-      "most_recent": null,
-      "most_recent_file_number": 1971450,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 1,
-      "party": null,
-      "pdf_url": "https://docquery.fec.gov/pdf/311/202604279866710311/202604279866710311.pdf",
-      "previous_file_number": 1971450,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-04-27T00:00:00",
-      "report_type": null,
-      "report_type_full": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED",
-      "report_year": 2026,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": null,
-      "sub_id": "4042820261483755002",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "CAHILL, MITCHELL",
-      "update_date": "2026-04-28"
     }
   ],
   "schedule_a": [
@@ -431,7 +431,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -471,7 +471,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -567,7 +567,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -607,7 +607,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -676,7 +676,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-01-26",
-        "last_file_date": "2026-07-15",
+        "last_file_date": "2026-10-15",
         "name": "MILLER FOR AMERICA",
         "organization_type": null,
         "organization_type_full": null,
@@ -760,7 +760,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -800,7 +800,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -896,7 +896,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -936,7 +936,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -1032,7 +1032,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1072,7 +1072,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -1168,7 +1168,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1208,7 +1208,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -1304,7 +1304,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1344,7 +1344,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -1440,7 +1440,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1480,7 +1480,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -1576,7 +1576,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1616,7 +1616,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -1712,7 +1712,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1752,7 +1752,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -1848,7 +1848,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1888,7 +1888,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -2068,7 +2068,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2108,7 +2108,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -2204,7 +2204,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2244,7 +2244,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -2340,7 +2340,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2380,7 +2380,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -2476,7 +2476,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2516,7 +2516,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -2612,7 +2612,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2652,7 +2652,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -2748,7 +2748,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2788,7 +2788,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -2884,7 +2884,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2924,7 +2924,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -3104,7 +3104,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3144,7 +3144,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -3240,7 +3240,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3280,7 +3280,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -3460,7 +3460,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3500,7 +3500,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -3596,7 +3596,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3636,7 +3636,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -3816,7 +3816,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3856,7 +3856,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -3952,7 +3952,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3992,7 +3992,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -4088,7 +4088,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4128,7 +4128,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -4224,7 +4224,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4264,7 +4264,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -4360,7 +4360,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4400,7 +4400,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -4496,7 +4496,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4536,7 +4536,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -4632,7 +4632,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4672,7 +4672,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -4768,7 +4768,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4808,7 +4808,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -4904,7 +4904,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4944,7 +4944,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -5040,7 +5040,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5080,7 +5080,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -5176,7 +5176,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5216,7 +5216,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -5396,7 +5396,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5436,7 +5436,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -5532,7 +5532,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5572,7 +5572,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -5752,7 +5752,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5792,7 +5792,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -5888,7 +5888,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5928,7 +5928,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -6108,7 +6108,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6148,7 +6148,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -6244,7 +6244,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6284,7 +6284,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -6380,7 +6380,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6420,7 +6420,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -6600,7 +6600,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6640,7 +6640,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -6736,7 +6736,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6776,7 +6776,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -6956,7 +6956,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6996,7 +6996,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -7092,7 +7092,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7132,7 +7132,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -7228,7 +7228,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7268,7 +7268,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -7364,7 +7364,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7404,7 +7404,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -7500,7 +7500,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7540,7 +7540,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -7720,7 +7720,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7760,7 +7760,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -7856,7 +7856,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7896,7 +7896,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -7992,7 +7992,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8032,7 +8032,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -8218,7 +8218,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8258,7 +8258,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -8353,7 +8353,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8393,7 +8393,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -8488,7 +8488,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8528,7 +8528,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -8623,7 +8623,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8663,7 +8663,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -8758,7 +8758,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8798,7 +8798,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -8893,7 +8893,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8933,7 +8933,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9028,7 +9028,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9068,7 +9068,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9163,7 +9163,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9203,7 +9203,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9298,7 +9298,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9338,7 +9338,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9433,7 +9433,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9473,7 +9473,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9568,7 +9568,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9608,7 +9608,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9703,7 +9703,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9743,7 +9743,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9838,7 +9838,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9878,7 +9878,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -9973,7 +9973,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10013,7 +10013,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -10108,7 +10108,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10148,7 +10148,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -10243,7 +10243,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10283,7 +10283,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -10378,7 +10378,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10418,7 +10418,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -10513,7 +10513,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10553,7 +10553,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -10648,7 +10648,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10688,7 +10688,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -10783,7 +10783,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10823,7 +10823,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -10918,7 +10918,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10958,7 +10958,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11053,7 +11053,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11093,7 +11093,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11188,7 +11188,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11228,7 +11228,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11323,7 +11323,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11363,7 +11363,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11458,7 +11458,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11498,7 +11498,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11593,7 +11593,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11633,7 +11633,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11728,7 +11728,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11768,7 +11768,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11863,7 +11863,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11903,7 +11903,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -11998,7 +11998,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12038,7 +12038,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -12133,7 +12133,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12173,7 +12173,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -12268,7 +12268,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12308,7 +12308,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -12403,7 +12403,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12443,7 +12443,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -12538,7 +12538,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12578,7 +12578,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -12673,7 +12673,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12713,7 +12713,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -12808,7 +12808,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12848,7 +12848,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -12943,7 +12943,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12983,7 +12983,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -13078,7 +13078,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13118,7 +13118,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -13213,7 +13213,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13253,7 +13253,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -13348,7 +13348,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13388,7 +13388,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -13483,7 +13483,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13523,7 +13523,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -13618,7 +13618,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13658,7 +13658,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -13753,7 +13753,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13793,7 +13793,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -13888,7 +13888,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13928,7 +13928,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -14023,7 +14023,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14063,7 +14063,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -14158,7 +14158,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14198,7 +14198,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -14293,7 +14293,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14333,7 +14333,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -14428,7 +14428,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14468,7 +14468,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -14563,7 +14563,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14603,7 +14603,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -14698,7 +14698,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14738,7 +14738,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
@@ -14833,7 +14833,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14873,7 +14873,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-12",
-        "last_file_date": "2026-08-12",
+        "last_file_date": "2026-10-15",
         "name": "DON LEONARD FOR OHIO",
         "organization_type": null,
         "organization_type_full": null,
