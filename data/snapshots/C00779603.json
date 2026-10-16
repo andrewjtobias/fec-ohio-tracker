@@ -1,7 +1,7 @@
 {
   "fec_id": "C00779603",
   "name": "CAREY FOR CONGRESS",
-  "fetched_at": "2026-10-16T16:07:06.604569+00:00",
+  "fetched_at": "2026-10-16T20:31:49.046814+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -17650,5 +17650,10 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "errors": [
+    {
+      "step": "schedule_e",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
 }
