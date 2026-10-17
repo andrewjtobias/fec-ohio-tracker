@@ -1,7 +1,8 @@
 {
   "fec_id": "C00961276",
   "name": "LOWER COSTS NOW",
-  "fetched_at": "2026-10-16T20:39:33.027719+00:00",
+  "fetched_at": "2026-10-17T03:14:44.872503+00:00",
+  "totals": [],
   "filings": [
     {
       "additional_bank_names": null,
@@ -338,12 +339,6 @@
       "total_receipts": null,
       "treasurer_name": "MELE, STEVEN",
       "update_date": "2026-10-09"
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
