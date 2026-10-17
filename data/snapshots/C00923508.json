@@ -1,8 +1,7 @@
 {
   "fec_id": "C00923508",
   "name": "FRIENDS FOR FOGGIE",
-  "fetched_at": "2026-10-17T03:05:25.177275+00:00",
-  "totals": [],
+  "fetched_at": "2026-10-17T10:12:49.134247+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -200,6 +199,12 @@
       "total_receipts": null,
       "treasurer_name": "FOGGIE, MANUEL MR.",
       "update_date": "2025-10-16"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00923508/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
