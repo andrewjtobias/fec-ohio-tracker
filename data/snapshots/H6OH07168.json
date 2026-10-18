@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH07168",
   "name": "POINDEXTER, BRIAN",
-  "fetched_at": "2026-10-18T10:31:13.704307+00:00",
+  "fetched_at": "2026-10-18T15:29:32.425778+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -411,7 +411,289 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "BRIAN",
+      "candidate_id": "H6OH07168",
+      "candidate_last_name": "POINDEXTER",
+      "candidate_middle_name": null,
+      "candidate_name": "POINDEXTER, BRIAN",
+      "candidate_office": "H",
+      "candidate_office_district": "07",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "AUSTIN",
+        "committee_id": "C00879510",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2024-05-22",
+        "first_file_date": "2024-05-22",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-10-22",
+        "last_file_date": "2026-10-16",
+        "name": "AMERICA PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "TX",
+        "state_full": "Texas",
+        "street_1": "P.O. BOX 341027",
+        "street_2": null,
+        "treasurer_name": "YOUNG, CHRIS",
+        "zip": "78734"
+      },
+      "committee_id": "C00879510",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-16",
+      "dissemination_date": "2026-10-24",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 4939.9,
+      "expenditure_date": "2026-10-16",
+      "expenditure_description": "MESSAGE PHONE CALLS",
+      "file_number": 2028993,
+      "filer_first_name": "CHRIS",
+      "filer_last_name": "YOUNG",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-16",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610169916160465",
+      "independent_sign_date": "2026-10-16",
+      "independent_sign_name": "YOUNG, CHRIS",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4101720261613713016,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 91822.78,
+      "original_sub_id": null,
+      "payee_city": "HUDSON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "CONNECTION STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "WI",
+      "payee_street_1": "PO BOX 161",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "54016",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610169916160465",
+      "previous_file_number": 2028993,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4101720261613726214",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.2472"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH07168",
+        "idx": 73605,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "BRIAN",
+      "candidate_id": "H6OH07168",
+      "candidate_last_name": "POINDEXTER",
+      "candidate_middle_name": null,
+      "candidate_name": "POINDEXTER, BRIAN",
+      "candidate_office": "H",
+      "candidate_office_district": "07",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "AUSTIN",
+        "committee_id": "C00879510",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2024-05-22",
+        "first_file_date": "2024-05-22",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-10-22",
+        "last_file_date": "2026-10-16",
+        "name": "AMERICA PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "TX",
+        "state_full": "Texas",
+        "street_1": "P.O. BOX 341027",
+        "street_2": null,
+        "treasurer_name": "YOUNG, CHRIS",
+        "zip": "78734"
+      },
+      "committee_id": "C00879510",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-16",
+      "dissemination_date": "2026-10-17",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 5199.95,
+      "expenditure_date": "2026-10-16",
+      "expenditure_description": "MESSAGE PHONE CALLS",
+      "file_number": 2028993,
+      "filer_first_name": "CHRIS",
+      "filer_last_name": "YOUNG",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-16",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610169916160422",
+      "independent_sign_date": "2026-10-16",
+      "independent_sign_name": "YOUNG, CHRIS",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4101720261613713016,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 91822.78,
+      "original_sub_id": null,
+      "payee_city": "HUDSON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "CONNECTION STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "WI",
+      "payee_street_1": "PO BOX 161",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "54016",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610169916160422",
+      "previous_file_number": 2028993,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4101720261613726127",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE24.2385"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH07168",
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -555,7 +837,220 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "BRIAN",
+      "candidate_id": "H6OH07168",
+      "candidate_last_name": "POINDEXTER",
+      "candidate_middle_name": null,
+      "candidate_name": "POINDEXTER, BRIAN",
+      "candidate_office": "H",
+      "candidate_office_district": "07",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "004",
+      "category_code_full": "Advertising Expenses ",
+      "committee": {
+        "affiliated_committee_name": "SERVICE EMPLOYEES INTERNATIONAL UNION",
+        "candidate_ids": [],
+        "city": "WASHINGTON",
+        "committee_id": "C00004036",
+        "committee_type": "Q",
+        "committee_type_full": "PAC - Qualified",
+        "cycle": 2026,
+        "cycles": [
+          1976,
+          1978,
+          1980,
+          1982,
+          1984,
+          1986,
+          1988,
+          1990,
+          1992,
+          1994,
+          1996,
+          1998,
+          2000,
+          2002,
+          2004,
+          2006,
+          2008,
+          2010,
+          2012,
+          2014,
+          2016,
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          1976,
+          1978,
+          1980,
+          1982,
+          1984,
+          1986,
+          1988,
+          1990,
+          1992,
+          1994,
+          1996,
+          1998,
+          2000,
+          2002,
+          2004,
+          2006,
+          2008,
+          2010,
+          2012,
+          2014,
+          2016,
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          1976,
+          1978,
+          1980,
+          1982,
+          1984,
+          1986,
+          1988,
+          1990,
+          1992,
+          1994,
+          1996,
+          1998,
+          2000,
+          2002,
+          2004,
+          2006,
+          2008,
+          2010,
+          2012,
+          2014,
+          2016,
+          2018,
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": "WASHINGTON",
+        "designated_agent_first_name": "APRIL",
+        "designated_agent_last_name": "VERRETT",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "VERRETT, APRIL",
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "1800 MASSACHUSETTS AVE., NW",
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": "DESIGNATED AGENT",
+        "designated_agent_zip": "20036",
+        "designation": "B",
+        "designation_full": "Lobbyist/Registrant PAC",
+        "filing_frequency": "M",
+        "first_f1_date": "1976-04-14",
+        "first_file_date": "1975-03-04",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2024-06-01",
+        "last_file_date": "2026-10-16",
+        "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+        "organization_type": "L",
+        "organization_type_full": "Labor Organization",
+        "party": null,
+        "party_full": null,
+        "state": "DC",
+        "state_full": "District Of Columbia",
+        "street_1": "1800 MASSACHUSETTS AVE., NW",
+        "street_2": null,
+        "treasurer_name": "SAENZ, ROCIO",
+        "zip": "20036"
+      },
+      "committee_id": "C00004036",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-15",
+      "dissemination_date": "2026-10-15",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 630.0,
+      "expenditure_date": "2026-10-15",
+      "expenditure_description": "ESTIMATED COST - PHONE BANKING",
+      "file_number": 2029057,
+      "filer_first_name": "ROCIO",
+      "filer_last_name": "SAENZ",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-16",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610169916160939",
+      "independent_sign_date": "2026-10-16",
+      "independent_sign_name": "SAENZ, ROCIO",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4101720261613713037,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 30005.0,
+      "original_sub_id": null,
+      "payee_city": "SANTA ANA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "SCALE TO WIN",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "13742 HARPER ST",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "927031419",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610169916160939",
+      "previous_file_number": 2029057,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4101720261613726408",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500022088"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH07168",
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -693,7 +1188,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -846,7 +1341,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -990,7 +1485,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1048,7 +1543,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1131,7 +1626,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1281,7 +1776,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1419,7 +1914,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1477,7 +1972,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1560,7 +2055,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1618,7 +2113,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1701,7 +2196,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1756,7 +2251,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-06-15",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CIVIC RENEWAL FUND INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1839,7 +2334,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -1894,7 +2389,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-06-15",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CIVIC RENEWAL FUND INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -1977,7 +2472,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2107,7 +2602,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-06-01",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
         "organization_type": "L",
         "organization_type_full": "Labor Organization",
@@ -2190,7 +2685,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2331,7 +2826,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2484,7 +2979,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2628,7 +3123,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2772,7 +3267,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2830,7 +3325,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2913,7 +3408,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -2971,7 +3466,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3054,7 +3549,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3198,7 +3693,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3348,7 +3843,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3498,7 +3993,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3660,7 +4155,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3822,7 +4317,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -3984,7 +4479,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4122,7 +4617,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4266,7 +4761,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4324,7 +4819,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4407,7 +4902,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4551,7 +5046,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4695,7 +5190,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4839,7 +5334,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -4894,7 +5389,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4977,7 +5472,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5035,7 +5530,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5118,7 +5613,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5173,7 +5668,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-06-15",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CIVIC RENEWAL FUND INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -5256,7 +5751,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5314,7 +5809,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5397,7 +5892,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5550,7 +6045,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5608,7 +6103,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5691,7 +6186,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5749,7 +6244,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5832,7 +6327,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -5976,7 +6471,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -6114,7 +6609,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -6258,7 +6753,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -6396,7 +6891,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -6549,7 +7044,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -6693,7 +7188,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -6837,7 +7332,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -6981,7 +7476,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -7036,7 +7531,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-06-15",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CIVIC RENEWAL FUND INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -7119,7 +7614,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -7272,7 +7767,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -7416,7 +7911,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -7560,7 +8055,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -7713,7 +8208,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -7768,7 +8263,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -7851,7 +8346,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -7906,7 +8401,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -7989,7 +8484,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -8133,7 +8628,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -8277,7 +8772,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -8332,7 +8827,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -8415,7 +8910,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -8559,7 +9054,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -8703,7 +9198,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -8841,7 +9336,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -8979,7 +9474,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -9132,7 +9627,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -9285,7 +9780,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -9438,7 +9933,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -9591,7 +10086,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -9729,7 +10224,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -9867,7 +10362,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10005,7 +10500,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10143,7 +10638,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10281,7 +10776,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10419,7 +10914,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10557,7 +11052,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10695,7 +11190,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10833,7 +11328,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -10971,7 +11466,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",
@@ -11109,7 +11604,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH07168",
-        "idx": 73603,
+        "idx": 73605,
         "two_year_period": "2026"
       },
       "candidate_first_name": "BRIAN",

@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH15112",
   "name": "LEONARD, DON RALPH",
-  "fetched_at": "2026-10-18T10:31:19.447039+00:00",
+  "fetched_at": "2026-10-18T15:29:48.850883+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -410,7 +410,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -554,7 +554,154 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "DON",
+      "candidate_id": "H6OH15112",
+      "candidate_last_name": "LEONARD",
+      "candidate_middle_name": "RALPH",
+      "candidate_name": "LEONARD, DON RALPH",
+      "candidate_office": "H",
+      "candidate_office_district": "15",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "WASHINGTON",
+        "committee_id": "C00744920",
+        "committee_type": "W",
+        "committee_type_full": "Hybrid PAC (with Non-Contribution Account) - Qualified",
+        "cycle": 2026,
+        "cycles": [
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2020-04-24",
+        "first_file_date": "2020-04-24",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-08-14",
+        "last_file_date": "2026-10-17",
+        "name": "CFFE PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "DC",
+        "state_full": "District Of Columbia",
+        "street_1": "1032 15TH STREET NW",
+        "street_2": "SUITE 247",
+        "treasurer_name": "GOLDSCHEIN, SONDRA",
+        "zip": "20005"
+      },
+      "committee_id": "C00744920",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": null,
+      "dissemination_date": "2026-10-15",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 125000.0,
+      "expenditure_date": "2026-10-15",
+      "expenditure_description": "CANVASSING - ESTIMATE",
+      "file_number": 2028966,
+      "filer_first_name": "SONDRA",
+      "filer_last_name": "GOLDSCHEIN",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-16",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610169916159309",
+      "independent_sign_date": "2026-10-16",
+      "independent_sign_name": "GOLDSCHEIN, SONDRA",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4101720261613713007,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 306347.34,
+      "original_sub_id": null,
+      "payee_city": "LAKE ST LOUIS",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "OTG STRATEGIES",
+      "payee_prefix": null,
+      "payee_state": "MO",
+      "payee_street_1": "8651 STATE ROUTE N",
+      "payee_street_2": "STE 214",
+      "payee_suffix": null,
+      "payee_zip": "63367",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610169916159309",
+      "previous_file_number": 2028966,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4101720261613726066",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500070727"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH15112",
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -692,7 +839,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -842,7 +989,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -980,7 +1127,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1118,7 +1265,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1256,7 +1403,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1394,7 +1541,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1535,7 +1682,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1685,7 +1832,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1749,7 +1896,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1832,7 +1979,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1896,7 +2043,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1979,7 +2126,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2117,7 +2264,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2279,7 +2426,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2441,7 +2588,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2603,7 +2750,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2741,7 +2888,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2796,7 +2943,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -2879,7 +3026,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2937,7 +3084,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-08-16",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "YOUR COMMUNITY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3020,7 +3167,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3179,7 +3326,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3338,7 +3485,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -3396,7 +3543,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-08-16",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "YOUR COMMUNITY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3479,7 +3626,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3543,7 +3690,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3626,7 +3773,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3690,7 +3837,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3773,7 +3920,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3923,7 +4070,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4067,7 +4214,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4205,7 +4352,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4343,7 +4490,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4481,7 +4628,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4625,7 +4772,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4683,7 +4830,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-08-16",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "YOUR COMMUNITY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4766,7 +4913,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4824,7 +4971,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-08-16",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-16",
         "name": "YOUR COMMUNITY PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4907,7 +5054,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5051,7 +5198,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5115,7 +5262,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5198,7 +5345,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5262,7 +5409,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5345,7 +5492,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5409,7 +5556,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5492,7 +5639,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5556,7 +5703,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5639,7 +5786,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5703,7 +5850,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-08-14",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "CFFE PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5786,7 +5933,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5930,7 +6077,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5985,7 +6132,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -6068,7 +6215,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -6123,7 +6270,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -6206,7 +6353,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6347,7 +6494,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6488,7 +6635,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6629,7 +6776,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6770,7 +6917,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6911,7 +7058,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7052,7 +7199,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7193,7 +7340,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7334,7 +7481,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7475,7 +7622,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 73975,
+        "idx": 73977,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",

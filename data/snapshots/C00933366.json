@@ -1,7 +1,7 @@
 {
   "fec_id": "C00933366",
   "name": "POINDEXTER FOR CONGRESS",
-  "fetched_at": "2026-10-18T10:31:14.662839+00:00",
+  "fetched_at": "2026-10-18T15:29:36.200852+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -60,6 +60,73 @@
     }
   ],
   "filings": [
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        2029401
+      ],
+      "amendment_indicator": null,
+      "amendment_version": 0,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202610179916169140",
+      "candidate_id": null,
+      "candidate_name": null,
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "C00933366",
+      "committee_name": "POINDEXTER FOR CONGRESS",
+      "committee_type": "H",
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/401/2029401.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": null,
+      "ending_image_number": "202610179916169141",
+      "fec_file_id": "FEC-2029401",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2029401.fec",
+      "file_number": 2029401,
+      "form_category": "NOTICE",
+      "form_type": "F6",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00933366/2029401/",
+      "is_amended": false,
+      "means_filed": "e-file",
+      "most_recent": null,
+      "most_recent_file_number": 2029401,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 2,
+      "party": null,
+      "pdf_url": "https://docquery.fec.gov/pdf/140/202610179916169140/202610179916169140.pdf",
+      "previous_file_number": 2029401,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-10-17T00:00:00",
+      "report_type": null,
+      "report_type_full": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED",
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": null,
+      "sub_id": "4101720261613717139",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "DUFOUR, THOMAS",
+      "update_date": "2026-10-17"
+    },
     {
       "additional_bank_names": null,
       "amendment_chain": [
@@ -272,76 +339,6 @@
         1931131,
         1931327,
         2006144,
-        2015521
-      ],
-      "amendment_indicator": "A",
-      "amendment_version": 3,
-      "bank_depository_city": "COLUMBUS",
-      "bank_depository_name": "FIFTH THIRD",
-      "bank_depository_state": "OH",
-      "bank_depository_street_1": "21 E STATE ST",
-      "bank_depository_street_2": null,
-      "bank_depository_zip": "43215",
-      "beginning_image_number": "202609299908491080",
-      "candidate_id": null,
-      "candidate_name": null,
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "C00933366",
-      "committee_name": "POINDEXTER FOR CONGRESS",
-      "committee_type": "H",
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/521/2015521.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Organization 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": null,
-      "ending_image_number": "202609299908491084",
-      "fec_file_id": "FEC-2015521",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/2015521.fec",
-      "file_number": 2015521,
-      "form_category": "STATEMENT",
-      "form_type": "F1",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00933366/2015521/",
-      "is_amended": true,
-      "means_filed": "e-file",
-      "most_recent": false,
-      "most_recent_file_number": 2015695,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 5,
-      "party": null,
-      "pdf_url": "https://docquery.fec.gov/pdf/080/202609299908491080/202609299908491080.pdf",
-      "previous_file_number": 2006144,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-09-29T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2026,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": null,
-      "sub_id": "4092920261599759010",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "DUFOUR, TOM",
-      "update_date": "2026-09-29"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1931131,
-        1931327,
-        2006144,
         2015521,
         2015546
       ],
@@ -427,7 +424,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -467,7 +464,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -623,7 +620,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -663,7 +660,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -816,7 +813,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -856,7 +853,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -1078,7 +1075,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1118,7 +1115,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -1340,7 +1337,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1380,7 +1377,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -1602,7 +1599,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1642,7 +1639,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -1864,7 +1861,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -1904,7 +1901,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -2066,7 +2063,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2106,7 +2103,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -2202,7 +2199,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2242,7 +2239,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -2412,7 +2409,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2452,7 +2449,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -2603,7 +2600,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2643,7 +2640,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -2823,7 +2820,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -2863,7 +2860,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -3043,7 +3040,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3083,7 +3080,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -3263,7 +3260,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3303,7 +3300,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -3483,7 +3480,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3523,7 +3520,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -3703,7 +3700,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3743,7 +3740,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -3923,7 +3920,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -3963,7 +3960,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -4143,7 +4140,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4183,7 +4180,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -4363,7 +4360,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4403,7 +4400,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -4583,7 +4580,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4623,7 +4620,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -4803,7 +4800,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -4843,7 +4840,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -4906,7 +4903,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-07-29",
-        "last_file_date": "2026-10-03",
+        "last_file_date": "2026-10-17",
         "name": "IMPOSSIBLE TO INEVITABLE",
         "organization_type": null,
         "organization_type_full": null,
@@ -4990,7 +4987,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5030,7 +5027,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -5210,7 +5207,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5250,7 +5247,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -5430,7 +5427,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5470,7 +5467,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -5650,7 +5647,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5690,7 +5687,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -5870,7 +5867,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -5910,7 +5907,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -6090,7 +6087,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6130,7 +6127,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -6310,7 +6307,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6350,7 +6347,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -6530,7 +6527,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6570,7 +6567,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -6750,7 +6747,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6790,7 +6787,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -6853,7 +6850,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-07-29",
-        "last_file_date": "2026-10-03",
+        "last_file_date": "2026-10-17",
         "name": "IMPOSSIBLE TO INEVITABLE",
         "organization_type": null,
         "organization_type_full": null,
@@ -6937,7 +6934,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -6977,7 +6974,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -7040,7 +7037,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-07-29",
-        "last_file_date": "2026-10-03",
+        "last_file_date": "2026-10-17",
         "name": "IMPOSSIBLE TO INEVITABLE",
         "organization_type": null,
         "organization_type_full": null,
@@ -7124,7 +7121,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7164,7 +7161,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -7344,7 +7341,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7384,7 +7381,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -7564,7 +7561,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7604,7 +7601,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -7784,7 +7781,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -7824,7 +7821,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -8004,7 +8001,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8044,7 +8041,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -8224,7 +8221,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8264,7 +8261,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -8444,7 +8441,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8484,7 +8481,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -8664,7 +8661,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8704,7 +8701,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -8884,7 +8881,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -8924,7 +8921,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -9020,7 +9017,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9060,7 +9057,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -9240,7 +9237,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9280,7 +9277,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -9460,7 +9457,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9500,7 +9497,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -9596,7 +9593,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9636,7 +9633,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -9699,7 +9696,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-07-29",
-        "last_file_date": "2026-10-03",
+        "last_file_date": "2026-10-17",
         "name": "IMPOSSIBLE TO INEVITABLE",
         "organization_type": null,
         "organization_type_full": null,
@@ -9783,7 +9780,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -9823,7 +9820,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -10003,7 +10000,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10043,7 +10040,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -10223,7 +10220,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10263,7 +10260,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -10443,7 +10440,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10483,7 +10480,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -10663,7 +10660,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10703,7 +10700,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -10883,7 +10880,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -10923,7 +10920,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -11109,7 +11106,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11149,7 +11146,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -11244,7 +11241,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11284,7 +11281,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -11379,7 +11376,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11419,7 +11416,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -11598,7 +11595,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11638,7 +11635,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -11733,7 +11730,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11773,7 +11770,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -11868,7 +11865,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -11908,7 +11905,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12003,7 +12000,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12043,7 +12040,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12138,7 +12135,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12178,7 +12175,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12273,7 +12270,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12313,7 +12310,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12408,7 +12405,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12448,7 +12445,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12543,7 +12540,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12583,7 +12580,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12678,7 +12675,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12718,7 +12715,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12813,7 +12810,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12853,7 +12850,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -12948,7 +12945,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -12988,7 +12985,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -13083,7 +13080,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13123,7 +13120,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -13218,7 +13215,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13258,7 +13255,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -13353,7 +13350,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13393,7 +13390,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -13488,7 +13485,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13528,7 +13525,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -13623,7 +13620,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13663,7 +13660,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -13758,7 +13755,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13798,7 +13795,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -13893,7 +13890,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -13933,7 +13930,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -14028,7 +14025,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14068,7 +14065,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -14212,7 +14209,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-09-18",
+        "last_file_date": "2026-10-17",
         "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
         "organization_type": "M",
         "organization_type_full": "Membership Organization",
@@ -14265,7 +14262,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14305,7 +14302,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -14400,7 +14397,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14440,7 +14437,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -14535,7 +14532,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14575,7 +14572,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -14670,7 +14667,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14710,7 +14707,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -14805,7 +14802,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14845,7 +14842,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -14940,7 +14937,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -14980,7 +14977,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -15075,7 +15072,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15115,7 +15112,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -15210,7 +15207,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15250,7 +15247,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -15345,7 +15342,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15385,7 +15382,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -15480,7 +15477,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15520,7 +15517,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -15615,7 +15612,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15655,7 +15652,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -15750,7 +15747,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15790,7 +15787,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -15885,7 +15882,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -15925,7 +15922,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16020,7 +16017,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16060,7 +16057,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16155,7 +16152,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16195,7 +16192,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16290,7 +16287,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16330,7 +16327,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16425,7 +16422,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16465,7 +16462,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16560,7 +16557,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16600,7 +16597,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16695,7 +16692,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16735,7 +16732,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16830,7 +16827,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -16870,7 +16867,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -16965,7 +16962,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17005,7 +17002,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -17100,7 +17097,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17140,7 +17137,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -17235,7 +17232,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17275,7 +17272,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -17370,7 +17367,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17410,7 +17407,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -17505,7 +17502,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17545,7 +17542,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -17640,7 +17637,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17680,7 +17677,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -17775,7 +17772,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17815,7 +17812,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
@@ -17910,7 +17907,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "BRIAN POINDEXTER VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [
           "H6OH07168"
         ],
@@ -17950,7 +17947,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-30",
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-17",
         "name": "POINDEXTER FOR CONGRESS",
         "organization_type": null,
         "organization_type_full": null,
