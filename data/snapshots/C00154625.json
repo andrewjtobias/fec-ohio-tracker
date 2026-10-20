@@ -1,7 +1,7 @@
 {
   "fec_id": "C00154625",
   "name": "KAPTUR FOR CONGRESS",
-  "fetched_at": "2026-10-20T03:32:10.888294+00:00",
+  "fetched_at": "2026-10-20T11:00:31.866682+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3332,8 +3332,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2022-12-15",
-        "last_file_date": "2026-10-15",
+        "last_f1_date": "2026-10-19",
+        "last_file_date": "2026-10-19",
         "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
         "organization_type": "L",
         "organization_type_full": "Labor Organization",
@@ -3343,7 +3343,7 @@
         "state_full": "Michigan",
         "street_1": "8000 EAST JEFFERSON",
         "street_2": ".",
-        "treasurer_name": "MOCK, MARGARET",
+        "treasurer_name": "CAMPBELL, BRANDON",
         "zip": "48214"
       },
       "contributor_aggregate_ytd": 10000.0,
@@ -3631,7 +3631,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-06-02",
-        "last_file_date": "2026-09-14",
+        "last_file_date": "2026-10-19",
         "name": "THE TIMKEN COMPANY GOOD GOVERNMENT FUND",
         "organization_type": "C",
         "organization_type_full": "Corporation",
@@ -5009,7 +5009,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-03-25",
-        "last_file_date": "2026-09-15",
+        "last_file_date": "2026-10-19",
         "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
         "organization_type": "L",
         "organization_type_full": "Labor Organization",
