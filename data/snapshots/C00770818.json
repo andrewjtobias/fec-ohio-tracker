@@ -1,64 +1,7 @@
 {
   "fec_id": "C00770818",
   "name": "MAX MILLER FOR CONGRESS",
-  "fetched_at": "2026-10-19T22:04:49.155751+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "cash_on_hand_beginning_period": 174529.39,
-      "committee_designation": "P",
-      "committee_designation_full": "Principal campaign committee",
-      "committee_id": "C00770818",
-      "committee_name": "MAX MILLER FOR CONGRESS",
-      "committee_state": "OH",
-      "committee_type": "H",
-      "committee_type_full": "House",
-      "contribution_refunds": 15125.0,
-      "contributions": 1726750.6,
-      "coverage_end_date": "2026-09-30T00:00:00",
-      "coverage_start_date": "2025-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 3341222.17,
-      "filing_frequency": "Q",
-      "filing_frequency_full": "Quarterly filer",
-      "first_f1_date": "2021-02-26",
-      "first_file_date": "2021-02-26",
-      "individual_contributions": 992252.3,
-      "individual_itemized_contributions": 804007.93,
-      "individual_unitemized_contributions": 188244.37,
-      "last_beginning_image_number": "202610159909409005",
-      "last_cash_on_hand_end_period": 122835.22,
-      "last_debts_owed_by_committee": 1965000.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_report_type_full": "OCTOBER QUARTERLY",
-      "last_report_year": 2026,
-      "loan_repayments": 35000.0,
-      "loan_repayments_candidate_loans": 35000.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 1000000.0,
-      "loans_made_by_candidate": 1000000.0,
-      "net_contributions": 1711625.6,
-      "net_operating_expenditures": 3285326.46,
-      "offsets_to_operating_expenditures": 3279.71,
-      "operating_expenditures": 3288606.17,
-      "organization_type": null,
-      "organization_type_full": null,
-      "other_disbursements": 2491.0,
-      "other_political_committee_contributions": 734498.3,
-      "other_receipts": 0.0,
-      "party_full": "REPUBLICAN PARTY",
-      "political_party_committee_contributions": 0.0,
-      "receipts": 3289528.0,
-      "refunded_individual_contributions": 13125.0,
-      "refunded_other_political_committee_contributions": 0.0,
-      "refunded_political_party_committee_contributions": 2000.0,
-      "transaction_coverage_date": "2026-06-30",
-      "transfers_from_other_authorized_committee": 559497.69,
-      "transfers_to_other_authorized_committee": 0.0,
-      "treasurer_name": "KILGORE, PAUL"
-    }
-  ],
+  "fetched_at": "2026-10-20T03:32:51.984950+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -18130,5 +18073,11 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "schedule_e": [],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00770818/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
+    }
+  ]
 }
