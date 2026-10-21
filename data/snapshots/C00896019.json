@@ -1,7 +1,64 @@
 {
   "fec_id": "C00896019",
   "name": "HUSTED FOR SENATE",
-  "fetched_at": "2026-10-21T11:15:03.760697+00:00",
+  "fetched_at": "2026-10-21T16:41:02.165038+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 0.0,
+      "cash_on_hand_beginning_period": 0.0,
+      "committee_designation": "P",
+      "committee_designation_full": "Principal campaign committee",
+      "committee_id": "C00896019",
+      "committee_name": "HUSTED FOR SENATE",
+      "committee_state": "OH",
+      "committee_type": "S",
+      "committee_type_full": "Senate",
+      "contribution_refunds": 349389.81,
+      "contributions": 12036664.73,
+      "coverage_end_date": "2026-09-30T00:00:00",
+      "coverage_start_date": "2025-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 10316066.87,
+      "filing_frequency": "Q",
+      "filing_frequency_full": "Quarterly filer",
+      "first_f1_date": "2025-01-20",
+      "first_file_date": "2025-01-20",
+      "individual_contributions": 9288354.73,
+      "individual_itemized_contributions": 6560767.29,
+      "individual_unitemized_contributions": 2727587.44,
+      "last_beginning_image_number": "202610159908971973",
+      "last_cash_on_hand_end_period": 8883293.28,
+      "last_debts_owed_by_committee": 0.0,
+      "last_debts_owed_to_committee": 0.0,
+      "last_report_type_full": "OCTOBER QUARTERLY",
+      "last_report_year": 2026,
+      "loan_repayments": 0.0,
+      "loan_repayments_candidate_loans": 0.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 0.0,
+      "loans_made_by_candidate": 0.0,
+      "net_contributions": 11687274.92,
+      "net_operating_expenditures": 9940411.56,
+      "offsets_to_operating_expenditures": 22765.5,
+      "operating_expenditures": 9963177.06,
+      "organization_type": null,
+      "organization_type_full": null,
+      "other_disbursements": 3500.0,
+      "other_political_committee_contributions": 2682860.0,
+      "other_receipts": 0.0,
+      "party_full": "REPUBLICAN PARTY",
+      "political_party_committee_contributions": 65450.0,
+      "receipts": 19199360.15,
+      "refunded_individual_contributions": 341648.79,
+      "refunded_other_political_committee_contributions": 7741.02,
+      "refunded_political_party_committee_contributions": 0.0,
+      "transaction_coverage_date": "2026-06-30",
+      "transfers_from_other_authorized_committee": 7139929.92,
+      "transfers_to_other_authorized_committee": 0.0,
+      "treasurer_name": "BROGHAMER, KEVIN"
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -15177,11 +15234,5 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": [],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00896019/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
-    }
-  ]
+  "schedule_e": []
 }
