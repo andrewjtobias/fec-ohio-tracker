@@ -1,8 +1,7 @@
 {
   "fec_id": "C90023672",
   "name": "GUARDRAILS ACTION INC.",
-  "fetched_at": "2026-10-20T21:25:14.295662+00:00",
-  "totals": [],
+  "fetched_at": "2026-10-21T03:33:19.245254+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -271,6 +270,12 @@
       "total_receipts": null,
       "treasurer_name": "ANDREWS, JILLIAN",
       "update_date": "2026-10-09"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
