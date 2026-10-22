@@ -1,7 +1,7 @@
 {
   "fec_id": "C00580068",
   "name": "PROGRESSIVE TURNOUT PROJECT",
-  "fetched_at": "2026-10-22T03:29:00.135359+00:00",
+  "fetched_at": "2026-10-22T11:18:15.987183+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -86,7 +86,7 @@
       "sponsor_candidate_list": [],
       "total_exp_subject_limits": 0.0,
       "total_transfers": 0.0,
-      "transaction_coverage_date": "2026-08-31",
+      "transaction_coverage_date": "2026-09-30",
       "transfers_from_affiliated_party": 18200000.0,
       "transfers_from_nonfed_account": 0.0,
       "transfers_from_nonfed_levin": 0.0,

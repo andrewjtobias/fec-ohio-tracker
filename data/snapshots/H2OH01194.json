@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH01194",
   "name": "LANDSMAN, GREG",
-  "fetched_at": "2026-10-22T03:26:00.115625+00:00",
+  "fetched_at": "2026-10-22T11:14:44.477272+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -421,7 +421,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -574,7 +574,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -718,7 +718,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -865,7 +865,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -923,7 +923,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1006,7 +1006,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1144,7 +1144,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1202,7 +1202,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1285,7 +1285,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1423,7 +1423,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1561,7 +1561,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1699,7 +1699,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1757,7 +1757,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1840,7 +1840,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -1978,7 +1978,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2108,7 +2108,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-18",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-20",
         "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
         "organization_type": "M",
         "organization_type_full": "Membership Organization",
@@ -2191,7 +2191,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2321,7 +2321,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-18",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-20",
         "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
         "organization_type": "M",
         "organization_type_full": "Membership Organization",
@@ -2404,7 +2404,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2534,7 +2534,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-18",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-20",
         "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
         "organization_type": "M",
         "organization_type_full": "Membership Organization",
@@ -2617,7 +2617,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2747,7 +2747,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-18",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-20",
         "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
         "organization_type": "M",
         "organization_type_full": "Membership Organization",
@@ -2830,7 +2830,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -2888,7 +2888,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-03-11",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-20",
         "name": "MAGA INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -2971,7 +2971,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3109,7 +3109,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3167,7 +3167,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3250,7 +3250,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3308,7 +3308,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3391,7 +3391,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3529,7 +3529,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3667,7 +3667,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3814,7 +3814,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -3961,7 +3961,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4016,7 +4016,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4099,7 +4099,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4178,7 +4178,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-10-16",
+        "last_file_date": "2026-10-21",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4261,7 +4261,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4340,7 +4340,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-10-16",
+        "last_file_date": "2026-10-21",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4423,7 +4423,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4502,7 +4502,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-10-16",
+        "last_file_date": "2026-10-21",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4585,7 +4585,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4643,7 +4643,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4726,7 +4726,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -4781,7 +4781,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4864,7 +4864,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5008,7 +5008,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5152,7 +5152,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5290,7 +5290,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5443,7 +5443,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5498,7 +5498,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-17",
+        "last_file_date": "2026-10-21",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -5581,7 +5581,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5639,7 +5639,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5722,7 +5722,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5801,7 +5801,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-20",
+        "last_file_date": "2026-10-21",
         "name": "LCV VICTORY FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -5884,7 +5884,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -5939,7 +5939,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -6022,7 +6022,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -6080,7 +6080,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -6163,7 +6163,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -6221,7 +6221,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -6304,7 +6304,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -6362,7 +6362,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -6445,7 +6445,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -6503,7 +6503,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -6586,7 +6586,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -6739,7 +6739,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -6886,7 +6886,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -7033,7 +7033,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -7088,7 +7088,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -7171,7 +7171,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -7315,7 +7315,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -7459,7 +7459,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -7603,7 +7603,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -7756,7 +7756,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -7811,7 +7811,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -7894,7 +7894,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8038,7 +8038,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8182,7 +8182,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8237,7 +8237,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -8320,7 +8320,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8461,7 +8461,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8516,7 +8516,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -8599,7 +8599,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8654,7 +8654,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -8737,7 +8737,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8792,7 +8792,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -8875,7 +8875,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -8930,7 +8930,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-18",
+        "last_file_date": "2026-10-20",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -9013,7 +9013,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -9157,7 +9157,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -9310,7 +9310,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -9463,7 +9463,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -9610,7 +9610,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -9757,7 +9757,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -9904,7 +9904,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10051,7 +10051,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10198,7 +10198,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10342,7 +10342,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10397,7 +10397,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-17",
+        "last_file_date": "2026-10-21",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -10480,7 +10480,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10535,7 +10535,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-17",
+        "last_file_date": "2026-10-21",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -10618,7 +10618,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10673,7 +10673,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-10-17",
+        "last_file_date": "2026-10-21",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -10756,7 +10756,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10817,7 +10817,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -10900,7 +10900,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -10961,7 +10961,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11044,7 +11044,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -11105,7 +11105,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11188,7 +11188,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -11249,7 +11249,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11332,7 +11332,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -11411,7 +11411,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-08-19",
-        "last_file_date": "2026-10-19",
+        "last_file_date": "2026-10-21",
         "name": "SIERRA CLUB INDEPENDENT ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11494,7 +11494,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -11555,7 +11555,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11638,7 +11638,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -11699,7 +11699,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11782,7 +11782,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -11843,7 +11843,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11926,7 +11926,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH01194",
-        "idx": 35417,
+        "idx": 35419,
         "two_year_period": "2026"
       },
       "candidate_first_name": "GREG",
@@ -11987,7 +11987,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2022-12-22",
-        "last_file_date": "2026-10-14",
+        "last_file_date": "2026-10-21",
         "name": "GIVEGREEN UNITED ACTION",
         "organization_type": null,
         "organization_type_full": null,

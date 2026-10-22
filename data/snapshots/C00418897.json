@@ -1,7 +1,7 @@
 {
   "fec_id": "C00418897",
   "name": "VOTEVETS",
-  "fetched_at": "2026-10-22T03:31:57.946618+00:00",
+  "fetched_at": "2026-10-22T11:20:24.857699+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -86,7 +86,7 @@
       "sponsor_candidate_list": [],
       "total_exp_subject_limits": 0.0,
       "total_transfers": 0.0,
-      "transaction_coverage_date": "2026-08-31",
+      "transaction_coverage_date": "2026-10-14",
       "transfers_from_affiliated_party": 37606.32,
       "transfers_from_nonfed_account": 0.0,
       "transfers_from_nonfed_levin": 0.0,
