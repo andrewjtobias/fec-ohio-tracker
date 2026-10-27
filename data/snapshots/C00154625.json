@@ -1,7 +1,7 @@
 {
   "fec_id": "C00154625",
   "name": "KAPTUR FOR CONGRESS",
-  "fetched_at": "2026-10-27T17:32:25.597082+00:00",
+  "fetched_at": "2026-10-27T21:53:27.437383+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -25131,5 +25131,10 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "errors": [
+    {
+      "step": "schedule_e",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?committee_id=C00154625&per_page=100&sort=-expenditure_date&api_key=REDACTED"
+    }
+  ]
 }
