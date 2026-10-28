@@ -1,7 +1,7 @@
 {
   "fec_id": "C00896928",
   "name": "TEAM HUSTED (JOINT FUNDRAISING)",
-  "fetched_at": "2026-10-28T12:15:13.065281+00:00",
+  "fetched_at": "2026-10-28T22:17:31.441930+00:00",
   "totals": [
     {
       "all_loans_received": 0.0,
@@ -15182,10 +15182,5 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "errors": [
-    {
-      "step": "schedule_e",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?committee_id=C00896928&per_page=100&sort=-expenditure_date&api_key=REDACTED"
-    }
-  ]
+  "schedule_e": []
 }
