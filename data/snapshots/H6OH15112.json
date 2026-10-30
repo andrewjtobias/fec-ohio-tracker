@@ -1,59 +1,7 @@
 {
   "fec_id": "H6OH15112",
   "name": "LEONARD, DON RALPH",
-  "fetched_at": "2026-10-29T22:33:23.026423+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 1919.63,
-      "candidate_election_year": 2026,
-      "candidate_id": "H6OH15112",
-      "contribution_refunds": 6055.0,
-      "contributions": 1146905.24,
-      "coverage_end_date": "2026-10-14T00:00:00",
-      "coverage_start_date": "2025-04-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 1232136.96,
-      "election_full": false,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 1094107.61,
-      "individual_itemized_contributions": 909696.65,
-      "individual_unitemized_contributions": 184410.96,
-      "last_beginning_image_number": "202610229941035272",
-      "last_cash_on_hand_end_period": 97706.71,
-      "last_debts_owed_by_committee": 5000.0,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 142391.54,
-      "last_net_operating_expenditures": 276420.85,
-      "last_report_type_full": "PRE-GENERAL",
-      "last_report_year": 2026,
-      "loan_repayments": 5000.0,
-      "loan_repayments_candidate_loans": 5000.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 10000.0,
-      "loans_made_by_candidate": 10000.0,
-      "net_contributions": 1140850.24,
-      "net_operating_expenditures": 1221081.96,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 0.0,
-      "operating_expenditures": 1221081.96,
-      "other_disbursements": 0.0,
-      "other_political_committee_contributions": 50000.0,
-      "other_receipts": 0.77,
-      "political_party_committee_contributions": 878.0,
-      "receipts": 1329843.67,
-      "refunded_individual_contributions": 4555.0,
-      "refunded_other_political_committee_contributions": 1500.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-06-30T00:00:00",
-      "transfers_from_other_authorized_committee": 172937.66,
-      "transfers_to_other_authorized_committee": 0.0
-    }
-  ],
+  "fetched_at": "2026-10-30T04:33:49.197440+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -11384,6 +11332,12 @@
           "state": "MA"
         }
       ]
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }

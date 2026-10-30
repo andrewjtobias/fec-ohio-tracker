@@ -1,8 +1,7 @@
 {
   "fec_id": "H6OH01120",
   "name": "FERREIRA, LINDSEY MARIE",
-  "fetched_at": "2026-10-29T22:29:18.828042+00:00",
-  "totals": [],
+  "fetched_at": "2026-10-30T04:29:39.924083+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -70,6 +69,12 @@
       "total_receipts": null,
       "treasurer_name": "FERREIRA, LINDSEY MARIE",
       "update_date": "2025-02-13"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
