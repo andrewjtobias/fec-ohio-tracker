@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH01138",
   "name": "CONROY, ERIC",
-  "fetched_at": "2026-10-30T04:28:35.254752+00:00",
+  "fetched_at": "2026-10-30T12:11:36.490671+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -270,7 +270,439 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "ERIC",
+      "candidate_id": "H6OH01138",
+      "candidate_last_name": "CONROY",
+      "candidate_middle_name": null,
+      "candidate_name": "CONROY, ERIC",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "006",
+      "category_code_full": "Campaign Materials",
+      "committee": {
+        "affiliated_committee_name": null,
+        "candidate_ids": [],
+        "city": "YOUNGSTOWN",
+        "committee_id": "C90022476",
+        "committee_type": "I",
+        "committee_type_full": "Independent expenditure filer (not a committee)",
+        "cycle": 2026,
+        "cycles": [
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": null,
+        "first_file_date": "2024-09-19",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": null,
+        "last_file_date": "2026-10-29",
+        "name": "STAND UP FOR OHIO (OHIO ORGANIZING CAMPAIGN)",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "OH",
+        "state_full": "Ohio",
+        "street_1": "25 E BOARDMAN",
+        "street_2": null,
+        "treasurer_name": null,
+        "zip": "44504"
+      },
+      "committee_id": "C90022476",
+      "conduit_committee_city": null,
+      "conduit_committee_id": "C90022476",
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-28",
+      "dissemination_date": "2026-10-28",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 1275.0,
+      "expenditure_date": "2026-10-28",
+      "expenditure_description": "ESTIMATED COST: FACEBOOK ADS  VOTER GUIDE",
+      "file_number": 2043110,
+      "filer_first_name": "CATHRINE",
+      "filer_last_name": "HARSHMAN",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-29",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610299945271525",
+      "independent_sign_date": "2026-10-29",
+      "independent_sign_name": "HARSHMAN, CATHRINE",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4102920261615415271,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 4099.63,
+      "original_sub_id": null,
+      "payee_city": "MENLO PARK",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "META",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "1 HACKER WAY",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "94025",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610299945271525",
+      "previous_file_number": 2043110,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4102920261615839782",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.4263"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH01138",
+        "idx": 73357,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "ERIC",
+      "candidate_id": "H6OH01138",
+      "candidate_last_name": "CONROY",
+      "candidate_middle_name": null,
+      "candidate_name": "CONROY, ERIC",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "FAIRFAX",
+        "committee_id": "C00741710",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2020,
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": "MOUNTAIN BROOK",
+        "designated_agent_first_name": "KAYLA",
+        "designated_agent_last_name": "GLAZE",
+        "designated_agent_middle_name": null,
+        "designated_agent_name": "GLAZE, KAYLA",
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": "AL",
+        "designated_agent_street1": "421 OFFICE PARK DRIVE",
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "35223",
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2020-03-10",
+        "first_file_date": "2020-03-10",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2023-04-20",
+        "last_file_date": "2026-10-29",
+        "name": "NRA VICTORY FUND, INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "VA",
+        "state_full": "Virginia",
+        "street_1": "11250 WAPLES MILL ROAD",
+        "street_2": null,
+        "treasurer_name": "FUNDERBURK, ZAC",
+        "zip": "22030"
+      },
+      "committee_id": "C00741710",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-27",
+      "dissemination_date": "2026-10-27",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 723.66,
+      "expenditure_date": "2026-10-27",
+      "expenditure_description": "SMS MESSAGING",
+      "file_number": 2043482,
+      "filer_first_name": "ZAC",
+      "filer_last_name": "FUNDERBURK",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-29",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610299945297837",
+      "independent_sign_date": "2026-10-28",
+      "independent_sign_name": "FUNDERBURK, ZAC",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4102920261615415356,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 7819.39,
+      "original_sub_id": null,
+      "payee_city": "ARLINGTON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "I360 LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "2300 CLARENDON BLVD",
+      "payee_street_2": "SUITE 800",
+      "payee_suffix": null,
+      "payee_zip": "22201",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610299945297837",
+      "previous_file_number": 2043482,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4102920261615840701",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE.2"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH01138",
+        "idx": 73357,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "ERIC",
+      "candidate_id": "H6OH01138",
+      "candidate_last_name": "CONROY",
+      "candidate_middle_name": null,
+      "candidate_name": "CONROY, ERIC",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00771477",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2021-03-03",
+        "first_file_date": "2021-03-03",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-03-16",
+        "last_file_date": "2026-10-28",
+        "name": "MAKE AMERICA GREAT AGAIN ACTION INC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00771477",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-27",
+      "dissemination_date": "2026-10-27",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 2392.64,
+      "expenditure_date": "2026-10-27",
+      "expenditure_description": "TEXT MESSAGES",
+      "file_number": 2042455,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-28",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610289945259392",
+      "independent_sign_date": "2026-10-28",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4102920261615415057,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 4798.32,
+      "original_sub_id": null,
+      "payee_city": "ARLINGTON",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "LP BROKERING, LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "1525 WILSON BLVD",
+      "payee_street_2": "STE 640",
+      "payee_suffix": null,
+      "payee_zip": "22209",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610289945259392",
+      "previous_file_number": 2042455,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4102920261615838332",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE.1196904.11"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH01138",
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -331,7 +763,151 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2021-12-10",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
+        "name": "THE GUARDIAN SUPER PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "FL",
+        "state_full": "Florida",
+        "street_1": "2140 THREE M TRAIL",
+        "street_2": null,
+        "treasurer_name": "WILDER, GREGORY B",
+        "zip": "32720"
+      },
+      "committee_id": "C00797084",
+      "conduit_committee_city": null,
+      "conduit_committee_id": "C00797084",
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-23",
+      "dissemination_date": "2026-10-28",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 8072.82,
+      "expenditure_date": "2026-10-23",
+      "expenditure_description": "TELEVISION ADVERTISING",
+      "file_number": 2043789,
+      "filer_first_name": "GREGORY",
+      "filer_last_name": "WILDER",
+      "filer_middle_name": "B",
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-29",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202610299945298824",
+      "independent_sign_date": "2026-10-28",
+      "independent_sign_name": "WILDER, GREGORY B",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4102920261615415426,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 22190.47,
+      "original_sub_id": null,
+      "payee_city": "DENVER",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "M2 PLACEMENT",
+      "payee_prefix": null,
+      "payee_state": "CO",
+      "payee_street_1": "10065 E HARVARD AVENUE",
+      "payee_street_2": "STE 400",
+      "payee_suffix": null,
+      "payee_zip": "80231",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610299945298824",
+      "previous_file_number": 2043789,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4102920261615841006",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE.4614"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH01138",
+        "idx": 73357,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "ERIC",
+      "candidate_id": "H6OH01138",
+      "candidate_last_name": "CONROY",
+      "candidate_middle_name": null,
+      "candidate_name": "CONROY, ERIC",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": "004",
+      "category_code_full": "Advertising Expenses ",
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "DELAND",
+        "committee_id": "C00797084",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_activity": [
+          2022,
+          2024,
+          2026
+        ],
+        "cycles_has_financial": [
+          2022,
+          2024,
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2021-12-10",
+        "first_file_date": "2021-12-10",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2021-12-10",
+        "last_file_date": "2026-10-29",
         "name": "THE GUARDIAN SUPER PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -414,7 +990,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -478,7 +1054,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-04-20",
-        "last_file_date": "2026-10-22",
+        "last_file_date": "2026-10-29",
         "name": "NRA VICTORY FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -561,7 +1137,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -619,7 +1195,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -702,7 +1278,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -840,7 +1416,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -978,7 +1554,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1039,7 +1615,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-03-16",
-        "last_file_date": "2026-10-22",
+        "last_file_date": "2026-10-28",
         "name": "MAKE AMERICA GREAT AGAIN ACTION INC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1122,7 +1698,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1198,7 +1774,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-10-26",
+        "last_file_date": "2026-10-28",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -1281,7 +1857,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1357,7 +1933,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-10-26",
+        "last_file_date": "2026-10-28",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -1440,7 +2016,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1516,7 +2092,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-10-26",
+        "last_file_date": "2026-10-28",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -1599,7 +2175,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1675,7 +2251,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-10-26",
+        "last_file_date": "2026-10-28",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -1758,7 +2334,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1816,7 +2392,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": null,
-        "last_file_date": "2026-10-15",
+        "last_file_date": "2026-10-29",
         "name": "STAND UP FOR OHIO (OHIO ORGANIZING CAMPAIGN)",
         "organization_type": null,
         "organization_type_full": null,
@@ -1899,7 +2475,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1957,7 +2533,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2040,7 +2616,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2178,7 +2754,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2316,7 +2892,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2454,7 +3030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2512,7 +3088,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -2595,7 +3171,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2733,7 +3309,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2871,7 +3447,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2935,7 +3511,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-04-20",
-        "last_file_date": "2026-10-22",
+        "last_file_date": "2026-10-29",
         "name": "NRA VICTORY FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -3018,7 +3594,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3082,7 +3658,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-04-20",
-        "last_file_date": "2026-10-22",
+        "last_file_date": "2026-10-29",
         "name": "NRA VICTORY FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -3165,7 +3741,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3223,7 +3799,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3306,7 +3882,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3444,7 +4020,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3499,7 +4075,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-25",
+        "last_file_date": "2026-10-28",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -3582,7 +4158,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3640,7 +4216,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3723,7 +4299,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3781,7 +4357,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3864,7 +4440,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3919,7 +4495,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-25",
+        "last_file_date": "2026-10-28",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4002,7 +4578,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4140,7 +4716,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4195,7 +4771,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-09-01",
-        "last_file_date": "2026-10-25",
+        "last_file_date": "2026-10-28",
         "name": "NO GOING BACK PAC INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4278,7 +4854,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4336,7 +4912,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -4419,7 +4995,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4483,7 +5059,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-04-20",
-        "last_file_date": "2026-10-22",
+        "last_file_date": "2026-10-29",
         "name": "NRA VICTORY FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4566,7 +5142,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4630,7 +5206,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-04-20",
-        "last_file_date": "2026-10-22",
+        "last_file_date": "2026-10-29",
         "name": "NRA VICTORY FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4713,7 +5289,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4777,7 +5353,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-04-20",
-        "last_file_date": "2026-10-22",
+        "last_file_date": "2026-10-29",
         "name": "NRA VICTORY FUND, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -4860,7 +5436,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4918,7 +5494,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5001,7 +5577,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5059,7 +5635,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-10-22",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-10-29",
         "name": "AMERICA PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -5142,7 +5718,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5280,7 +5856,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5418,7 +5994,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5556,7 +6132,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5694,7 +6270,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5832,7 +6408,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5970,7 +6546,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6108,7 +6684,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6246,7 +6822,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6384,7 +6960,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6522,7 +7098,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6660,7 +7236,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6798,7 +7374,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6936,7 +7512,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7074,7 +7650,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7212,7 +7788,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7350,7 +7926,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7488,7 +8064,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7626,7 +8202,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7764,7 +8340,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7902,7 +8478,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8040,7 +8616,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8178,7 +8754,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8316,7 +8892,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8454,7 +9030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8592,7 +9168,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8730,7 +9306,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8868,7 +9444,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9006,7 +9582,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9144,7 +9720,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9282,7 +9858,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9420,7 +9996,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9558,7 +10134,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9696,7 +10272,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9834,7 +10410,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9972,7 +10548,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10110,7 +10686,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10248,7 +10824,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10386,7 +10962,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10524,7 +11100,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10662,7 +11238,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10800,7 +11376,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10938,7 +11514,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11076,7 +11652,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11214,7 +11790,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11352,7 +11928,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11490,7 +12066,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73356,
+        "idx": 73357,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
