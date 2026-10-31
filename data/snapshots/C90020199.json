@@ -1,8 +1,7 @@
 {
   "fec_id": "C90020199",
   "name": "WORKMONEY",
-  "fetched_at": "2026-10-30T22:07:37.605931+00:00",
-  "totals": [],
+  "fetched_at": "2026-10-31T04:18:01.547774+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -338,6 +337,12 @@
       "total_receipts": null,
       "treasurer_name": "GRIMES, CARRIE JOY",
       "update_date": "2026-10-25"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "HTTPSConnectionPool(host='api.open.fec.gov', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
