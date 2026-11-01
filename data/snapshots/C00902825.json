@@ -1,8 +1,7 @@
 {
   "fec_id": "C00902825",
   "name": "FERREIRA FOR CONGRESS",
-  "fetched_at": "2026-11-01T12:44:11.675162+00:00",
-  "totals": [],
+  "fetched_at": "2026-11-01T21:44:27.931191+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -342,6 +341,12 @@
       "total_receipts": null,
       "treasurer_name": "FERREIRA, LINDSEY",
       "update_date": "2025-04-18"
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/committee/C00902825/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
