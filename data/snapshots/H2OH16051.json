@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-11-02T04:35:38.747686+00:00",
+  "fetched_at": "2026-11-02T14:53:09.038790+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -5448,7 +5448,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-06-01",
-        "last_file_date": "2026-10-30",
+        "last_file_date": "2026-10-31",
         "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
         "organization_type": "L",
         "organization_type_full": "Labor Organization",
@@ -8181,7 +8181,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-06-01",
-        "last_file_date": "2026-10-30",
+        "last_file_date": "2026-10-31",
         "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
         "organization_type": "L",
         "organization_type_full": "Labor Organization",
