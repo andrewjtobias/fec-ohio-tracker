@@ -1,7 +1,7 @@
 {
   "fec_id": "C00912311",
   "name": "CONROY FOR CONGRESS",
-  "fetched_at": "2026-11-06T05:13:02.644356+00:00",
+  "fetched_at": "2026-11-06T13:46:18.905948+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3345,8 +3345,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2026-11-03",
-        "last_file_date": "2026-11-03",
+        "last_f1_date": "2026-11-05",
+        "last_file_date": "2026-11-05",
         "name": "ALASKANS FOR NICK BEGICH",
         "organization_type": null,
         "organization_type_full": null,

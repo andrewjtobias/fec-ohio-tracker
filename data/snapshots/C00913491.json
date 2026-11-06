@@ -1,7 +1,7 @@
 {
   "fec_id": "C00913491",
   "name": "DON LEONARD FOR OHIO",
-  "fetched_at": "2026-11-06T05:14:03.076725+00:00",
+  "fetched_at": "2026-11-06T13:46:59.925942+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -197,73 +197,6 @@
     {
       "additional_bank_names": null,
       "amendment_chain": [
-        2043787
-      ],
-      "amendment_indicator": null,
-      "amendment_version": 0,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202610299945298809",
-      "candidate_id": null,
-      "candidate_name": null,
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "C00913491",
-      "committee_name": "DON LEONARD FOR OHIO",
-      "committee_type": "H",
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/787/2043787.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED 2026",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": null,
-      "ending_image_number": "202610299945298809",
-      "fec_file_id": "FEC-2043787",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/2043787.fec",
-      "file_number": 2043787,
-      "form_category": "NOTICE",
-      "form_type": "F6",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00913491/2043787/",
-      "is_amended": false,
-      "means_filed": "e-file",
-      "most_recent": null,
-      "most_recent_file_number": 2043787,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 1,
-      "party": null,
-      "pdf_url": "https://docquery.fec.gov/pdf/809/202610299945298809/202610299945298809.pdf",
-      "previous_file_number": 2043787,
-      "primary_general_indicator": null,
-      "receipt_date": "2026-10-29T00:00:00",
-      "report_type": null,
-      "report_type_full": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED",
-      "report_year": 2026,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": null,
-      "sub_id": "4102920261615418895",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "CAHILL, MITCHELL",
-      "update_date": "2026-10-29"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
         2043145
       ],
       "amendment_indicator": null,
@@ -331,18 +264,17 @@
     {
       "additional_bank_names": null,
       "amendment_chain": [
-        2040385,
-        2043167
+        2043787
       ],
       "amendment_indicator": null,
-      "amendment_version": 1,
+      "amendment_version": 0,
       "bank_depository_city": null,
       "bank_depository_name": null,
       "bank_depository_state": null,
       "bank_depository_street_1": null,
       "bank_depository_street_2": null,
       "bank_depository_zip": null,
-      "beginning_image_number": "202610299945271723",
+      "beginning_image_number": "202610299945298809",
       "candidate_id": null,
       "candidate_name": null,
       "cash_on_hand_beginning_period": null,
@@ -352,7 +284,7 @@
       "committee_type": "H",
       "coverage_end_date": null,
       "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/167/2043167.csv",
+      "csv_url": "https://docquery.fec.gov/csv/787/2043787.csv",
       "cycle": 2026,
       "debts_owed_by_committee": null,
       "debts_owed_to_committee": null,
@@ -360,25 +292,25 @@
       "document_type": null,
       "document_type_full": null,
       "election_year": null,
-      "ending_image_number": "202610299945271723",
-      "fec_file_id": "FEC-2043167",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/2043167.fec",
-      "file_number": 2043167,
+      "ending_image_number": "202610299945298809",
+      "fec_file_id": "FEC-2043787",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2043787.fec",
+      "file_number": 2043787,
       "form_category": "NOTICE",
       "form_type": "F6",
       "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00913491/2043167/",
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00913491/2043787/",
       "is_amended": false,
       "means_filed": "e-file",
       "most_recent": null,
-      "most_recent_file_number": 2043167,
+      "most_recent_file_number": 2043787,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
       "pages": 1,
       "party": null,
-      "pdf_url": "https://docquery.fec.gov/pdf/723/202610299945271723/202610299945271723.pdf",
-      "previous_file_number": 2040385,
+      "pdf_url": "https://docquery.fec.gov/pdf/809/202610299945298809/202610299945298809.pdf",
+      "previous_file_number": 2043787,
       "primary_general_indicator": null,
       "receipt_date": "2026-10-29T00:00:00",
       "report_type": null,
@@ -387,7 +319,74 @@
       "request_type": null,
       "senate_personal_funds": null,
       "state": null,
-      "sub_id": "4102920261615418488",
+      "sub_id": "4102920261615418895",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "CAHILL, MITCHELL",
+      "update_date": "2026-10-29"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        2043151
+      ],
+      "amendment_indicator": null,
+      "amendment_version": 0,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202610299945271697",
+      "candidate_id": null,
+      "candidate_name": null,
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "C00913491",
+      "committee_name": "DON LEONARD FOR OHIO",
+      "committee_type": "H",
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/151/2043151.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": null,
+      "ending_image_number": "202610299945271697",
+      "fec_file_id": "FEC-2043151",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2043151.fec",
+      "file_number": 2043151,
+      "form_category": "NOTICE",
+      "form_type": "F6",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/C00913491/2043151/",
+      "is_amended": false,
+      "means_filed": "e-file",
+      "most_recent": null,
+      "most_recent_file_number": 2043151,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 1,
+      "party": null,
+      "pdf_url": "https://docquery.fec.gov/pdf/697/202610299945271697/202610299945271697.pdf",
+      "previous_file_number": 2043151,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-10-29T00:00:00",
+      "report_type": null,
+      "report_type_full": "48-HOUR NOTICE OF CONTRIBUTIONS OR LOANS RECEIVED",
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": null,
+      "sub_id": "4102920261615418478",
       "total_communication_cost": null,
       "total_disbursements": null,
       "total_independent_expenditures": null,
@@ -416,7 +415,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -552,7 +551,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -745,7 +744,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -881,7 +880,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1017,7 +1016,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1153,7 +1152,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1289,7 +1288,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1425,7 +1424,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1561,7 +1560,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1697,7 +1696,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -1833,7 +1832,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2053,7 +2052,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2189,7 +2188,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2325,7 +2324,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2461,7 +2460,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2597,7 +2596,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2733,7 +2732,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -2869,7 +2868,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3089,7 +3088,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3225,7 +3224,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3445,7 +3444,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3581,7 +3580,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3801,7 +3800,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -3937,7 +3936,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4073,7 +4072,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4209,7 +4208,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4345,7 +4344,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4481,7 +4480,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4617,7 +4616,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4753,7 +4752,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -4889,7 +4888,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5025,7 +5024,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5161,7 +5160,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5381,7 +5380,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5517,7 +5516,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5737,7 +5736,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -5873,7 +5872,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6093,7 +6092,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6229,7 +6228,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6365,7 +6364,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6585,7 +6584,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6721,7 +6720,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -6941,7 +6940,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7077,7 +7076,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7213,7 +7212,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7349,7 +7348,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7485,7 +7484,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7705,7 +7704,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7841,7 +7840,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -7977,7 +7976,7 @@
       "candidate_prefix": null,
       "candidate_suffix": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8203,7 +8202,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8338,7 +8337,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8473,7 +8472,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8608,7 +8607,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8743,7 +8742,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -8878,7 +8877,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9013,7 +9012,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9148,7 +9147,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9283,7 +9282,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9418,7 +9417,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9553,7 +9552,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9688,7 +9687,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9823,7 +9822,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -9958,7 +9957,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10093,7 +10092,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10228,7 +10227,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10363,7 +10362,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10498,7 +10497,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10633,7 +10632,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10768,7 +10767,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -10903,7 +10902,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11038,7 +11037,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11173,7 +11172,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11308,7 +11307,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11443,7 +11442,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11578,7 +11577,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11713,7 +11712,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11848,7 +11847,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -11983,7 +11982,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12118,7 +12117,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12253,7 +12252,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12388,7 +12387,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12523,7 +12522,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12658,7 +12657,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12793,7 +12792,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -12928,7 +12927,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13063,7 +13062,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13198,7 +13197,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13333,7 +13332,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13468,7 +13467,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13603,7 +13602,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13738,7 +13737,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -13873,7 +13872,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14008,7 +14007,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14143,7 +14142,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14278,7 +14277,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14413,7 +14412,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14548,7 +14547,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14683,7 +14682,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
@@ -14818,7 +14817,7 @@
       "category_code_full": null,
       "comm_dt": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "IMPOSSIBLE TO INEVITABLE",
         "candidate_ids": [
           "H6OH15112"
         ],
