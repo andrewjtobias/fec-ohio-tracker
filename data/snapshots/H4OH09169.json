@@ -1,7 +1,7 @@
 {
   "fec_id": "H4OH09169",
   "name": "MERRIN, DEREK",
-  "fetched_at": "2026-11-07T04:48:20.109521+00:00",
+  "fetched_at": "2026-11-07T12:32:41.571645+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -421,7 +421,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -559,7 +559,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -697,7 +697,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -835,7 +835,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -973,7 +973,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1028,7 +1028,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1111,7 +1111,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1249,7 +1249,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1387,7 +1387,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1525,7 +1525,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1558,15 +1558,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
+        "designated_agent_city": "MACOMB",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": "MI",
+        "designated_agent_street1": "48241 CENTURY DR",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -1663,7 +1663,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1801,7 +1801,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -1939,7 +1939,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2077,7 +2077,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2227,7 +2227,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2260,15 +2260,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
+        "designated_agent_city": "MACOMB",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": "MI",
+        "designated_agent_street1": "48241 CENTURY DR",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -2365,7 +2365,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2524,7 +2524,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2671,7 +2671,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2830,7 +2830,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -2989,7 +2989,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -3139,7 +3139,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -3283,7 +3283,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -3421,7 +3421,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -3565,7 +3565,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -3703,7 +3703,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -3853,7 +3853,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -3994,7 +3994,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -4132,7 +4132,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -4291,7 +4291,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -4432,7 +4432,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -4582,7 +4582,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -4732,7 +4732,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -4882,7 +4882,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -5032,7 +5032,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -5170,7 +5170,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -5320,7 +5320,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -5464,7 +5464,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -5605,7 +5605,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -5746,7 +5746,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -5905,7 +5905,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -6064,7 +6064,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -6223,7 +6223,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -6382,7 +6382,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -6532,7 +6532,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -6670,7 +6670,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -6808,7 +6808,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -6967,7 +6967,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -7126,7 +7126,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -7159,15 +7159,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
+        "designated_agent_city": "MACOMB",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": "MI",
+        "designated_agent_street1": "48241 CENTURY DR",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -7264,7 +7264,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -7405,7 +7405,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -7543,7 +7543,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -7681,7 +7681,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -7831,7 +7831,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -7981,7 +7981,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -8131,7 +8131,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -8281,7 +8281,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -8422,7 +8422,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -8563,7 +8563,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -8713,7 +8713,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -8863,7 +8863,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -9013,7 +9013,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -9160,7 +9160,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -9310,7 +9310,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -9448,7 +9448,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -9586,7 +9586,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -9736,7 +9736,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -9880,7 +9880,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -10018,7 +10018,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -10177,7 +10177,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -10336,7 +10336,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -10495,7 +10495,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -10654,7 +10654,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -10795,7 +10795,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -10936,7 +10936,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -11086,7 +11086,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -11236,7 +11236,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -11377,7 +11377,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -11527,7 +11527,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -11674,7 +11674,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -11821,7 +11821,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -11962,7 +11962,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -12112,7 +12112,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -12271,7 +12271,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -12430,7 +12430,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -12589,7 +12589,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -12748,7 +12748,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -12907,7 +12907,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -13057,7 +13057,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -13195,7 +13195,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -13336,7 +13336,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -13474,7 +13474,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -13633,7 +13633,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -13774,7 +13774,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -13924,7 +13924,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -14062,7 +14062,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -14221,7 +14221,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -14383,7 +14383,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -14521,7 +14521,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -14680,7 +14680,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -14839,7 +14839,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -14998,7 +14998,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -15148,7 +15148,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -15298,7 +15298,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -15457,7 +15457,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -15616,7 +15616,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -15754,7 +15754,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -15895,7 +15895,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -16057,7 +16057,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -16219,7 +16219,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -16378,7 +16378,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -16540,7 +16540,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -16702,7 +16702,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -16852,7 +16852,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -17002,7 +17002,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -17152,7 +17152,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -17311,7 +17311,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -17479,7 +17479,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -17626,7 +17626,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -17773,7 +17773,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -17920,7 +17920,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -18061,7 +18061,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -18220,7 +18220,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -18379,7 +18379,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -18538,7 +18538,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -18676,7 +18676,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -18835,7 +18835,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -18994,7 +18994,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -19153,7 +19153,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -19291,7 +19291,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -19429,7 +19429,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -19588,7 +19588,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -19747,7 +19747,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -19906,7 +19906,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -19961,7 +19961,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -20044,7 +20044,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -20203,7 +20203,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -20362,7 +20362,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -20500,7 +20500,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -20659,7 +20659,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -20818,7 +20818,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -20977,7 +20977,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -21136,7 +21136,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -21295,7 +21295,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -21433,7 +21433,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -21571,7 +21571,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -21709,7 +21709,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -21877,7 +21877,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -22018,7 +22018,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -22177,7 +22177,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -22315,7 +22315,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -22370,7 +22370,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -22453,7 +22453,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -22621,7 +22621,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -22780,7 +22780,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -22939,7 +22939,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -23098,7 +23098,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -23257,7 +23257,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -23425,7 +23425,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -23584,7 +23584,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -23743,7 +23743,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -23902,7 +23902,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -23957,7 +23957,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -24040,7 +24040,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -24095,7 +24095,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -24178,7 +24178,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -24346,7 +24346,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -24514,7 +24514,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -24682,7 +24682,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -24850,7 +24850,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -25003,7 +25003,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -25156,7 +25156,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -25309,7 +25309,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -25450,7 +25450,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -25591,7 +25591,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -25732,7 +25732,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -25879,7 +25879,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -26029,7 +26029,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -26179,7 +26179,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -26326,7 +26326,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -26467,7 +26467,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -26608,7 +26608,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",
@@ -26749,7 +26749,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H4OH09169",
-        "idx": 53452,
+        "idx": 53453,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DEREK",

@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH15112",
   "name": "LEONARD, DON RALPH",
-  "fetched_at": "2026-11-07T04:49:20.813967+00:00",
+  "fetched_at": "2026-11-07T12:33:45.227443+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -410,7 +410,835 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "DON",
+      "candidate_id": "H6OH15112",
+      "candidate_last_name": "LEONARD",
+      "candidate_middle_name": "RALPH",
+      "candidate_name": "LEONARD, DON RALPH",
+      "candidate_office": "H",
+      "candidate_office_district": "15",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "MCFARLAND",
+        "committee_id": "C00930321",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2025-12-11",
+        "first_file_date": "2025-12-11",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2025-12-11",
+        "last_file_date": "2026-11-06",
+        "name": "NEIGHBOR VOICES PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "WI",
+        "state_full": "Wisconsin",
+        "street_1": "PO BOX 288",
+        "street_2": null,
+        "treasurer_name": "PFOHL, MICHAEL",
+        "zip": "53558"
+      },
+      "committee_id": "C00930321",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-11-05",
+      "dissemination_date": "2026-11-05",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 18.0,
+      "expenditure_date": "2026-11-05",
+      "expenditure_description": "CANVASSING VIA TEXT - SUPPORTING DON LEONARD",
+      "file_number": 2046640,
+      "filer_first_name": "MICHAEL",
+      "filer_last_name": "PFOHL",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-11-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202611069945350813",
+      "independent_sign_date": "2026-11-06",
+      "independent_sign_name": "PFOHL, MICHAEL",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4110620261645550008,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 7985.0,
+      "original_sub_id": null,
+      "payee_city": "SARATOGA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DIVISIBLE INC.",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "18021 HARVEST LN",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "950703160",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202611069945350813",
+      "previous_file_number": 2046640,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4110620261645730081",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500241309"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH15112",
+        "idx": 74003,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "DON",
+      "candidate_id": "H6OH15112",
+      "candidate_last_name": "LEONARD",
+      "candidate_middle_name": "RALPH",
+      "candidate_name": "LEONARD, DON RALPH",
+      "candidate_office": "H",
+      "candidate_office_district": "15",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "MCFARLAND",
+        "committee_id": "C00930321",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2025-12-11",
+        "first_file_date": "2025-12-11",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2025-12-11",
+        "last_file_date": "2026-11-06",
+        "name": "NEIGHBOR VOICES PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "WI",
+        "state_full": "Wisconsin",
+        "street_1": "PO BOX 288",
+        "street_2": null,
+        "treasurer_name": "PFOHL, MICHAEL",
+        "zip": "53558"
+      },
+      "committee_id": "C00930321",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-11-05",
+      "dissemination_date": "2026-11-05",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 37.5,
+      "expenditure_date": "2026-11-05",
+      "expenditure_description": "CANVASSING VIA TEXT - SUPPORTING DON LEONARD",
+      "file_number": 2046640,
+      "filer_first_name": "MICHAEL",
+      "filer_last_name": "PFOHL",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-11-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202611069945350812",
+      "independent_sign_date": "2026-11-06",
+      "independent_sign_name": "PFOHL, MICHAEL",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4110620261645550008,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 7985.0,
+      "original_sub_id": null,
+      "payee_city": "SARATOGA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DIVISIBLE INC.",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "18021 HARVEST LN",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "950703160",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202611069945350812",
+      "previous_file_number": 2046640,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4110620261645730080",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500241307"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH15112",
+        "idx": 74003,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "DON",
+      "candidate_id": "H6OH15112",
+      "candidate_last_name": "LEONARD",
+      "candidate_middle_name": "RALPH",
+      "candidate_name": "LEONARD, DON RALPH",
+      "candidate_office": "H",
+      "candidate_office_district": "15",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "MCFARLAND",
+        "committee_id": "C00930321",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2025-12-11",
+        "first_file_date": "2025-12-11",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2025-12-11",
+        "last_file_date": "2026-11-06",
+        "name": "NEIGHBOR VOICES PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "WI",
+        "state_full": "Wisconsin",
+        "street_1": "PO BOX 288",
+        "street_2": null,
+        "treasurer_name": "PFOHL, MICHAEL",
+        "zip": "53558"
+      },
+      "committee_id": "C00930321",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-11-05",
+      "dissemination_date": "2026-11-05",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 1.0,
+      "expenditure_date": "2026-11-05",
+      "expenditure_description": "CANVASSING VIA TEXT - SUPPORTING DON LEONARD",
+      "file_number": 2046640,
+      "filer_first_name": "MICHAEL",
+      "filer_last_name": "PFOHL",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-11-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202611069945350805",
+      "independent_sign_date": "2026-11-06",
+      "independent_sign_name": "PFOHL, MICHAEL",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4110620261645550008,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 7985.0,
+      "original_sub_id": null,
+      "payee_city": "SARATOGA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DIVISIBLE INC.",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "18021 HARVEST LN",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "950703160",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202611069945350805",
+      "previous_file_number": 2046640,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4110620261645730066",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500241291"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH15112",
+        "idx": 74003,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "DON",
+      "candidate_id": "H6OH15112",
+      "candidate_last_name": "LEONARD",
+      "candidate_middle_name": "RALPH",
+      "candidate_name": "LEONARD, DON RALPH",
+      "candidate_office": "H",
+      "candidate_office_district": "15",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "MCFARLAND",
+        "committee_id": "C00930321",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2025-12-11",
+        "first_file_date": "2025-12-11",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2025-12-11",
+        "last_file_date": "2026-11-06",
+        "name": "NEIGHBOR VOICES PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "WI",
+        "state_full": "Wisconsin",
+        "street_1": "PO BOX 288",
+        "street_2": null,
+        "treasurer_name": "PFOHL, MICHAEL",
+        "zip": "53558"
+      },
+      "committee_id": "C00930321",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-11-05",
+      "dissemination_date": "2026-11-05",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 118.67,
+      "expenditure_date": "2026-11-05",
+      "expenditure_description": "CANVASSING VIA TEXT - SUPPORTING DON LEONARD",
+      "file_number": 2046640,
+      "filer_first_name": "MICHAEL",
+      "filer_last_name": "PFOHL",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-11-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202611069945350805",
+      "independent_sign_date": "2026-11-06",
+      "independent_sign_name": "PFOHL, MICHAEL",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4110620261645550008,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 7985.0,
+      "original_sub_id": null,
+      "payee_city": "SARATOGA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DIVISIBLE INC.",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "18021 HARVEST LN",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "950703160",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202611069945350805",
+      "previous_file_number": 2046640,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4110620261645730065",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500241290"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH15112",
+        "idx": 74003,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "DON",
+      "candidate_id": "H6OH15112",
+      "candidate_last_name": "LEONARD",
+      "candidate_middle_name": "RALPH",
+      "candidate_name": "LEONARD, DON RALPH",
+      "candidate_office": "H",
+      "candidate_office_district": "15",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "MCFARLAND",
+        "committee_id": "C00930321",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2025-12-11",
+        "first_file_date": "2025-12-11",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2025-12-11",
+        "last_file_date": "2026-11-06",
+        "name": "NEIGHBOR VOICES PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "WI",
+        "state_full": "Wisconsin",
+        "street_1": "PO BOX 288",
+        "street_2": null,
+        "treasurer_name": "PFOHL, MICHAEL",
+        "zip": "53558"
+      },
+      "committee_id": "C00930321",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-11-05",
+      "dissemination_date": "2026-11-05",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 4.0,
+      "expenditure_date": "2026-11-05",
+      "expenditure_description": "CANVASSING VIA TEXT - SUPPORTING DON LEONARD",
+      "file_number": 2046640,
+      "filer_first_name": "MICHAEL",
+      "filer_last_name": "PFOHL",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-11-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202611069945350804",
+      "independent_sign_date": "2026-11-06",
+      "independent_sign_name": "PFOHL, MICHAEL",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4110620261645550008,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 7985.0,
+      "original_sub_id": null,
+      "payee_city": "SARATOGA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DIVISIBLE INC.",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "18021 HARVEST LN",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "950703160",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202611069945350804",
+      "previous_file_number": 2046640,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4110620261645730064",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500241289"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH15112",
+        "idx": 74003,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "DON",
+      "candidate_id": "H6OH15112",
+      "candidate_last_name": "LEONARD",
+      "candidate_middle_name": "RALPH",
+      "candidate_name": "LEONARD, DON RALPH",
+      "candidate_office": "H",
+      "candidate_office_district": "15",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "MCFARLAND",
+        "committee_id": "C00930321",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "Q",
+        "first_f1_date": "2025-12-11",
+        "first_file_date": "2025-12-11",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2025-12-11",
+        "last_file_date": "2026-11-06",
+        "name": "NEIGHBOR VOICES PAC",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "WI",
+        "state_full": "Wisconsin",
+        "street_1": "PO BOX 288",
+        "street_2": null,
+        "treasurer_name": "PFOHL, MICHAEL",
+        "zip": "53558"
+      },
+      "committee_id": "C00930321",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-11-05",
+      "dissemination_date": "2026-11-05",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 37.5,
+      "expenditure_date": "2026-11-05",
+      "expenditure_description": "CANVASSING VIA TEXT - SUPPORTING DON LEONARD",
+      "file_number": 2046640,
+      "filer_first_name": "MICHAEL",
+      "filer_last_name": "PFOHL",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-11-06",
+      "filing_form": "F24",
+      "form_line_number": "F24-24",
+      "image_number": "202611069945350804",
+      "independent_sign_date": "2026-11-06",
+      "independent_sign_name": "PFOHL, MICHAEL",
+      "is_notice": true,
+      "line_number": "24",
+      "link_id": 4110620261645550008,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 7985.0,
+      "original_sub_id": null,
+      "payee_city": "SARATOGA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DIVISIBLE INC.",
+      "payee_prefix": null,
+      "payee_state": "CA",
+      "payee_street_1": "18021 HARVEST LN",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "950703160",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202611069945350804",
+      "previous_file_number": 2046640,
+      "report_type": "24",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4110620261645730063",
+      "support_oppose_indicator": "S",
+      "transaction_id": "500241288"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH15112",
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -548,7 +1376,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -686,7 +1514,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -703,7 +1531,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "CAREY VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -824,7 +1652,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -879,7 +1707,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -962,7 +1790,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1017,7 +1845,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1100,7 +1928,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1155,7 +1983,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1238,7 +2066,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1293,7 +2121,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1376,7 +2204,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1431,7 +2259,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1514,7 +2342,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1652,7 +2480,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1790,7 +2618,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1928,7 +2756,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2066,7 +2894,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2204,7 +3032,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2348,7 +3176,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2495,7 +3323,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2642,7 +3470,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2789,7 +3617,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2806,7 +3634,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "CAREY VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -2927,7 +3755,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2982,7 +3810,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3065,7 +3893,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3120,7 +3948,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3203,7 +4031,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3258,7 +4086,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3341,7 +4169,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3396,7 +4224,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -3479,7 +4307,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3617,7 +4445,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -3755,7 +4583,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -3896,7 +4724,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4055,7 +4883,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4202,7 +5030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4343,7 +5171,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4481,7 +5309,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4619,7 +5447,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4757,7 +5585,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4895,7 +5723,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5036,7 +5864,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5177,7 +6005,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5336,7 +6164,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5474,7 +6302,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5612,7 +6440,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5753,7 +6581,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5891,7 +6719,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5946,7 +6774,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -6029,7 +6857,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -6084,7 +6912,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-06",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -6167,7 +6995,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -6314,7 +7142,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -6461,7 +7289,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -6608,7 +7436,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6746,7 +7574,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6884,7 +7712,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -7022,7 +7850,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -7160,7 +7988,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7310,7 +8138,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7457,7 +8285,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7604,7 +8432,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -7745,7 +8573,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7904,7 +8732,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -8063,7 +8891,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -8201,7 +9029,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -8345,7 +9173,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -8495,7 +9323,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -8636,7 +9464,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -8774,7 +9602,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -8912,7 +9740,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9056,7 +9884,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9194,7 +10022,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9332,7 +10160,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -9479,7 +10307,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9496,7 +10324,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "CAREY VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -9617,7 +10445,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9755,7 +10583,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -9905,7 +10733,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10043,7 +10871,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10060,7 +10888,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "CAREY VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -10181,7 +11009,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10198,7 +11026,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "CAREY VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -10319,7 +11147,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10336,7 +11164,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "CAREY VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -10457,7 +11285,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10474,7 +11302,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "CAREY VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -10595,7 +11423,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10733,7 +11561,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10874,7 +11702,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -11024,7 +11852,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -11171,7 +11999,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -11318,7 +12146,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -11456,7 +12284,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -11618,7 +12446,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -11780,7 +12608,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -11942,7 +12770,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -12080,7 +12908,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12218,7 +13046,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12356,7 +13184,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -12497,7 +13325,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12656,7 +13484,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12815,7 +13643,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -12956,7 +13784,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13103,7 +13931,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13250,7 +14078,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13400,7 +14228,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13550,7 +14378,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -13694,7 +14522,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -13832,7 +14660,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -13970,7 +14798,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14108,7 +14936,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14252,7 +15080,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -14402,7 +15230,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -14552,7 +15380,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14693,7 +15521,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14834,7 +15662,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14978,7 +15806,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15125,7 +15953,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15272,7 +16100,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15419,7 +16247,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15566,7 +16394,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15713,7 +16541,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -15857,7 +16685,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15995,7 +16823,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -16133,7 +16961,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16274,7 +17102,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16415,7 +17243,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16556,7 +17384,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16697,7 +17525,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16838,7 +17666,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -16979,7 +17807,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17120,7 +17948,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17261,7 +18089,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17402,7 +18230,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74002,
+        "idx": 74003,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
