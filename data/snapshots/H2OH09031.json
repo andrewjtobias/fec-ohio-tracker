@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH09031",
   "name": "KAPTUR, MARCY HON. M.C.",
-  "fetched_at": "2026-11-08T04:35:13.110668+00:00",
+  "fetched_at": "2026-11-08T12:50:27.952557+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1346,7 +1346,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -1493,7 +1493,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -4445,7 +4445,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -4592,7 +4592,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -4739,7 +4739,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -8471,7 +8471,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -11585,7 +11585,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -11732,7 +11732,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -17045,7 +17045,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -17192,7 +17192,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -25241,7 +25241,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -25388,7 +25388,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -25535,7 +25535,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -25682,7 +25682,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -25829,7 +25829,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -30148,7 +30148,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -30292,7 +30292,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -30436,7 +30436,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
@@ -30580,7 +30580,7 @@
       "action_code": "A",
       "action_code_full": "ADD",
       "amendment_indicator": "N",
-      "amendment_number": 0,
+      "amendment_number": null,
       "back_reference_schedule_name": null,
       "back_reference_transaction_id": null,
       "candidate": {
