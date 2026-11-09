@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-11-09T04:48:06.478865+00:00",
+  "fetched_at": "2026-11-09T15:19:08.899240+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1531,7 +1531,7 @@
         "designated_agent_last_name": "MELE",
         "designated_agent_middle_name": null,
         "designated_agent_name": "MELE, STEVEN",
-        "designated_agent_phone_number": null,
+        "designated_agent_phone_number": "2025500221",
         "designated_agent_prefix": null,
         "designated_agent_state": "IL",
         "designated_agent_street1": "PO BOX 27",
@@ -11392,7 +11392,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "ASSOCIATED BUILDERS & CONTACTORS",
+        "affiliated_committee_name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC.",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00010421",

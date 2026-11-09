@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH13264",
   "name": "SYKES, EMILIA",
-  "fetched_at": "2026-11-09T04:49:30.783458+00:00",
+  "fetched_at": "2026-11-09T15:20:08.088387+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -761,7 +761,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -1199,7 +1199,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -2216,7 +2216,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -2363,7 +2363,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -5590,7 +5590,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-10-15",
-        "last_file_date": "2026-10-28",
+        "last_file_date": "2026-11-08",
         "name": "THINK BIG",
         "organization_type": null,
         "organization_type_full": null,
@@ -5728,7 +5728,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-10-15",
-        "last_file_date": "2026-10-28",
+        "last_file_date": "2026-11-08",
         "name": "THINK BIG",
         "organization_type": null,
         "organization_type_full": null,
@@ -6430,7 +6430,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-10-15",
-        "last_file_date": "2026-10-28",
+        "last_file_date": "2026-11-08",
         "name": "THINK BIG",
         "organization_type": null,
         "organization_type_full": null,
@@ -6568,7 +6568,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-10-15",
-        "last_file_date": "2026-10-28",
+        "last_file_date": "2026-11-08",
         "name": "THINK BIG",
         "organization_type": null,
         "organization_type_full": null,

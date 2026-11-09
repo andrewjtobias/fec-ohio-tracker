@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH01138",
   "name": "CONROY, ERIC",
-  "fetched_at": "2026-11-09T04:44:34.824111+00:00",
+  "fetched_at": "2026-11-09T15:15:43.133615+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -303,15 +303,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "MACOMB",
+        "designated_agent_city": "WASHINGTON",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "MI",
-        "designated_agent_street1": "48241 CENTURY DR",
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "529 14TH ST NW #642",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -579,15 +579,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "MACOMB",
+        "designated_agent_city": "WASHINGTON",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "MI",
-        "designated_agent_street1": "48241 CENTURY DR",
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "529 14TH ST NW #642",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -12767,7 +12767,168 @@
       "spent": 835375.5,
       "transfers": null,
       "cash_on_hand": 302882.75,
-      "top_donors": []
+      "top_donors": [
+        {
+          "name": "GROW THE MAJORITY",
+          "amount": 99423.48,
+          "date": "2026-09-22",
+          "employer": null,
+          "city": "ALEXANDRIA",
+          "state": "VA"
+        },
+        {
+          "name": "CONROY OHIO VICTORY",
+          "amount": 63326.1,
+          "date": "2026-09-22",
+          "employer": null,
+          "city": "LAS VEGAS",
+          "state": "NV"
+        },
+        {
+          "name": "CONROY OHIO VICTORY",
+          "amount": 33127.79,
+          "date": "2026-09-22",
+          "employer": null,
+          "city": "LAS VEGAS",
+          "state": "NV"
+        },
+        {
+          "name": "CONROY OHIO VICTORY",
+          "amount": 24229.59,
+          "date": "2026-09-30",
+          "employer": null,
+          "city": "LAS VEGAS",
+          "state": "NV"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        },
+        {
+          "name": "WINRED",
+          "amount": 11101.97,
+          "date": "2026-07-29",
+          "employer": null,
+          "city": "CHEYENNE",
+          "state": "WY"
+        }
+      ]
     },
     {
       "label": "July Quarterly 2026",

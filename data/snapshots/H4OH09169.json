@@ -1,7 +1,7 @@
 {
   "fec_id": "H4OH09169",
   "name": "MERRIN, DEREK",
-  "fetched_at": "2026-11-09T04:48:03.701429+00:00",
+  "fetched_at": "2026-11-09T15:19:01.341195+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1558,15 +1558,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "MACOMB",
+        "designated_agent_city": "WASHINGTON",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "MI",
-        "designated_agent_street1": "48241 CENTURY DR",
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "529 14TH ST NW #642",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -2260,15 +2260,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "MACOMB",
+        "designated_agent_city": "WASHINGTON",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "MI",
-        "designated_agent_street1": "48241 CENTURY DR",
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "529 14TH ST NW #642",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -7159,15 +7159,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "MACOMB",
+        "designated_agent_city": "WASHINGTON",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "MI",
-        "designated_agent_street1": "48241 CENTURY DR",
+        "designated_agent_state": "DC",
+        "designated_agent_street1": "529 14TH ST NW #642",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
