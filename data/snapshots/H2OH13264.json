@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH13264",
   "name": "SYKES, EMILIA",
-  "fetched_at": "2026-11-12T00:10:13.143300+00:00",
+  "fetched_at": "2026-11-12T14:45:14.950513+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -456,7 +456,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -600,7 +600,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -744,7 +744,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -891,7 +891,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1044,7 +1044,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1182,7 +1182,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1329,7 +1329,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1482,7 +1482,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1623,7 +1623,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1764,7 +1764,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1800,19 +1800,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -1905,7 +1905,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -1941,19 +1941,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -2046,7 +2046,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2199,7 +2199,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2346,7 +2346,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2493,7 +2493,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2529,19 +2529,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -2634,7 +2634,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2775,7 +2775,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2928,7 +2928,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -2964,19 +2964,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3069,7 +3069,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -3105,19 +3105,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3210,7 +3210,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -3246,19 +3246,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3351,7 +3351,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -3495,7 +3495,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -3531,19 +3531,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3636,7 +3636,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -3672,19 +3672,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3777,7 +3777,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -3813,19 +3813,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3918,7 +3918,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -3954,19 +3954,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -4059,7 +4059,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -4095,19 +4095,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -4200,7 +4200,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -4258,7 +4258,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-07-05",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-11-11",
         "name": "ROLLING SEA ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -4341,7 +4341,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -4399,7 +4399,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-07-05",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-11-11",
         "name": "ROLLING SEA ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -4482,7 +4482,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -4540,7 +4540,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-07-05",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-11-11",
         "name": "ROLLING SEA ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -4623,7 +4623,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -4681,7 +4681,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-07-05",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-11-11",
         "name": "ROLLING SEA ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -4764,7 +4764,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -4926,7 +4926,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -5088,7 +5088,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -5250,7 +5250,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -5286,19 +5286,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -5391,7 +5391,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -5535,7 +5535,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -5673,7 +5673,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -5811,7 +5811,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -5847,19 +5847,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -5952,7 +5952,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -6096,7 +6096,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -6234,7 +6234,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -6270,19 +6270,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -6375,7 +6375,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -6411,19 +6411,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -6516,7 +6516,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -6552,19 +6552,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -6657,7 +6657,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -6795,7 +6795,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -6831,19 +6831,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -6936,7 +6936,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -7074,7 +7074,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -7110,19 +7110,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -7215,7 +7215,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -7251,19 +7251,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -7356,7 +7356,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -7392,19 +7392,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": "AUSTIN",
-        "designated_agent_first_name": "CABELL",
-        "designated_agent_last_name": "HOBBS",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "HOBBS, CABELL",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "TX",
-        "designated_agent_street1": "P.O. BOX 341027",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "78734",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -7497,7 +7497,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -7555,7 +7555,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2023-07-05",
-        "last_file_date": "2026-10-23",
+        "last_file_date": "2026-11-11",
         "name": "ROLLING SEA ACTION FUND",
         "organization_type": null,
         "organization_type_full": null,
@@ -7638,7 +7638,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -7782,7 +7782,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -7926,7 +7926,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -8070,7 +8070,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -8214,7 +8214,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -8358,7 +8358,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -8502,7 +8502,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -8646,7 +8646,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -8790,7 +8790,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -8934,7 +8934,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -9078,7 +9078,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -9222,7 +9222,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -9366,7 +9366,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -9510,7 +9510,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH13264",
-        "idx": 35935,
+        "idx": 35936,
         "two_year_period": "2026"
       },
       "candidate_first_name": "EMILIA",
@@ -9671,8 +9671,8 @@
       "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
-      "raised": 539234.09,
-      "spent": 295835.15,
+      "raised": 540783.28,
+      "spent": 297384.34,
       "transfers": null,
       "cash_on_hand": 1897462.29,
       "top_donors": [

@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH03067",
   "name": "TURNER, MICHAEL R",
-  "fetched_at": "2026-11-12T00:10:11.879320+00:00",
+  "fetched_at": "2026-11-12T14:45:13.436905+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -72,6 +72,88 @@
         1662121,
         1849712,
         1894024,
+        1916588,
+        2046884
+      ],
+      "amendment_indicator": "N",
+      "amendment_version": 15,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202611099945360022",
+      "candidate_id": "H2OH03067",
+      "candidate_name": "TURNER, MICHAEL R REP.",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H2OH03067",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/884/2046884.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2028,
+      "ending_image_number": "202611099945360022",
+      "fec_file_id": "FEC-2046884",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2046884.fec",
+      "file_number": 2046884,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH03067/2046884/",
+      "is_amended": false,
+      "means_filed": "e-file",
+      "most_recent": true,
+      "most_recent_file_number": 2046884,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 1,
+      "party": "REP",
+      "pdf_url": "https://docquery.fec.gov/pdf/022/202611099945360022/202611099945360022.pdf",
+      "previous_file_number": 1916588,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-11-09T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4111020261657231001",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "TURNER, MICHAEL R REP.",
+      "update_date": "2026-11-10"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        85877,
+        177267,
+        -164579,
+        -580849,
+        -4377838,
+        -9203837,
+        -9484920,
+        -9573637,
+        -9587069,
+        -9594783,
+        1512725,
+        1662121,
+        1849712,
+        1894024,
         1916588
       ],
       "amendment_indicator": "A",
@@ -108,10 +190,10 @@
       "form_type": "F2",
       "house_personal_funds": null,
       "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH03067/1916588/",
-      "is_amended": false,
+      "is_amended": true,
       "means_filed": "e-file",
-      "most_recent": true,
-      "most_recent_file_number": 1916588,
+      "most_recent": false,
+      "most_recent_file_number": 2046884,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -191,7 +273,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 1916588,
+      "most_recent_file_number": 2046884,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -270,7 +352,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 1916588,
+      "most_recent_file_number": 2046884,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -348,7 +430,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 1916588,
+      "most_recent_file_number": 2046884,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -372,83 +454,6 @@
       "total_receipts": null,
       "treasurer_name": "TURNER, MICHAEL R REP.",
       "update_date": "2022-11-21"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        85877,
-        177267,
-        -164579,
-        -580849,
-        -4377838,
-        -9203837,
-        -9484920,
-        -9573637,
-        -9587069,
-        -9594783,
-        1512725
-      ],
-      "amendment_indicator": "N",
-      "amendment_version": 10,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202104169443786464",
-      "candidate_id": "H2OH03067",
-      "candidate_name": "TURNER, MICHAEL R REP.",
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "H2OH03067",
-      "committee_name": null,
-      "committee_type": null,
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/725/1512725.csv",
-      "cycle": 2022,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Candidacy 2021",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": 2022,
-      "ending_image_number": "202104169443786464",
-      "fec_file_id": "FEC-1512725",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1512725.fec",
-      "file_number": 1512725,
-      "form_category": "STATEMENT",
-      "form_type": "F2",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H2OH03067/1512725/",
-      "is_amended": true,
-      "means_filed": "e-file",
-      "most_recent": false,
-      "most_recent_file_number": 1916588,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 1,
-      "party": "REP",
-      "pdf_url": "https://docquery.fec.gov/pdf/464/202104169443786464/202104169443786464.pdf",
-      "previous_file_number": 1512725,
-      "primary_general_indicator": null,
-      "receipt_date": "2021-04-16T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2021,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": "OH",
-      "sub_id": "4041720211277894006",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "TURNER, MICHAEL R REP.",
-      "update_date": "2021-04-17"
     }
   ],
   "schedule_e_target": [
@@ -461,7 +466,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -516,7 +521,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -599,7 +604,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -737,7 +742,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -875,7 +880,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -930,7 +935,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -1013,7 +1018,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -1151,7 +1156,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -1289,7 +1294,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -1427,7 +1432,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -1565,7 +1570,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -1703,7 +1708,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -1841,7 +1846,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -1979,7 +1984,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -2117,7 +2122,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -2255,7 +2260,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -2417,7 +2422,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -2555,7 +2560,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -2714,7 +2719,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -2855,7 +2860,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -2996,7 +3001,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -3134,7 +3139,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -3272,7 +3277,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -3431,7 +3436,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -3590,7 +3595,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -3749,7 +3754,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -3908,7 +3913,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -4067,7 +4072,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R",
@@ -4211,7 +4216,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -4349,7 +4354,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -4487,7 +4492,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -4625,7 +4630,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -4784,7 +4789,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -4922,7 +4927,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -5081,7 +5086,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -5240,7 +5245,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -5378,7 +5383,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R",
@@ -5522,7 +5527,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -5681,7 +5686,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -5840,7 +5845,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -5999,7 +6004,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -6137,7 +6142,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -6281,7 +6286,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -6440,7 +6445,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -6599,7 +6604,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -6737,7 +6742,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -6875,7 +6880,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -7034,7 +7039,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -7193,7 +7198,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -7352,7 +7357,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -7511,7 +7516,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -7670,7 +7675,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -7811,7 +7816,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -7970,7 +7975,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -8129,7 +8134,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -8288,7 +8293,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -8447,7 +8452,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -8606,7 +8611,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -8765,7 +8770,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -8924,7 +8929,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -9083,7 +9088,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -9224,7 +9229,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -9362,7 +9367,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -9503,7 +9508,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -9644,7 +9649,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -9782,7 +9787,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -9923,7 +9928,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -10064,7 +10069,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -10205,7 +10210,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -10346,7 +10351,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -10484,7 +10489,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -10622,7 +10627,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -10763,7 +10768,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -10904,7 +10909,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -11042,7 +11047,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -11183,7 +11188,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -11324,7 +11329,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -11465,7 +11470,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -11603,7 +11608,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -11741,7 +11746,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -11882,7 +11887,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -12023,7 +12028,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -12164,7 +12169,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -12305,7 +12310,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -12446,7 +12451,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -12501,7 +12506,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -12584,7 +12589,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -12725,7 +12730,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -12866,7 +12871,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -13004,7 +13009,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MIKE",
@@ -13142,7 +13147,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL R REP.",
@@ -13280,7 +13285,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -13335,7 +13340,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -13418,7 +13423,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -13473,7 +13478,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -13556,7 +13561,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -13611,7 +13616,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -13694,7 +13699,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -13749,7 +13754,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -13832,7 +13837,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
@@ -13887,7 +13892,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-12-11",
-        "last_file_date": "2026-11-06",
+        "last_file_date": "2026-11-11",
         "name": "NEIGHBOR VOICES PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -13970,7 +13975,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H2OH03067",
-        "idx": 35482,
+        "idx": 35483,
         "two_year_period": "2026"
       },
       "candidate_first_name": "MICHAEL",
