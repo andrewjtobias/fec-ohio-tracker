@@ -1,7 +1,59 @@
 {
   "fec_id": "H6OH10121",
   "name": "KNICKERBOCKER, KRISTINA",
-  "fetched_at": "2026-11-13T05:13:06.318900+00:00",
+  "fetched_at": "2026-11-13T14:00:49.340735+00:00",
+  "totals": [
+    {
+      "all_other_loans": 0.0,
+      "candidate_contribution": 28.02,
+      "candidate_election_year": 2026,
+      "candidate_id": "H6OH10121",
+      "contribution_refunds": 8470.67,
+      "contributions": 990952.84,
+      "coverage_end_date": "2026-10-14T00:00:00",
+      "coverage_start_date": "2026-01-01T00:00:00",
+      "cycle": 2026,
+      "disbursements": 882432.93,
+      "election_full": false,
+      "exempt_legal_accounting_disbursement": 0.0,
+      "federal_funds": 0.0,
+      "fundraising_disbursements": 0.0,
+      "individual_contributions": 900424.82,
+      "individual_itemized_contributions": 673757.68,
+      "individual_unitemized_contributions": 226667.14,
+      "last_beginning_image_number": "202610229940999533",
+      "last_cash_on_hand_end_period": 133444.92,
+      "last_debts_owed_by_committee": 18040.5,
+      "last_debts_owed_to_committee": 0.0,
+      "last_net_contributions": 132650.53,
+      "last_net_operating_expenditures": 294897.41,
+      "last_report_type_full": "PRE-GENERAL",
+      "last_report_year": 2026,
+      "loan_repayments": 7000.0,
+      "loan_repayments_candidate_loans": 7000.0,
+      "loan_repayments_other_loans": 0.0,
+      "loans": 7000.0,
+      "loans_made_by_candidate": 7000.0,
+      "net_contributions": 982482.17,
+      "net_operating_expenditures": 859302.25,
+      "offsets_to_fundraising_expenditures": 0.0,
+      "offsets_to_legal_accounting": 0.0,
+      "offsets_to_operating_expenditures": 60.01,
+      "operating_expenditures": 859362.26,
+      "other_disbursements": 7600.0,
+      "other_political_committee_contributions": 90500.0,
+      "other_receipts": 0.0,
+      "political_party_committee_contributions": 0.0,
+      "receipts": 1015877.85,
+      "refunded_individual_contributions": 8470.67,
+      "refunded_other_political_committee_contributions": 0.0,
+      "refunded_political_party_committee_contributions": 0.0,
+      "total_offsets_to_operating_expenditures": 0.0,
+      "transaction_coverage_date": "2026-06-30T00:00:00",
+      "transfers_from_other_authorized_committee": 17865.0,
+      "transfers_to_other_authorized_committee": 0.0
+    }
+  ],
   "filings": [
     {
       "additional_bank_names": null,
@@ -218,7 +270,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -359,7 +411,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -500,7 +552,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -638,7 +690,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -776,7 +828,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -914,7 +966,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -1052,7 +1104,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -1190,7 +1242,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -1328,7 +1380,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -1466,7 +1518,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -1634,7 +1686,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -1802,7 +1854,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -1940,7 +1992,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -2078,7 +2130,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -2216,7 +2268,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -2354,7 +2406,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -2492,7 +2544,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -2630,7 +2682,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -2792,7 +2844,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -2951,7 +3003,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -3089,7 +3141,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -3251,7 +3303,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -3389,7 +3441,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -3530,7 +3582,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -3689,7 +3741,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -3830,7 +3882,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -3971,7 +4023,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -4109,7 +4161,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -4247,7 +4299,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -4385,7 +4437,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -4523,7 +4575,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -4661,7 +4713,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -4829,7 +4881,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -4967,7 +5019,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -5126,7 +5178,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -5267,7 +5319,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -5408,7 +5460,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -5546,7 +5598,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -5705,7 +5757,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -5843,7 +5895,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -6005,7 +6057,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -6143,7 +6195,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -6281,7 +6333,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -6422,7 +6474,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -6560,7 +6612,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -6728,7 +6780,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -6866,7 +6918,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -7004,7 +7056,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -7166,7 +7218,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "KRISTINA",
+      "candidate_id": "H6OH10121",
+      "candidate_last_name": "KNICKERBOCKER",
+      "candidate_middle_name": null,
+      "candidate_name": "KNICKERBOCKER, KRISTINA",
+      "candidate_office": "H",
+      "candidate_office_district": "10",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960443",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-10-30",
+        "name": "SAFETY & AFFORDABILITY PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960443",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-13",
+      "dissemination_date": "2026-10-14",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 700000.0,
+      "expenditure_date": "2026-10-13",
+      "expenditure_description": "PLACED MEDIA: TV AND CONNECTED TV",
+      "file_number": 2033787,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921431544",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394234,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 1400000.0,
+      "original_sub_id": null,
+      "payee_city": "ALEXANDRIA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DEL RAY MEDIA LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX 1309",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22313",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921431544",
+      "previous_file_number": 2033787,
+      "report_type": "12G",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657792980",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.1190488"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH10121",
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -7304,7 +7494,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -7463,7 +7653,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -7622,7 +7812,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -7781,7 +7971,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -7922,7 +8112,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -8063,7 +8253,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -8201,7 +8391,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -8339,7 +8529,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -8489,7 +8679,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -8639,7 +8829,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -8780,7 +8970,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -8942,7 +9132,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -9092,7 +9282,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -9230,7 +9420,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -9389,7 +9579,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -9548,7 +9738,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -9707,7 +9897,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -9866,7 +10056,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -10025,7 +10215,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "KRISTINA",
+      "candidate_id": "H6OH10121",
+      "candidate_last_name": "KNICKERBOCKER",
+      "candidate_middle_name": null,
+      "candidate_name": "KNICKERBOCKER, KRISTINA",
+      "candidate_office": "H",
+      "candidate_office_district": "10",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960443",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-10-30",
+        "name": "SAFETY & AFFORDABILITY PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960443",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-05",
+      "dissemination_date": "2026-10-07",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 700000.0,
+      "expenditure_date": "2026-10-05",
+      "expenditure_description": "PLACED MEDIA: TV AND CONNECTED TV",
+      "file_number": 2033787,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921431538",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394234,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 700000.0,
+      "original_sub_id": null,
+      "payee_city": "ALEXANDRIA",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "DEL RAY MEDIA LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX 1309",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22313",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921431538",
+      "previous_file_number": 2033787,
+      "report_type": "12G",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657792968",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.1187803"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH10121",
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -10163,7 +10491,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -10242,7 +10570,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-10-28",
+        "last_file_date": "2026-11-12",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10325,7 +10653,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -10404,7 +10732,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-10-28",
+        "last_file_date": "2026-11-12",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10487,7 +10815,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -10566,7 +10894,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-10-28",
+        "last_file_date": "2026-11-12",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -10649,7 +10977,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -10787,7 +11115,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "KRISTINA",
+      "candidate_id": "H6OH10121",
+      "candidate_last_name": "KNICKERBOCKER",
+      "candidate_middle_name": null,
+      "candidate_name": "KNICKERBOCKER, KRISTINA",
+      "candidate_office": "H",
+      "candidate_office_district": "10",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-11-03",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-02",
+      "dissemination_date": "2026-10-14",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 72740.0,
+      "expenditure_date": "2026-10-02",
+      "expenditure_description": "DIRECT MAIL: PRINTING AND POSTAGE",
+      "file_number": 2033815,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921437276",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394255,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 371454.0,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921437276",
+      "previous_file_number": 2033815,
+      "report_type": "12G",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657790864",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.1186654"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH10121",
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -10925,7 +11391,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -11066,7 +11532,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -11204,7 +11670,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "KRISTINA",
+      "candidate_id": "H6OH10121",
+      "candidate_last_name": "KNICKERBOCKER",
+      "candidate_middle_name": null,
+      "candidate_name": "KNICKERBOCKER, KRISTINA",
+      "candidate_office": "H",
+      "candidate_office_district": "10",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-11-03",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-28",
+      "dissemination_date": "2026-10-02",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 54555.0,
+      "expenditure_date": "2026-09-28",
+      "expenditure_description": "DIRECT MAIL: PRINTING AND POSTAGE",
+      "file_number": 2033797,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921432278",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394240,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 298714.0,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921432278",
+      "previous_file_number": 2033797,
+      "report_type": "M10",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657792876",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.1184677.2"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH10121",
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -11342,7 +11946,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "KRISTINA",
+      "candidate_id": "H6OH10121",
+      "candidate_last_name": "KNICKERBOCKER",
+      "candidate_middle_name": null,
+      "candidate_name": "KNICKERBOCKER, KRISTINA",
+      "candidate_office": "H",
+      "candidate_office_district": "10",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-11-03",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-22",
+      "dissemination_date": "2026-09-24",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 1255.5,
+      "expenditure_date": "2026-09-22",
+      "expenditure_description": "TEXT MESSAGES",
+      "file_number": 2033797,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921432185",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394240,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 223760.5,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921432185",
+      "previous_file_number": 2033797,
+      "report_type": "M10",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657792691",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.1183104.1"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH10121",
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -11480,7 +12222,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "KRISTINA",
+      "candidate_id": "H6OH10121",
+      "candidate_last_name": "KNICKERBOCKER",
+      "candidate_middle_name": null,
+      "candidate_name": "KNICKERBOCKER, KRISTINA",
+      "candidate_office": "H",
+      "candidate_office_district": "10",
+      "candidate_office_state": "OH",
+      "candidate_party": "DEM",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-11-03",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-18",
+      "dissemination_date": "2026-09-23",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 18185.0,
+      "expenditure_date": "2026-09-18",
+      "expenditure_description": "DIRECT MAIL: PRINTING AND POSTAGE",
+      "file_number": 2033797,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921432118",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394240,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 167950.0,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921432118",
+      "previous_file_number": 2033797,
+      "report_type": "M10",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657792556",
+      "support_oppose_indicator": "O",
+      "transaction_id": "SE.1182039.3"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH10121",
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -11618,7 +12498,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -11756,7 +12636,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -11894,7 +12774,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH10121",
-        "idx": 73777,
+        "idx": 73778,
         "two_year_period": "2026"
       },
       "candidate_first_name": "KRISTINA",
@@ -12557,12 +13437,6 @@
           "state": "NY"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "step": "totals",
-      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H6OH10121/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }

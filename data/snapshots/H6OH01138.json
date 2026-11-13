@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH01138",
   "name": "CONROY, ERIC",
-  "fetched_at": "2026-11-13T05:10:34.774384+00:00",
+  "fetched_at": "2026-11-13T13:58:22.250168+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -270,7 +270,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -303,15 +303,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
+        "designated_agent_city": "MACOMB",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": "MI",
+        "designated_agent_street1": "48241 CENTURY DR",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -408,7 +408,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -546,7 +546,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -579,15 +579,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
+        "designated_agent_city": "MACOMB",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": "MI",
+        "designated_agent_street1": "48241 CENTURY DR",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -684,7 +684,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -825,7 +825,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -972,7 +972,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1116,7 +1116,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1260,7 +1260,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1404,7 +1404,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1551,7 +1551,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1587,19 +1587,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -1692,7 +1692,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1830,7 +1830,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1968,7 +1968,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2112,7 +2112,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2271,7 +2271,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2430,7 +2430,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2589,7 +2589,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2748,7 +2748,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2889,7 +2889,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2925,19 +2925,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3030,7 +3030,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3168,7 +3168,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3306,7 +3306,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3444,7 +3444,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3480,19 +3480,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -3585,7 +3585,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3723,7 +3723,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3861,7 +3861,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4008,7 +4008,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4155,7 +4155,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4191,19 +4191,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -4296,7 +4296,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "ERIC",
+      "candidate_id": "H6OH01138",
+      "candidate_last_name": "CONROY",
+      "candidate_middle_name": null,
+      "candidate_name": "CONROY, ERIC",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-11-03",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-06",
+      "dissemination_date": "2026-10-06",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 3284.1,
+      "expenditure_date": "2026-10-06",
+      "expenditure_description": "TEXT MESSAGES",
+      "file_number": 2033815,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921437334",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394255,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 566600.0,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921437334",
+      "previous_file_number": 2033815,
+      "report_type": "12G",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657790981",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE.1188554.2"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH01138",
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4434,7 +4572,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4572,7 +4710,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4608,19 +4746,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -4713,7 +4851,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4749,19 +4887,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -4854,7 +4992,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "ERIC",
+      "candidate_id": "H6OH01138",
+      "candidate_last_name": "CONROY",
+      "candidate_middle_name": null,
+      "candidate_name": "CONROY, ERIC",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-11-03",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-10-02",
+      "dissemination_date": "2026-10-05",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 54765.0,
+      "expenditure_date": "2026-10-02",
+      "expenditure_description": "DIRECT MAIL: PRINTING AND POSTAGE",
+      "file_number": 2033815,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921437280",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394255,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 562951.0,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921437280",
+      "previous_file_number": 2033815,
+      "report_type": "12G",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657790873",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE.1186635.2"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH01138",
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4992,7 +5268,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5130,7 +5406,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5268,7 +5544,145 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
+        "two_year_period": "2026"
+      },
+      "candidate_first_name": "ERIC",
+      "candidate_id": "H6OH01138",
+      "candidate_last_name": "CONROY",
+      "candidate_middle_name": null,
+      "candidate_name": "CONROY, ERIC",
+      "candidate_office": "H",
+      "candidate_office_district": "01",
+      "candidate_office_state": "OH",
+      "candidate_party": "REP",
+      "candidate_prefix": null,
+      "candidate_suffix": null,
+      "category_code": null,
+      "category_code_full": null,
+      "committee": {
+        "affiliated_committee_name": "NONE",
+        "candidate_ids": [],
+        "city": "BEVERLY",
+        "committee_id": "C00960435",
+        "committee_type": "O",
+        "committee_type_full": "Super PAC (Independent Expenditure-Only)",
+        "cycle": 2026,
+        "cycles": [
+          2026
+        ],
+        "cycles_has_activity": [
+          2026
+        ],
+        "cycles_has_financial": [
+          2026
+        ],
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
+        "designated_agent_middle_name": null,
+        "designated_agent_name": null,
+        "designated_agent_phone_number": null,
+        "designated_agent_prefix": null,
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
+        "designated_agent_street2": null,
+        "designated_agent_suffix": null,
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
+        "designation": "U",
+        "designation_full": "Unauthorized",
+        "filing_frequency": "M",
+        "first_f1_date": "2026-09-01",
+        "first_file_date": "2026-09-01",
+        "is_active": true,
+        "last_cycle_has_activity": 2026,
+        "last_cycle_has_financial": 2026,
+        "last_f1_date": "2026-09-01",
+        "last_file_date": "2026-11-03",
+        "name": "NO GOING BACK PAC INC.",
+        "organization_type": null,
+        "organization_type_full": null,
+        "party": null,
+        "party_full": null,
+        "state": "MA",
+        "state_full": "Massachusetts",
+        "street_1": "C/O BULLDOG COMPLIANCE",
+        "street_2": "100 CUMMINGS CENTER STE 306-P",
+        "treasurer_name": "GANTT, CHARLES",
+        "zip": "01915"
+      },
+      "committee_id": "C00960435",
+      "conduit_committee_city": null,
+      "conduit_committee_id": null,
+      "conduit_committee_name": null,
+      "conduit_committee_state": null,
+      "conduit_committee_street1": null,
+      "conduit_committee_street2": null,
+      "conduit_committee_zip": null,
+      "disbursement_dt": "2026-09-28",
+      "dissemination_date": "2026-09-28",
+      "election_type": "G2026",
+      "election_type_full": null,
+      "expenditure_amount": 27382.5,
+      "expenditure_date": "2026-09-28",
+      "expenditure_description": "DIRECT MAIL: PRINTING AND POSTAGE",
+      "file_number": 2033797,
+      "filer_first_name": "CHARLES",
+      "filer_last_name": "GANTT",
+      "filer_middle_name": null,
+      "filer_prefix": null,
+      "filer_suffix": null,
+      "filing_date": "2026-10-20",
+      "filing_form": "F3X",
+      "form_line_number": "F3X-24",
+      "image_number": "202610209921432272",
+      "independent_sign_date": "2026-10-20",
+      "independent_sign_name": "GANTT, CHARLES",
+      "is_notice": false,
+      "line_number": "24",
+      "link_id": 4102120261614394240,
+      "memo_code": null,
+      "memo_code_full": null,
+      "memo_text": null,
+      "memoed_subtotal": false,
+      "most_recent": true,
+      "notary_commission_expiration_date": null,
+      "notary_sign_date": null,
+      "notary_sign_name": null,
+      "office_total_ytd": 453421.0,
+      "original_sub_id": null,
+      "payee_city": "MCLEAN",
+      "payee_first_name": null,
+      "payee_last_name": null,
+      "payee_middle_name": null,
+      "payee_name": "PT STRATEGY LLC",
+      "payee_prefix": null,
+      "payee_state": "VA",
+      "payee_street_1": "PO BOX C",
+      "payee_street_2": null,
+      "payee_suffix": null,
+      "payee_zip": "22101",
+      "pdf_url": "https://docquery.fec.gov/cgi-bin/fecimg/?202610209921432272",
+      "previous_file_number": 2033797,
+      "report_type": "M10",
+      "report_year": "2026",
+      "schedule_type": "SE",
+      "schedule_type_full": "ITEMIZED INDEPENDENT EXPENDITURES",
+      "sub_id": "4111220261657792865",
+      "support_oppose_indicator": "S",
+      "transaction_id": "SE.1184670.2"
+    },
+    {
+      "action_code": "A",
+      "action_code_full": "ADD",
+      "amendment_indicator": "N",
+      "amendment_number": 0,
+      "back_reference_schedule_name": null,
+      "back_reference_transaction_id": null,
+      "candidate": {
+        "candidate_id": "H6OH01138",
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5304,19 +5718,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -5409,7 +5823,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5547,7 +5961,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5583,19 +5997,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -5688,7 +6102,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5724,19 +6138,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -5829,7 +6243,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5976,7 +6390,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6123,7 +6537,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6270,7 +6684,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6306,19 +6720,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -6411,7 +6825,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6447,19 +6861,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -6552,7 +6966,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6588,19 +7002,19 @@
           2024,
           2026
         ],
-        "designated_agent_city": null,
-        "designated_agent_first_name": null,
-        "designated_agent_last_name": null,
+        "designated_agent_city": "AUSTIN",
+        "designated_agent_first_name": "CABELL",
+        "designated_agent_last_name": "HOBBS",
         "designated_agent_middle_name": null,
-        "designated_agent_name": null,
+        "designated_agent_name": "HOBBS, CABELL",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": null,
-        "designated_agent_street1": null,
+        "designated_agent_state": "TX",
+        "designated_agent_street1": "P.O. BOX 341027",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": null,
-        "designated_agent_zip": null,
+        "designated_agent_title": "ASSISTANT TREASURER",
+        "designated_agent_zip": "78734",
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -6693,7 +7107,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6831,7 +7245,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6969,7 +7383,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7107,7 +7521,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7245,7 +7659,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7383,7 +7797,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7521,7 +7935,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7659,7 +8073,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7797,7 +8211,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7935,7 +8349,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8073,7 +8487,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8211,7 +8625,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8349,7 +8763,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8487,7 +8901,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8625,7 +9039,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8763,7 +9177,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8901,7 +9315,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9039,7 +9453,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9177,7 +9591,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9315,7 +9729,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9453,7 +9867,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9591,7 +10005,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9729,7 +10143,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9867,7 +10281,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10005,7 +10419,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10143,7 +10557,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10281,7 +10695,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10419,7 +10833,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10557,7 +10971,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10695,7 +11109,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10833,7 +11247,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10971,7 +11385,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11109,7 +11523,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11247,7 +11661,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11385,7 +11799,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11523,7 +11937,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11661,7 +12075,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11799,7 +12213,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11937,7 +12351,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12075,7 +12489,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12213,7 +12627,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12351,7 +12765,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12489,7 +12903,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12627,7 +13041,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12765,7 +13179,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12903,7 +13317,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -13041,7 +13455,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73359,
+        "idx": 73360,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
