@@ -1,59 +1,7 @@
 {
   "fec_id": "H6OH10121",
   "name": "KNICKERBOCKER, KRISTINA",
-  "fetched_at": "2026-11-12T23:17:44.204714+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 28.02,
-      "candidate_election_year": 2026,
-      "candidate_id": "H6OH10121",
-      "contribution_refunds": 8470.67,
-      "contributions": 990952.84,
-      "coverage_end_date": "2026-10-14T00:00:00",
-      "coverage_start_date": "2026-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 882432.93,
-      "election_full": false,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 900424.82,
-      "individual_itemized_contributions": 673757.68,
-      "individual_unitemized_contributions": 226667.14,
-      "last_beginning_image_number": "202610229940999533",
-      "last_cash_on_hand_end_period": 133444.92,
-      "last_debts_owed_by_committee": 18040.5,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 132650.53,
-      "last_net_operating_expenditures": 294897.41,
-      "last_report_type_full": "PRE-GENERAL",
-      "last_report_year": 2026,
-      "loan_repayments": 7000.0,
-      "loan_repayments_candidate_loans": 7000.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 7000.0,
-      "loans_made_by_candidate": 7000.0,
-      "net_contributions": 982482.17,
-      "net_operating_expenditures": 859302.25,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 60.01,
-      "operating_expenditures": 859362.26,
-      "other_disbursements": 7600.0,
-      "other_political_committee_contributions": 90500.0,
-      "other_receipts": 0.0,
-      "political_party_committee_contributions": 0.0,
-      "receipts": 1015877.85,
-      "refunded_individual_contributions": 8470.67,
-      "refunded_other_political_committee_contributions": 0.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-06-30T00:00:00",
-      "transfers_from_other_authorized_committee": 17865.0,
-      "transfers_to_other_authorized_committee": 0.0
-    }
-  ],
+  "fetched_at": "2026-11-13T05:13:06.318900+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -12609,6 +12557,12 @@
           "state": "NY"
         }
       ]
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H6OH10121/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
