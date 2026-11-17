@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH01138",
   "name": "CONROY, ERIC",
-  "fetched_at": "2026-11-17T01:37:26.000582+00:00",
+  "fetched_at": "2026-11-17T15:31:35.080084+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -303,15 +303,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
+        "designated_agent_city": "MACOMB",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": "MI",
+        "designated_agent_street1": "48241 CENTURY DR",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
@@ -579,15 +579,15 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
+        "designated_agent_city": "MACOMB",
         "designated_agent_first_name": "DONALD",
         "designated_agent_last_name": "EASON",
         "designated_agent_middle_name": null,
         "designated_agent_name": "EASON, DONALD",
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": "MI",
+        "designated_agent_street1": "48241 CENTURY DR",
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
         "designated_agent_title": "CHAIR",
