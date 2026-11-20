@@ -1,7 +1,7 @@
 {
   "fec_id": "C00912311",
   "name": "CONROY FOR CONGRESS",
-  "fetched_at": "2026-11-20T00:20:17.941112+00:00",
+  "fetched_at": "2026-11-20T14:55:22.365551+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -2811,7 +2811,7 @@
           2024,
           2026
         ],
-        "designated_agent_city": "TYSONS",
+        "designated_agent_city": "ARLINGTON",
         "designated_agent_first_name": "KAYLA",
         "designated_agent_last_name": "GLAZE",
         "designated_agent_middle_name": null,
@@ -2819,11 +2819,11 @@
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
         "designated_agent_state": "VA",
-        "designated_agent_street1": "1775 TYSONS BLVD",
-        "designated_agent_street2": "SUITE 6193",
+        "designated_agent_street1": "2221 SOUTH CLARK STREET",
+        "designated_agent_street2": "12TH FLOOR",
         "designated_agent_suffix": null,
         "designated_agent_title": "ASSISTANT TREASURER",
-        "designated_agent_zip": "22102",
+        "designated_agent_zip": "22202",
         "designation": "B",
         "designation_full": "Lobbyist/Registrant PAC",
         "filing_frequency": "M",
@@ -3447,7 +3447,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2024-04-30",
-        "last_file_date": "2026-10-21",
+        "last_file_date": "2026-11-19",
         "name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
         "organization_type": null,
         "organization_type_full": null,

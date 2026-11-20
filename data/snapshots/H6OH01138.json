@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH01138",
   "name": "CONROY, ERIC",
-  "fetched_at": "2026-11-20T00:20:21.642853+00:00",
+  "fetched_at": "2026-11-20T14:55:23.916995+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -340,7 +340,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -373,19 +373,19 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "DONALD",
-        "designated_agent_last_name": "EASON",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "EASON, DONALD",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "CHAIR",
-        "designated_agent_zip": "20045",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -478,7 +478,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -616,7 +616,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -649,19 +649,19 @@
         "cycles_has_financial": [
           2026
         ],
-        "designated_agent_city": "WASHINGTON",
-        "designated_agent_first_name": "DONALD",
-        "designated_agent_last_name": "EASON",
+        "designated_agent_city": null,
+        "designated_agent_first_name": null,
+        "designated_agent_last_name": null,
         "designated_agent_middle_name": null,
-        "designated_agent_name": "EASON, DONALD",
+        "designated_agent_name": null,
         "designated_agent_phone_number": null,
         "designated_agent_prefix": null,
-        "designated_agent_state": "DC",
-        "designated_agent_street1": "529 14TH ST NW #642",
+        "designated_agent_state": null,
+        "designated_agent_street1": null,
         "designated_agent_street2": null,
         "designated_agent_suffix": null,
-        "designated_agent_title": "CHAIR",
-        "designated_agent_zip": "20045",
+        "designated_agent_title": null,
+        "designated_agent_zip": null,
         "designation": "U",
         "designation_full": "Unauthorized",
         "filing_frequency": "Q",
@@ -754,7 +754,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -895,7 +895,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1042,7 +1042,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1186,7 +1186,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1330,7 +1330,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1474,7 +1474,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1621,7 +1621,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1762,7 +1762,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -1900,7 +1900,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2038,7 +2038,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2182,7 +2182,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2258,7 +2258,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -2341,7 +2341,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2417,7 +2417,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -2500,7 +2500,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2576,7 +2576,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -2659,7 +2659,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2735,7 +2735,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -2818,7 +2818,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -2959,7 +2959,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3100,7 +3100,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3238,7 +3238,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3376,7 +3376,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3514,7 +3514,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3655,7 +3655,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3793,7 +3793,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -3931,7 +3931,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4078,7 +4078,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4225,7 +4225,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4366,7 +4366,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4504,7 +4504,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4642,7 +4642,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4780,7 +4780,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -4921,7 +4921,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5062,7 +5062,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5200,7 +5200,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5338,7 +5338,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5476,7 +5476,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5614,7 +5614,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5752,7 +5752,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -5893,7 +5893,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6031,7 +6031,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6172,7 +6172,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6313,7 +6313,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6460,7 +6460,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6607,7 +6607,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6754,7 +6754,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -6895,7 +6895,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7036,7 +7036,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7177,7 +7177,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7315,7 +7315,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7453,7 +7453,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7591,7 +7591,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7729,7 +7729,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -7867,7 +7867,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8005,7 +8005,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8143,7 +8143,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8281,7 +8281,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8419,7 +8419,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8557,7 +8557,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8695,7 +8695,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8833,7 +8833,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -8971,7 +8971,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9109,7 +9109,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9247,7 +9247,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9385,7 +9385,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9523,7 +9523,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9661,7 +9661,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9799,7 +9799,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -9937,7 +9937,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10075,7 +10075,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10213,7 +10213,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10351,7 +10351,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10489,7 +10489,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10627,7 +10627,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10765,7 +10765,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -10903,7 +10903,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11041,7 +11041,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11179,7 +11179,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11317,7 +11317,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11455,7 +11455,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11593,7 +11593,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11731,7 +11731,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -11869,7 +11869,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12007,7 +12007,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12145,7 +12145,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12283,7 +12283,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12421,7 +12421,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12559,7 +12559,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12697,7 +12697,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12835,7 +12835,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -12973,7 +12973,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -13111,7 +13111,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -13249,7 +13249,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -13387,7 +13387,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",
@@ -13525,7 +13525,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH01138",
-        "idx": 73360,
+        "idx": 73361,
         "two_year_period": "2026"
       },
       "candidate_first_name": "ERIC",

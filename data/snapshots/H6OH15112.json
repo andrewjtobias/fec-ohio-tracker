@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH15112",
   "name": "LEONARD, DON RALPH",
-  "fetched_at": "2026-11-20T00:25:10.589895+00:00",
+  "fetched_at": "2026-11-20T15:00:41.134460+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -62,6 +62,78 @@
         -1000520,
         1958239,
         2001548,
+        2005910,
+        2048605
+      ],
+      "amendment_indicator": "N",
+      "amendment_version": 5,
+      "bank_depository_city": null,
+      "bank_depository_name": null,
+      "bank_depository_state": null,
+      "bank_depository_street_1": null,
+      "bank_depository_street_2": null,
+      "bank_depository_zip": null,
+      "beginning_image_number": "202611199945481001",
+      "candidate_id": "H6OH15112",
+      "candidate_name": "LEONARD, DON RALPH",
+      "cash_on_hand_beginning_period": null,
+      "cash_on_hand_end_period": null,
+      "committee_id": "H6OH15112",
+      "committee_name": null,
+      "committee_type": null,
+      "coverage_end_date": null,
+      "coverage_start_date": null,
+      "csv_url": "https://docquery.fec.gov/csv/605/2048605.csv",
+      "cycle": 2026,
+      "debts_owed_by_committee": null,
+      "debts_owed_to_committee": null,
+      "document_description": "Statement of Candidacy 2026",
+      "document_type": null,
+      "document_type_full": null,
+      "election_year": 2028,
+      "ending_image_number": "202611199945481002",
+      "fec_file_id": "FEC-2048605",
+      "fec_url": "https://docquery.fec.gov/dcdev/posted/2048605.fec",
+      "file_number": 2048605,
+      "form_category": "STATEMENT",
+      "form_type": "F2",
+      "house_personal_funds": null,
+      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H6OH15112/2048605/",
+      "is_amended": false,
+      "means_filed": "e-file",
+      "most_recent": true,
+      "most_recent_file_number": 2048605,
+      "net_donations": null,
+      "office": "H",
+      "opposition_personal_funds": null,
+      "pages": 2,
+      "party": "DEM",
+      "pdf_url": "https://docquery.fec.gov/pdf/001/202611199945481001/202611199945481001.pdf",
+      "previous_file_number": 2005910,
+      "primary_general_indicator": null,
+      "receipt_date": "2026-11-19T00:00:00",
+      "report_type": null,
+      "report_type_full": null,
+      "report_year": 2026,
+      "request_type": null,
+      "senate_personal_funds": null,
+      "state": "OH",
+      "sub_id": "4111920261713350015",
+      "total_communication_cost": null,
+      "total_disbursements": null,
+      "total_independent_expenditures": null,
+      "total_individual_contributions": null,
+      "total_receipts": null,
+      "treasurer_name": "LEONARD, DON RALPH",
+      "update_date": "2026-11-19"
+    },
+    {
+      "additional_bank_names": null,
+      "amendment_chain": [
+        1906278,
+        -1000520,
+        1958239,
+        2001548,
         2005910
       ],
       "amendment_indicator": "A",
@@ -98,10 +170,10 @@
       "form_type": "F2",
       "house_personal_funds": null,
       "html_url": "https://docquery.fec.gov/cgi-bin/forms/H6OH15112/2005910/",
-      "is_amended": false,
+      "is_amended": true,
       "means_filed": "e-file",
-      "most_recent": true,
-      "most_recent_file_number": 2005910,
+      "most_recent": false,
+      "most_recent_file_number": 2048605,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -171,7 +243,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 2005910,
+      "most_recent_file_number": 2048605,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -240,7 +312,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 2005910,
+      "most_recent_file_number": 2048605,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -307,7 +379,7 @@
       "is_amended": true,
       "means_filed": "e-file",
       "most_recent": false,
-      "most_recent_file_number": 2005910,
+      "most_recent_file_number": 2048605,
       "net_donations": null,
       "office": "H",
       "opposition_personal_funds": null,
@@ -331,73 +403,6 @@
       "total_receipts": null,
       "treasurer_name": null,
       "update_date": "2025-12-29"
-    },
-    {
-      "additional_bank_names": null,
-      "amendment_chain": [
-        1906278
-      ],
-      "amendment_indicator": "N",
-      "amendment_version": 0,
-      "bank_depository_city": null,
-      "bank_depository_name": null,
-      "bank_depository_state": null,
-      "bank_depository_street_1": null,
-      "bank_depository_street_2": null,
-      "bank_depository_zip": null,
-      "beginning_image_number": "202507269764235853",
-      "candidate_id": "H6OH15112",
-      "candidate_name": "LEONARD, DON RALPH",
-      "cash_on_hand_beginning_period": null,
-      "cash_on_hand_end_period": null,
-      "committee_id": "H6OH15112",
-      "committee_name": null,
-      "committee_type": null,
-      "coverage_end_date": null,
-      "coverage_start_date": null,
-      "csv_url": "https://docquery.fec.gov/csv/278/1906278.csv",
-      "cycle": 2026,
-      "debts_owed_by_committee": null,
-      "debts_owed_to_committee": null,
-      "document_description": "Statement of Candidacy 2025",
-      "document_type": null,
-      "document_type_full": null,
-      "election_year": 2026,
-      "ending_image_number": "202507269764235853",
-      "fec_file_id": "FEC-1906278",
-      "fec_url": "https://docquery.fec.gov/dcdev/posted/1906278.fec",
-      "file_number": 1906278,
-      "form_category": "STATEMENT",
-      "form_type": "F2",
-      "house_personal_funds": null,
-      "html_url": "https://docquery.fec.gov/cgi-bin/forms/H6OH15112/1906278/",
-      "is_amended": true,
-      "means_filed": "e-file",
-      "most_recent": false,
-      "most_recent_file_number": 2005910,
-      "net_donations": null,
-      "office": "H",
-      "opposition_personal_funds": null,
-      "pages": 1,
-      "party": "DEM",
-      "pdf_url": "https://docquery.fec.gov/pdf/853/202507269764235853/202507269764235853.pdf",
-      "previous_file_number": 1906278,
-      "primary_general_indicator": null,
-      "receipt_date": "2025-07-26T00:00:00",
-      "report_type": null,
-      "report_type_full": null,
-      "report_year": 2025,
-      "request_type": null,
-      "senate_personal_funds": null,
-      "state": "OH",
-      "sub_id": "4072620251211965007",
-      "total_communication_cost": null,
-      "total_disbursements": null,
-      "total_independent_expenditures": null,
-      "total_individual_contributions": null,
-      "total_receipts": null,
-      "treasurer_name": "LEONARD, DON RALPH",
-      "update_date": "2025-07-26"
     }
   ],
   "schedule_e_target": [
@@ -410,7 +415,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -548,7 +553,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -686,7 +691,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -824,7 +829,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -962,7 +967,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1100,7 +1105,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1238,7 +1243,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1376,7 +1381,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1514,7 +1519,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1652,7 +1657,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -1669,7 +1674,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREY VICTORY FUND",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -1790,7 +1795,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -1928,7 +1933,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2066,7 +2071,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2204,7 +2209,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2342,7 +2347,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -2480,7 +2485,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2618,7 +2623,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2756,7 +2761,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -2894,7 +2899,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -3032,7 +3037,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -3170,7 +3175,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -3314,7 +3319,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3331,7 +3336,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -3461,7 +3466,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3478,7 +3483,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -3608,7 +3613,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -3625,7 +3630,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -3755,7 +3760,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -3772,7 +3777,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREY VICTORY FUND",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -3893,7 +3898,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4031,7 +4036,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4169,7 +4174,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4307,7 +4312,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4445,7 +4450,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4583,7 +4588,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4721,7 +4726,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -4862,7 +4867,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -4938,7 +4943,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -5021,7 +5026,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5038,7 +5043,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -5168,7 +5173,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -5309,7 +5314,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5447,7 +5452,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5585,7 +5590,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5723,7 +5728,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -5861,7 +5866,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6002,7 +6007,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6143,7 +6148,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -6219,7 +6224,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -6302,7 +6307,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6440,7 +6445,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6578,7 +6583,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6719,7 +6724,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -6857,7 +6862,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -6995,7 +7000,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7133,7 +7138,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7150,7 +7155,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -7280,7 +7285,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7297,7 +7302,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -7427,7 +7432,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -7444,7 +7449,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -7574,7 +7579,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -7712,7 +7717,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -7850,7 +7855,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -7988,7 +7993,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -8126,7 +8131,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -8276,7 +8281,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -8293,7 +8298,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -8423,7 +8428,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -8440,7 +8445,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -8570,7 +8575,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -8711,7 +8716,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -8787,7 +8792,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -8870,7 +8875,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -8946,7 +8951,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-10-16",
-        "last_file_date": "2026-11-01",
+        "last_file_date": "2026-11-19",
         "name": "HMP",
         "organization_type": null,
         "organization_type_full": null,
@@ -9029,7 +9034,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9167,7 +9172,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9311,7 +9316,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -9461,7 +9466,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9602,7 +9607,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9740,7 +9745,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -9878,7 +9883,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10022,7 +10027,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10160,7 +10165,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10298,7 +10303,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -10315,7 +10320,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -10445,7 +10450,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10583,7 +10588,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10721,7 +10726,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10738,7 +10743,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREY VICTORY FUND",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -10859,7 +10864,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -10997,7 +11002,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -11147,7 +11152,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -11285,7 +11290,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -11302,7 +11307,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREY VICTORY FUND",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -11423,7 +11428,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -11440,7 +11445,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREY VICTORY FUND",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -11561,7 +11566,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -11578,7 +11583,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREY VICTORY FUND",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -11699,7 +11704,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -11716,7 +11721,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREY VICTORY FUND",
         "candidate_ids": [],
         "city": "ALEXANDRIA",
         "committee_id": "C00903559",
@@ -11837,7 +11842,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -11975,7 +11980,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -12116,7 +12121,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12266,7 +12271,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12283,7 +12288,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -12413,7 +12418,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12430,7 +12435,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -12560,7 +12565,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -12698,7 +12703,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -12836,7 +12841,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -12998,7 +13003,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13160,7 +13165,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13322,7 +13327,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -13460,7 +13465,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13598,7 +13603,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -13653,7 +13658,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-11-02",
+        "last_file_date": "2026-11-19",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -13736,7 +13741,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -13877,7 +13882,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14018,7 +14023,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -14177,7 +14182,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -14336,7 +14341,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14477,7 +14482,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -14618,7 +14623,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -14635,7 +14640,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -14765,7 +14770,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -14782,7 +14787,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -14912,7 +14917,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -15053,7 +15058,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -15191,7 +15196,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -15329,7 +15334,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -15467,7 +15472,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15617,7 +15622,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -15767,7 +15772,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -15911,7 +15916,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16049,7 +16054,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16187,7 +16192,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16325,7 +16330,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16469,7 +16474,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -16619,7 +16624,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -16769,7 +16774,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -16910,7 +16915,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -17051,7 +17056,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -17192,7 +17197,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -17336,7 +17341,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17353,7 +17358,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -17483,7 +17488,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17500,7 +17505,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -17630,7 +17635,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17647,7 +17652,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -17777,7 +17782,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17794,7 +17799,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -17924,7 +17929,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -17941,7 +17946,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "NONE",
+        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -18071,7 +18076,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -18215,7 +18220,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -18270,7 +18275,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-11-02",
+        "last_file_date": "2026-11-19",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -18353,7 +18358,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -18408,7 +18413,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-07-02",
-        "last_file_date": "2026-11-02",
+        "last_file_date": "2026-11-19",
         "name": "FIELD TEAM 6, INC.",
         "organization_type": null,
         "organization_type_full": null,
@@ -18491,7 +18496,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -18632,7 +18637,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -18773,7 +18778,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -18914,7 +18919,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -19055,7 +19060,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON RALPH",
@@ -19196,7 +19201,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -19337,7 +19342,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -19478,7 +19483,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -19619,7 +19624,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
@@ -19760,7 +19765,7 @@
       "back_reference_transaction_id": null,
       "candidate": {
         "candidate_id": "H6OH15112",
-        "idx": 74005,
+        "idx": 74006,
         "two_year_period": "2026"
       },
       "candidate_first_name": "DON",
