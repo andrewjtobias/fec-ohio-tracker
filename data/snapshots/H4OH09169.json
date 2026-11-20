@@ -1,59 +1,7 @@
 {
   "fec_id": "H4OH09169",
   "name": "MERRIN, DEREK",
-  "fetched_at": "2026-11-19T15:35:00.166958+00:00",
-  "totals": [
-    {
-      "all_other_loans": 0.0,
-      "candidate_contribution": 0.0,
-      "candidate_election_year": 2026,
-      "candidate_id": "H4OH09169",
-      "contribution_refunds": 5786.02,
-      "contributions": 1084195.01,
-      "coverage_end_date": "2026-10-14T00:00:00",
-      "coverage_start_date": "2025-01-01T00:00:00",
-      "cycle": 2026,
-      "disbursements": 1845005.57,
-      "election_full": false,
-      "exempt_legal_accounting_disbursement": 0.0,
-      "federal_funds": 0.0,
-      "fundraising_disbursements": 0.0,
-      "individual_contributions": 803995.01,
-      "individual_itemized_contributions": 678696.89,
-      "individual_unitemized_contributions": 125298.12,
-      "last_beginning_image_number": "202507159763223891",
-      "last_cash_on_hand_end_period": 449466.16,
-      "last_debts_owed_by_committee": 37215.73,
-      "last_debts_owed_to_committee": 0.0,
-      "last_net_contributions": 116856.15,
-      "last_net_operating_expenditures": 495887.73,
-      "last_report_type_full": "TERMINATION REPORT",
-      "last_report_year": 2026,
-      "loan_repayments": 310000.0,
-      "loan_repayments_candidate_loans": 310000.0,
-      "loan_repayments_other_loans": 0.0,
-      "loans": 310000.0,
-      "loans_made_by_candidate": 310000.0,
-      "net_contributions": 1078408.99,
-      "net_operating_expenditures": 1258542.15,
-      "offsets_to_fundraising_expenditures": 0.0,
-      "offsets_to_legal_accounting": 0.0,
-      "offsets_to_operating_expenditures": 39.4,
-      "operating_expenditures": 1258581.55,
-      "other_disbursements": 6812.49,
-      "other_political_committee_contributions": 275200.0,
-      "other_receipts": 4816.35,
-      "political_party_committee_contributions": 5000.0,
-      "receipts": 2217820.58,
-      "refunded_individual_contributions": 5786.02,
-      "refunded_other_political_committee_contributions": 0.0,
-      "refunded_political_party_committee_contributions": 0.0,
-      "total_offsets_to_operating_expenditures": 0.0,
-      "transaction_coverage_date": "2026-10-14T00:00:00",
-      "transfers_from_other_authorized_committee": 818769.82,
-      "transfers_to_other_authorized_committee": 263825.51
-    }
-  ],
+  "fetched_at": "2026-11-20T00:23:41.381804+00:00",
   "filings": [
     {
       "additional_bank_names": null,
@@ -30872,6 +30820,12 @@
           "state": "VA"
         }
       ]
+    }
+  ],
+  "errors": [
+    {
+      "step": "totals",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/candidate/H4OH09169/totals/?per_page=10&sort=-cycle&cycle=2026&api_key=REDACTED"
     }
   ]
 }
