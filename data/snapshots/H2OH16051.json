@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH16051",
   "name": "MILLER, MAX",
-  "fetched_at": "2026-11-23T05:55:48.401611+00:00",
+  "fetched_at": "2026-11-23T17:31:02.088290+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -3042,7 +3042,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-03-26",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-22",
         "name": "AMERICAN LIBERTY FOUNDATION",
         "organization_type": null,
         "organization_type_full": null,
@@ -4041,7 +4041,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2026-03-26",
-        "last_file_date": "2026-11-03",
+        "last_file_date": "2026-11-22",
         "name": "AMERICAN LIBERTY FOUNDATION",
         "organization_type": null,
         "organization_type_full": null,
@@ -11809,7 +11809,7 @@
       "category_code": "004",
       "category_code_full": "Advertising Expenses ",
       "committee": {
-        "affiliated_committee_name": "ASSOCIATED BUILDERS & CONTACTORS",
+        "affiliated_committee_name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC.",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00010421",

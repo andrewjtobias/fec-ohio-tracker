@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH09031",
   "name": "KAPTUR, MARCY HON. M.C.",
-  "fetched_at": "2026-11-23T05:54:35.677147+00:00",
+  "fetched_at": "2026-11-23T17:29:42.026244+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -1351,7 +1351,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -1498,7 +1498,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -4450,7 +4450,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -4597,7 +4597,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -4744,7 +4744,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -8476,7 +8476,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -12163,7 +12163,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -12310,7 +12310,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -18754,7 +18754,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -18901,7 +18901,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -27640,7 +27640,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -27787,7 +27787,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -27934,7 +27934,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -28081,7 +28081,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -28228,7 +28228,7 @@
       "category_code": null,
       "category_code_full": null,
       "committee": {
-        "affiliated_committee_name": "CAREGIVERS HOUSE VICTORY FUND",
+        "affiliated_committee_name": "NONE",
         "candidate_ids": [],
         "city": "WASHINGTON",
         "committee_id": "C00744920",
@@ -35628,10 +35628,10 @@
       "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
-      "raised": 917949.2,
+      "raised": 918149.2,
       "spent": 519397.01,
       "transfers": null,
-      "cash_on_hand": 3491468.0,
+      "cash_on_hand": 3491668.0,
       "top_donors": [
         {
           "name": "HOUSE VICTORY PROJECT 2026",

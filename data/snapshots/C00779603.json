@@ -1,7 +1,7 @@
 {
   "fec_id": "C00779603",
   "name": "CAREY FOR CONGRESS",
-  "fetched_at": "2026-11-23T05:51:11.975249+00:00",
+  "fetched_at": "2026-11-23T17:26:23.260269+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -781,7 +781,7 @@
       "contribution_receipt_amount": 2500.0,
       "contribution_receipt_date": "2026-09-30",
       "contributor": {
-        "affiliated_committee_name": "WAWA INC",
+        "affiliated_committee_name": "WAWA, INC. POLITICAL ACTION COMMITTEE",
         "candidate_ids": [],
         "city": "PHILADELPHIA",
         "committee_id": "C00148510",
