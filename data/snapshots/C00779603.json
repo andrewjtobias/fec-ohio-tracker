@@ -1,7 +1,7 @@
 {
   "fec_id": "C00779603",
   "name": "CAREY FOR CONGRESS",
-  "fetched_at": "2026-11-25T01:55:16.023318+00:00",
+  "fetched_at": "2026-11-25T16:49:15.126541+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -5078,8 +5078,8 @@
         "is_active": true,
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
-        "last_f1_date": "2024-07-09",
-        "last_file_date": "2026-10-07",
+        "last_f1_date": "2026-11-24",
+        "last_file_date": "2026-11-24",
         "name": "NATIONAL STRIPPER WELL ASSOCIATION PAC (NSWA PAC)",
         "organization_type": "T",
         "organization_type_full": "Trade Association",
@@ -5089,7 +5089,7 @@
         "state_full": "Oklahoma",
         "street_1": "2313 N BROADWAY",
         "street_2": null,
-        "treasurer_name": "DARRAH, WILL",
+        "treasurer_name": "MULL, JENNIFER",
         "zip": "74820"
       },
       "contributor_aggregate_ytd": 3500.0,

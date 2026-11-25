@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH10121",
   "name": "KNICKERBOCKER, KRISTINA",
-  "fetched_at": "2026-11-25T01:58:54.469423+00:00",
+  "fetched_at": "2026-11-25T16:52:51.194907+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -11330,7 +11330,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-11-12",
+        "last_file_date": "2026-11-23",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -11492,7 +11492,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-11-12",
+        "last_file_date": "2026-11-23",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -11654,7 +11654,7 @@
         "last_cycle_has_activity": 2026,
         "last_cycle_has_financial": 2026,
         "last_f1_date": "2025-09-05",
-        "last_file_date": "2026-11-12",
+        "last_file_date": "2026-11-23",
         "name": "AB PAC",
         "organization_type": null,
         "organization_type_full": null,
@@ -14192,8 +14192,8 @@
       "label": "April Quarterly 2026",
       "coverage_start": "2026-01-01",
       "coverage_end": "2026-03-31",
-      "raised": 115607.37,
-      "spent": 83687.13,
+      "raised": 115579.35,
+      "spent": 83659.11,
       "transfers": null,
       "cash_on_hand": 31920.24,
       "top_donors": [
