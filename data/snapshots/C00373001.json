@@ -1,7 +1,7 @@
 {
   "fec_id": "C00373001",
   "name": "CITIZENS FOR TURNER",
-  "fetched_at": "2026-11-24T16:59:07.177686+00:00",
+  "fetched_at": "2026-11-25T01:55:19.425814+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -20535,5 +20535,10 @@
       "unused_recipient_committee_id": null
     }
   ],
-  "schedule_e": []
+  "errors": [
+    {
+      "step": "schedule_e",
+      "error": "429 Client Error: Too Many Requests for url: https://api.open.fec.gov/v1/schedules/schedule_e/?committee_id=C00373001&per_page=100&sort=-expenditure_date&api_key=REDACTED"
+    }
+  ]
 }
