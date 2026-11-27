@@ -1,7 +1,7 @@
 {
   "fec_id": "H2OH09031",
   "name": "KAPTUR, MARCY HON. M.C.",
-  "fetched_at": "2026-11-27T01:32:49.754874+00:00",
+  "fetched_at": "2026-11-27T16:13:29.919873+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -35628,10 +35628,10 @@
       "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
-      "raised": 917949.2,
+      "raised": 918149.2,
       "spent": 519397.01,
       "transfers": null,
-      "cash_on_hand": 3491468.0,
+      "cash_on_hand": 3491668.0,
       "top_donors": [
         {
           "name": "HOUSE VICTORY PROJECT 2026",

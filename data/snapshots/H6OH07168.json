@@ -1,7 +1,7 @@
 {
   "fec_id": "H6OH07168",
   "name": "POINDEXTER, BRIAN",
-  "fetched_at": "2026-11-27T01:34:08.413101+00:00",
+  "fetched_at": "2026-11-27T16:15:32.836158+00:00",
   "totals": [
     {
       "all_other_loans": 0.0,
@@ -30089,10 +30089,10 @@
       "label": "July Quarterly 2026",
       "coverage_start": "2026-04-16",
       "coverage_end": "2026-06-30",
-      "raised": 386231.31,
-      "spent": 164928.3,
+      "raised": 386040.05,
+      "spent": 165237.04,
       "transfers": null,
-      "cash_on_hand": 312290.17,
+      "cash_on_hand": 311790.17,
       "top_donors": [
         {
           "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
